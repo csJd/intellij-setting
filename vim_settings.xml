@@ -9,13 +9,6 @@
         <mark key="." line="57" column="23" />
         <mark key="^" line="57" column="23" />
       </file>
-      <file name="E:/scut/first_year/algorithm/algs4/algs4.jar!/edu/princeton/cs/algs4/StdIn.java" timestamp="1509674244498" />
-      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509711830501">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="35" />
-        <mark key="^" line="38" column="35" />
-      </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,6 +77,8 @@
         <entry>s/illegal/isIllegal/g</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
