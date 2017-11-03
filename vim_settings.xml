@@ -3,27 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/dev/idea-projects/algs4/src/PercolationStats.java" timestamp="1509709154893">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="57" column="105" />
+      <file name="D:/dev/idea-projects/algs4/src/PercolationStats.java" timestamp="1509712386688">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="57" column="23" />
+        <mark key="." line="57" column="23" />
+        <mark key="^" line="57" column="23" />
       </file>
       <file name="E:/scut/first_year/algorithm/algs4/algs4.jar!/edu/princeton/cs/algs4/StdIn.java" timestamp="1509674244498" />
-      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509698603928">
-        <mark key="[" line="87" column="39" />
-        <mark key="]" line="87" column="39" />
-        <mark key="." line="87" column="39" />
-        <mark key="^" line="87" column="39" />
+      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509711830501">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
+      </file>
+      <file name="/fragment.java" timestamp="1509712258350">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>illegal</text>
@@ -32,31 +35,31 @@
         <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbiA9IGFyZ3NbMV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdHJpYWxzID0gU3RkSW4ucmVhZEludCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYWdbaV1bal0gPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbiA9IFN0ZEluLnJlYWRJbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDE7IGogPD0gbjsgKytqKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBuOyArK2kpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGRyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHJjMnBvcyhpbnQgciwgaW50IGMpIHsKICAgICAgICByZXR1cm4gKHIgLSAxKSAqIG4gKyBjIC0gMTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
