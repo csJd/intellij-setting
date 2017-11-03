@@ -4,20 +4,20 @@
     <globalmarks />
     <filemarks>
       <file name="E:/scut/first_year/algorithm/algs4/algs4.jar!/edu/princeton/cs/algs4/StdIn.java" timestamp="1509674244498" />
-      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509676102283">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="21" />
+      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509696316054">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+        <mark key="^" line="39" column="11" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>java.lang.</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>illegal</text>
@@ -26,28 +26,28 @@
         <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaSA+IDAgJiYgaSA8PSBuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyb3cgPiBuIHx8ICkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcCA9IHJvdyAqIG4gKyBjb2w7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZihwLTEgPiAwICYmIGlzT3BlbigpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
