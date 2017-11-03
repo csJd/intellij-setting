@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="algs4">
+      <CLASSES>
+        <root url="jar://E:/scut/first_year/algorithm/algs4/algs4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://E:/scut/first_year/algorithm/algs4/algs4.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
