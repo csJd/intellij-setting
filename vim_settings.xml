@@ -4,43 +4,75 @@
     <globalmarks />
     <filemarks>
       <file name="E:/scut/first_year/algorithm/algs4/algs4.jar!/edu/princeton/cs/algs4/StdIn.java" timestamp="1509674244498" />
-      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509674204434">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
+      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509676102283">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="21" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>java.lang.</text>
+      </register>
+      <register name="/" type="4">
+        <text>illegal</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaSA+IDAgJiYgaSA8PSBuOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihyb3cgPiBuIHx8ICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>*</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>illegal</last-search>
+      <last-offset />
+      <last-pattern>illegal</last-pattern>
+      <last-replace>isIllegal</last-replace>
+      <last-substitute>illegal</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>%s</entry>
+        <entry>illegal</entry>
+      </history-search>
       <history-cmd>
+        <entry>s/illegal/isIllegal</entry>
+        <entry>s/illegal/isIllegal/g</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
