@@ -3,20 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/dev/idea-projects/algs4/src/PercolationStats.java" timestamp="1509712386688">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="57" column="23" />
-        <mark key="." line="57" column="23" />
-        <mark key="^" line="57" column="23" />
+      <file name="D:/dev/idea-projects/algs4/src/PercolationStats.java" timestamp="1510907234118">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+      </file>
+      <file name="D:/dev/idea-projects/algs4/src/Depue.java" timestamp="1510908127774">
+        <mark key="[" line="43" column="73" />
+        <mark key="]" line="44" column="7" />
+        <mark key="^" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+      </file>
+      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1510908230373">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1510909802842">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -25,34 +45,36 @@
         <text>illegal</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZihpbGxlZ2FsKHJvdykgfHwgaWxsZWdhbChyKSl7CiAgICAgICAgICAgIHRocm93ICBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text>if (size() == 0) {
+            throw new NoSuchElementException();
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYWdbaV1bal0gPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDE7IGogPD0gbjsgKytqKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBuOyArK2kpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGRyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHJjMnBvcyhpbnQgciwgaW50IGMpIHsKICAgICAgICByZXR1cm4gKHIgLSAxKSAqIG4gKyBjIC0gMTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
