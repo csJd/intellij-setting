@@ -27,70 +27,70 @@
       <file name="/a.dummy" timestamp="1510908230373">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511012187327">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="4" column="21" />
+      <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1511010453760">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="60" column="19" />
-        <mark key="^" line="60" column="19" />
+      <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1511014530871">
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="25" />
+        <mark key="." line="101" column="25" />
+        <mark key="^" line="101" column="25" />
       </file>
     </filemarks>
     <jumps>
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
       </register>
       <register name="0" type="4">
-        <text>if (size() == 0) {
+        <text>if (isEmpty()) {
             throw new NoSuchElementException();
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFoYXNOZXh0KCkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RkUmFuZG9tLnNodWZmbGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpbmQgPSBTdGRSYW5kb20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Item/T/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -111,8 +111,8 @@
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
         <entry>s/illegal/isIllegal/g</entry>
-        <entry>w</entry>
         <entry>%s/Item/T/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
