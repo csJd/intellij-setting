@@ -15,6 +15,9 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1511010789736">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="17" />
@@ -24,26 +27,35 @@
       <file name="/a.dummy" timestamp="1510908230373">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511011149035">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="9" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1510910885733">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="66" column="11" />
-        <mark key="." line="66" column="11" />
-        <mark key="^" line="66" column="11" />
+      <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1511010453760">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>illegal</text>
+        <text>Item</text>
       </register>
       <register name="0" type="4">
         <text>if (size() == 0) {
@@ -51,42 +63,42 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihuID09IDApIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggKC0tbikgPT0gKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLm5leHQgPSBudWxsOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLnByZXYgPSBudWxsOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/Item/T/g</text>
       </register>
     </registers>
     <search>
-      <last-search>illegal</last-search>
+      <last-search>Item</last-search>
       <last-offset />
-      <last-pattern>illegal</last-pattern>
-      <last-replace>isIllegal</last-replace>
-      <last-substitute>illegal</last-substitute>
+      <last-pattern>Item</last-pattern>
+      <last-replace>T</last-replace>
+      <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -94,11 +106,13 @@
       <history-search>
         <entry>%s</entry>
         <entry>illegal</entry>
+        <entry>Item</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
         <entry>s/illegal/isIllegal/g</entry>
         <entry>w</entry>
+        <entry>%s/Item/T/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
