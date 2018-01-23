@@ -18,14 +18,19 @@
       <file name="/Dummy.txt" timestamp="1516461277226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/nntest/main.py" timestamp="1516684772548">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="23" column="5" />
-        <mark key="." line="23" column="5" />
+      <file name="E:/learning/ml/nntest/main.py" timestamp="1516688647783">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="11" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1516460533955">
+      <file name="/code.py" timestamp="1516689028836">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1516688540857">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
@@ -58,10 +63,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>%matplotlib inline</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>%matplotlib inline</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -99,7 +104,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -122,6 +127,7 @@
         <entry>s/illegal/isIllegal/g</entry>
         <entry>%s/Item/T/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
