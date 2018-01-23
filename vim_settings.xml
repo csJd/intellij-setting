@@ -18,11 +18,10 @@
       <file name="/Dummy.txt" timestamp="1516461277226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/nntest/main.py" timestamp="1516693592602">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+      <file name="E:/learning/ml/nntest/main.py" timestamp="1516694809255">
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="99" column="15" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="/code.py" timestamp="1516690256439">
         <mark key="[" line="0" column="0" />
@@ -64,10 +63,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3N0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -78,32 +77,32 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3N0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>tuple
         the size of the input/hidden/output layer</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG5feSAtLSB0aGUgc2l6ZSBvZiB0aGUgb3V0cHV0IGxheWVyCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5faCAtLSB0aGUgc2l6ZSBvZiB0aGUgaGlkZGVuIGxheWVyCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5feTogdGhlIHNpemUgb2YgdGhlIG91dHB1dCBsYXllcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
