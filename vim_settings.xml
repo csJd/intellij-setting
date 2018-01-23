@@ -18,11 +18,13 @@
       <file name="/Dummy.txt" timestamp="1516461277226">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/nntest/main.py" timestamp="1516690121663">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="E:/learning/ml/nntest/main.py" timestamp="1516693592602">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+        <mark key="^" line="45" column="25" />
       </file>
-      <file name="/code.py" timestamp="1516689028836">
+      <file name="/code.py" timestamp="1516690256439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1516690238950">
@@ -62,10 +64,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>%matplotlib inline</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -76,34 +78,35 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFoYXNOZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RkUmFuZG9tLnNodWZmbGUoKQo=</text>
+      <register name="4" type="4">
+        <text>tuple
+        the size of the input/hidden/output layer</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpbmQgPSBTdGRSYW5kb20K</text>
+        <text encoding="base64">ICAgIG5feSAtLSB0aGUgc2l6ZSBvZiB0aGUgb3V0cHV0IGxheWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcgo=</text>
+        <text encoding="base64">ICAgIG5faCAtLSB0aGUgc2l6ZSBvZiB0aGUgaGlkZGVuIGxheWVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIG5feTogdGhlIHNpemUgb2YgdGhlIG91dHB1dCBsYXllcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -125,8 +128,8 @@
         <entry>s/illegal/isIllegal</entry>
         <entry>s/illegal/isIllegal/g</entry>
         <entry>%s/Item/T/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
