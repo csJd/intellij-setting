@@ -24,6 +24,12 @@
         <mark key="^" line="40" column="3" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="D:/dev/pyc-projects/word2vec/word2vec.py" timestamp="1516766731880">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="12" />
+        <mark key="." line="39" column="12" />
+        <mark key="^" line="39" column="12" />
+      </file>
       <file name="/code.py" timestamp="1516690256439">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,11 +75,11 @@
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG0gPSBzaGFwZV9YWzFdCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -111,7 +117,7 @@
         <text encoding="base64">ICAgICAgICB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -135,6 +141,7 @@
         <entry>%s/Item/T/g</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
