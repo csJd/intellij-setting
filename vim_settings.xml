@@ -56,12 +56,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/pyc-projects/test/quick_sort.py" timestamp="1516690249514" />
-      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516888590030">
-        <mark key="'" line="53" column="39" />
-        <mark key="[" line="128" column="42" />
-        <mark key="]" line="128" column="43" />
-        <mark key="." line="128" column="43" />
-        <mark key="^" line="128" column="40" />
+      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516889354407">
+        <mark key="'" line="55" column="39" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="148" column="16" />
       </file>
       <file name="E:/learning/ml/nntest/w2v.py" timestamp="1516766361733">
         <mark key="[" line="0" column="0" />
@@ -102,44 +102,44 @@
       <jump line="53" column="39" filename="E:/learning/ml/webd/nnw2v.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGFiZWxzLCB2b2NhYnMsIG1heGxlbiA9IGxvYWRWb2NhYihkYXRhX3VybCkKICAgIFcxLCBiMSwgVzIsIGIyID0gaW5pdGlhbGl6ZV9wYXJhbWV0ZXJzKHZlY3Rvcl9kZW0sIDEsIDEpCgogICAgbnAucmFuZG9tLnNlZWQoMSkKICAgIHdvcmRfdmVjdG9ycyA9IFt7J3Rlc3QnOiBsaXN0KCl9XQogICAgZm9yIHdvcmQgaW4gdm9jYWJzOgogICAgICAgIHdvcmRfdmVjdG9ycy5hcHBlbmQoe3dvcmQ6IGxpc3QobnAucmFuZG9tLnJhbmRuKHZlY3Rvcl9kZW0pKX0pCg==</text>
+        <text encoding="base64">VzEsIGIxLCBXMiwgYjIgPSBwYXJhbWV0ZXJzCgogICAgIyBGb3J3YXJkIHByb3BhZ2F0aW9uCiAgICBaMSA9IFcxLmRvdChYKSArIGIxCiAgICBBMSA9IG5wLnRhbmgoWjEpCiAgICBaMiA9IFcyLmRvdChBMSkgKyBiMgogICAgQTIgPSBzaWdtb2lkKFoyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHggPSBYLnJlc2hhcGUodmVjdG9yX2RlbSptYXhsZW4sIC0xKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBYID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIEEyLCBfID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFfdXJsID0gImRhdGFzZXQvcjgtdHJhaW4tc3RlbW1lZC50eHQiCg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ3Byb2JzID0gbnAubG9nKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHggPSBYLnJlc2hhcGUodmVjdG9yX2RlbSptYXhsZW4sIC0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
