@@ -77,9 +77,17 @@
         <mark key="." line="101" column="25" />
         <mark key="^" line="101" column="25" />
       </file>
+      <file name="E:/learning/ml/cs224n18/assignment1/softmax.py" timestamp="1516862443042">
+        <mark key="'" line="78" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="86" column="18" />
+        <mark key="^" line="86" column="18" />
+        <mark key="." line="86" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
+      <jump line="78" column="18" filename="E:/learning/ml/cs224n18/assignment1/softmax.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -124,7 +132,7 @@
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq!</text>
       </register>
     </registers>
     <search>
@@ -149,6 +157,7 @@
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wq!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
