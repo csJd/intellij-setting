@@ -55,11 +55,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/pyc-projects/test/quick_sort.py" timestamp="1516690249514" />
-      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516868507666">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="35" column="22" />
+      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516871014321">
+        <mark key="i" line="12" column="4" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="12" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="63" column="32" />
       </file>
       <file name="E:/learning/ml/nntest/w2v.py" timestamp="1516766361733">
         <mark key="[" line="0" column="0" />
@@ -96,11 +97,11 @@
       <jump line="78" column="18" filename="E:/learning/ml/cs224n18/assignment1/softmax.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -114,13 +115,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHggPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5ID0gMCBpZiBzcF9saW5lWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -129,13 +130,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHkgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFggPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq!</text>
