@@ -55,12 +55,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/pyc-projects/test/quick_sort.py" timestamp="1516690249514" />
-      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516871014321">
-        <mark key="i" line="12" column="4" />
-        <mark key="[" line="63" column="12" />
-        <mark key="]" line="63" column="12" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="32" />
+      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516874954720">
+        <mark key="i" line="15" column="4" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="E:/learning/ml/nntest/w2v.py" timestamp="1516766361733">
         <mark key="[" line="0" column="0" />
@@ -97,19 +97,17 @@
       <jump line="78" column="18" filename="E:/learning/ml/cs224n18/assignment1/softmax.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
       </register>
       <register name="0" type="4">
-        <text>if (isEmpty()) {
-            throw new NoSuchElementException();
-        }</text>
+        <text>&quot;dataset/r8-train-stemmed.txt&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -121,7 +119,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ZGVmIG1vZGVsKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -136,10 +134,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBYLnJlMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -163,8 +161,8 @@
         <entry>%s/Item/T/g</entry>
         <entry>wq</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
