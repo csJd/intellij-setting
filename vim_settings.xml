@@ -31,10 +31,16 @@
         <mark key="^" line="39" column="12" />
       </file>
       <file name="E:/learning/ml/webd/dataset/r8-test-stemmed.txt" timestamp="1516775547630" />
+      <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516863789711">
+        <mark key="[" line="56" column="9" />
+        <mark key="]" line="56" column="9" />
+        <mark key="." line="56" column="9" />
+        <mark key="^" line="84" column="34" />
+      </file>
       <file name="/code.py" timestamp="1516690256439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516695784450">
+      <file name="/Python Console" timestamp="1516863982269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -90,11 +96,11 @@
       <jump line="78" column="18" filename="E:/learning/ml/cs224n18/assignment1/softmax.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -108,7 +114,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -120,16 +126,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHBhcmFtZXRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ZGVmIHBhcmFtZXRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq!</text>
