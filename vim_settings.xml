@@ -40,12 +40,6 @@
       <file name="/code.py" timestamp="1516690256439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516886034193">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="17" />
@@ -56,12 +50,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/pyc-projects/test/quick_sort.py" timestamp="1516690249514" />
-      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516889354407">
-        <mark key="'" line="55" column="39" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="148" column="16" />
+      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516891637842">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="181" column="32" />
+        <mark key="]" line="181" column="34" />
+        <mark key="." line="181" column="34" />
+        <mark key="^" line="181" column="34" />
       </file>
       <file name="E:/learning/ml/nntest/w2v.py" timestamp="1516766361733">
         <mark key="[" line="0" column="0" />
@@ -100,55 +94,56 @@
       <jump line="103" column="6" filename="E:/learning/ml/webd/nnw2v.py" />
       <jump line="133" column="31" filename="E:/learning/ml/webd/nnw2v.py" />
       <jump line="53" column="39" filename="E:/learning/ml/webd/nnw2v.py" />
+      <jump line="47" column="4" filename="E:/learning/ml/webd/nnw2v.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>get</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VzEsIGIxLCBXMiwgYjIgPSBwYXJhbWV0ZXJzCgogICAgIyBGb3J3YXJkIHByb3BhZ2F0aW9uCiAgICBaMSA9IFcxLmRvdChYKSArIGIxCiAgICBBMSA9IG5wLnRhbmgoWjEpCiAgICBaMiA9IFcyLmRvdChBMSkgKyBiMgogICAgQTIgPSBzaWdtb2lkKFoyKQo=</text>
+        <text encoding="base64">bGFiZWxzLCB2b2NhYnMsIG1heGxlbiA9IGxvYWRWb2NhYihkYXRhX3VybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlc3RfdXJsID0gImRhdGFzZXQvcjgtdGVzdC1zdGVtbWVkLnR4dCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3b3JkX3ZlY3RvcnMuCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEEyLCBfID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJkb25lIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
+        <text encoding="base64">ICAgICAgICBucC5yYW5kb20uc2VlZCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KG1heGxlbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHggPSBYLnJlc2hhcGUodmVjdG9yX2RlbSptYXhsZW4sIC0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
@@ -160,6 +155,7 @@
         <entry>illegal</entry>
         <entry>Item</entry>
         <entry>load</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
