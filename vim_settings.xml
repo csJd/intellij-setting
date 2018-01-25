@@ -55,11 +55,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/pyc-projects/test/quick_sort.py" timestamp="1516690249514" />
-      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516778119240">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
+      <file name="E:/learning/ml/webd/nnw2v.py" timestamp="1516866599698">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="E:/learning/ml/nntest/w2v.py" timestamp="1516766361733">
         <mark key="[" line="0" column="0" />
@@ -96,8 +96,8 @@
       <jump line="78" column="18" filename="E:/learning/ml/cs224n18/assignment1/softmax.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpdGggb3Blbih1cmwsICdyJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -111,13 +111,13 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbih1cmwsICdyJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -129,10 +129,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHBhcmFtZXRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
