@@ -15,10 +15,10 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516461623977">
+      <file name="/Dummy.txt" timestamp="1516931170009">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516897210842">
+      <file name="/Python Console" timestamp="1516931177357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
@@ -29,6 +29,12 @@
       </file>
       <file name="/a.dummy" timestamp="1510908230373">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/src/nnw2v/nnw2v.py" timestamp="1516931122174">
+        <mark key="[" line="179" column="24" />
+        <mark key="]" line="179" column="24" />
+        <mark key="." line="179" column="24" />
+        <mark key="^" line="179" column="24" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
         <mark key="'" line="46" column="13" />
@@ -75,28 +81,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIqKioqKiIsIGxlbihYKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY250ID0gIiwgY250KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImNudCA9ICIsIGNudCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZF92ZWN0b3JzW10gPSBYW2NudF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiY250ID0gIiwgY250KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIqKioqKiIsIGxlbihYKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiY250ID0gIiwgY250KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImNudCA9ICIsIGNudCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd29yZF92ZWN0b3JzW10gPSBYW2NudF0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICgiKioqKioiLCBYLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiY250ID0gIiwgY250KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFoYXNOZXh0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
