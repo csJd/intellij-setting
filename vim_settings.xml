@@ -18,11 +18,11 @@
       <file name="/Dummy.txt" timestamp="1516461623977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516944176088">
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="34" />
-        <mark key="^" line="37" column="34" />
-        <mark key="." line="37" column="34" />
+      <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516951610502">
+        <mark key="[" line="35" column="66" />
+        <mark key="]" line="35" column="68" />
+        <mark key="^" line="35" column="68" />
+        <mark key="." line="35" column="68" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
@@ -55,10 +55,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
