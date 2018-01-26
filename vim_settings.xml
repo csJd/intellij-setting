@@ -48,10 +48,12 @@
         <mark key="." line="43" column="25" />
         <mark key="^" line="43" column="25" />
       </file>
-      <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516973876301">
-        <mark key="[" line="214" column="12" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516974908143">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="184" column="23" />
+        <mark key="]" line="184" column="25" />
+        <mark key="." line="184" column="25" />
+        <mark key="^" line="184" column="25" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516966837804">
         <mark key="[" line="96" column="15" />
@@ -77,57 +79,60 @@
     </filemarks>
     <jumps>
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
+      <jump line="49" column="21" filename="E:/learning/ml/nnw2v/nnw2v.py" />
+      <jump line="48" column="13" filename="E:/learning/ml/nnw2v/nnw2v.py" />
+      <jump line="62" column="42" filename="E:/learning/ml/nnw2v/nnw2v.py" />
+      <jump line="162" column="13" filename="E:/learning/ml/nnw2v/nnw2v.py" />
+      <jump line="172" column="0" filename="E:/learning/ml/nnw2v/nnw2v.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGJ1ZikgPiBtYXhsZW46Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.s</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Item</text>
+        <text>getv</text>
       </register>
       <register name="0" type="4">
-        <text>if (isEmpty()) {
-            throw new NoSuchElementException();
-        }</text>
+        <text encoding="base64">IHdvcmRfdmVjdG9yc1tzcF9saW5lW2ldXSA9IFhbY250XQogICAgICAgICAgICBjbnQgKz0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGJ1ZikgPiBtYXhsZW46Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZF92ZWN0b3JzW3NwX2xpbmVbaV1dID0gWFtjbnRdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heGxlbiA9IGxlbihidWYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc3BfbGluZSksIGNhc2VsZW4gKyAxKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHExX3NvZnRtYXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxLCBpbmUpKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQTEgPSBzaWdtb2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ICs9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZF92ZWN0b3JzW3NwX2xpbmVbaV1dID0gWFtjbnRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgWC5hcHBlbmQobGlzdChucC56ZXJvcyh2ZWN0b3JfZGltKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Item</last-search>
+      <last-search>getv</last-search>
       <last-offset />
-      <last-pattern>Item</last-pattern>
+      <last-pattern>getv</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
@@ -138,6 +143,8 @@
         <entry>%s</entry>
         <entry>illegal</entry>
         <entry>Item</entry>
+        <entry>maxlen</entry>
+        <entry>getv</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
