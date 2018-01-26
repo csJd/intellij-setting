@@ -24,7 +24,7 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1516966854701">
+      <file name="/Python Console" timestamp="1516973491225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
@@ -48,8 +48,10 @@
         <mark key="." line="43" column="25" />
         <mark key="^" line="43" column="25" />
       </file>
-      <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516971566950">
-        <mark key="[" line="116" column="25" />
+      <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516973876301">
+        <mark key="[" line="214" column="12" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516966837804">
         <mark key="[" line="96" column="15" />
@@ -77,11 +79,11 @@
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGJ1ZikgPiBtYXhsZW46Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.s</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
@@ -92,31 +94,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGJ1ZikgPiBtYXhsZW46Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heGxlbiA9IGxlbihidWYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHExX3NvZnRtYXgK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgQTEgPSBzaWdtb2lkCg==</text>
+        <text encoding="base64">aW1wb3J0IHExX3NvZnRtYXgK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyYWQK</text>
+        <text encoding="base64">ICAgICMgQTEgPSBzaWdtb2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYjIgKDEsIAo=</text>
+        <text encoding="base64">ICAgIGdyYWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
