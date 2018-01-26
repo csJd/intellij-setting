@@ -48,11 +48,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516958550887">
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="52" column="23" />
-        <mark key="." line="52" column="23" />
-        <mark key="^" line="52" column="23" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516960984981">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
         <mark key="'" line="46" column="13" />
@@ -75,8 +75,8 @@
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvc3QgPSBucC5zdW0obnAubG9ncHJvYnMpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -90,31 +90,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHloYXQgPSBucC5hcmdtYXgoQTIsIGF4aXM9MSkgKyAxCg==</text>
+        <text encoding="base64">ICAgIGNvc3QgPSBucC5zdW0obnAubG9ncHJvYnMpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHloYXQgCg==</text>
+        <text encoding="base64">ICAgIHByb2JzID0gQTJbbGFiZWxzPT0xXSAgIyAobSwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHloYXQgPQo=</text>
+        <text encoding="base64">ICAgIHloYXQgPSBucC5hcmdtYXgoQTIsIGF4aXM9MSkgKyAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHloYXQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHloYXQgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEExID0gWCAqIFcxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEExID0gWCAqIFcxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcGFyYW1zIAo=</text>
+        <text encoding="base64">ICAgIEExID0gWCAqIFcxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
