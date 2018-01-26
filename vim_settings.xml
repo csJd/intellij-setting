@@ -45,10 +45,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516965014179">
-        <mark key="[" line="63" column="44" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1516965410768">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="5" column="9" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
         <mark key="'" line="46" column="13" />
@@ -71,11 +72,11 @@
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHExX3NvZnRtYXgK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Item</text>
