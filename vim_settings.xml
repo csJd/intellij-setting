@@ -15,6 +15,12 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2g.py" timestamp="1517210701550">
+        <mark key="[" line="52" column="85" />
+        <mark key="]" line="52" column="85" />
+        <mark key="^" line="52" column="85" />
+        <mark key="." line="52" column="85" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516979330436">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,7 +30,7 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1516977516780">
+      <file name="/Python Console" timestamp="1517209581337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
@@ -42,11 +48,11 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="82" column="5" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517206859603">
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517210957868">
         <mark key="[" line="71" column="44" />
-        <mark key="]" line="43" column="25" />
-        <mark key="." line="43" column="25" />
-        <mark key="^" line="43" column="25" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="39" column="32" />
       </file>
       <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516979314633">
         <mark key="[" line="22" column="12" />
@@ -54,10 +60,17 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517207091013">
-        <mark key="[" line="96" column="15" />
-        <mark key="]" line="96" column="15" />
-        <mark key="." line="96" column="15" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517210771108">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+      </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2n.py" timestamp="1517210726322">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="8" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
         <mark key="'" line="46" column="13" />
@@ -92,11 +105,11 @@
       <jump line="108" column="5" filename="E:/learning/ml/nnw2v/nnw2v.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>seed</text>
@@ -106,31 +119,31 @@
     print('Accuracy: %s' % accuracy + '%')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
+        <text encoding="base64">ZnJvbSBxMl9ncmFkY2hlY2sgaW1wb3J0IGdyYWRjaGVja19uYWl2ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRfdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb25zKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHdvcmRfdmVjdG9ycykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlc3R5KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb25zKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KEEyW0EyID09IDFdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRlc3R5KQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KEEyW0EyID09IDFdKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">a2sK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2xlbiwgY2FzZWxlbiArIDEpOgogICAgICAgICAgICBjbnQgKz0gMQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyA9IHNldCgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzLmFkZChidWZbMF0pCg==</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IHNldCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
