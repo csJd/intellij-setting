@@ -21,8 +21,10 @@
         <mark key="^" line="52" column="85" />
         <mark key="." line="52" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516979330436">
+      <file name="/Dummy.txt" timestamp="1517212496806">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516951610502">
         <mark key="[" line="35" column="66" />
@@ -48,11 +50,11 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="82" column="5" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517210957868">
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="39" column="32" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="39" column="32" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="48" column="39" />
       </file>
       <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516979314633">
         <mark key="[" line="22" column="12" />
@@ -60,11 +62,11 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517210771108">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517212341285">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2n.py" timestamp="1517210726322">
         <mark key="[" line="7" column="8" />
@@ -106,10 +108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>Finish a1q2_gradcheck.py</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>Finish a1q2_gradcheck.py</text>
       </register>
       <register name="/" type="4">
         <text>seed</text>
@@ -119,31 +121,31 @@
     print('Accuracy: %s' % accuracy + '%')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBxMl9ncmFkY2hlY2sgaW1wb3J0IGdyYWRjaGVja19uYWl2ZQo=</text>
+        <text encoding="base64">IyBmcm9tIHEyZyBpbXBvcnQgZ3JhZGNoZWNrX25haXZlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHdvcmRfdmVjdG9ycykK</text>
+        <text encoding="base64">ICAgICAgICB4W2l4XSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWRpY3Rpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlc3R5KQo=</text>
+        <text encoding="base64">ICAgICAgICBmbCA9IGYoeFtpeF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KEEyW0EyID09IDFdKQo=</text>
+        <text encoding="base64">ICAgICAgICBmbCA9IGYoeFtpeF0pCiAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudW1ncmFkKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgZm9yIGkgaW4gcmFuZ2Uoc2xlbiwgY2FzZWxlbiArIDEpOgogICAgICAgICAgICBjbnQgKz0gMQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBxMl9ncmFkY2hlY2sgaW1wb3J0IGdyYWRjaGVja19uYWl2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhYmVscyA9IHNldCgpCg==</text>
+        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
