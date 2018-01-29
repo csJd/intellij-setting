@@ -32,7 +32,13 @@
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1517209581337">
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_run.py" timestamp="1517217342346">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="58" column="9" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="58" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1517218926628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
@@ -62,6 +68,12 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_word2vec.py" timestamp="1517219479620">
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+      </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517212341285">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -90,6 +102,13 @@
         <mark key="." line="101" column="25" />
         <mark key="^" line="101" column="25" />
       </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" timestamp="1517217637409">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="139" column="5" />
+        <mark key="." line="139" column="5" />
+        <mark key="^" line="139" column="5" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="13" column="13" filename="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" />
@@ -105,56 +124,58 @@
       <jump line="107" column="4" filename="E:/learning/ml/nnw2v/nnw2v.py" />
       <jump line="181" column="6" filename="E:/learning/ml/nnw2v/nnw2v.py" />
       <jump line="108" column="5" filename="E:/learning/ml/nnw2v/nnw2v.py" />
+      <jump line="9" column="16" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
+      <jump line="11" column="0" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Finish a1q2_gradcheck.py</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJvd01lYW4gPSB4Lm1lYW4oYXhpcz0xKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Finish a1q2_gradcheck.py</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>seed</text>
+        <text>pickle</text>
       </register>
       <register name="0" type="4">
         <text>accuracy = (np.dot(testy, predictions.T) + np.dot(1 - testy, 1 - predictions.T)) / testy.size * 100;
     print('Accuracy: %s' % accuracy + '%')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIHEyZyBpbXBvcnQgZ3JhZGNoZWNrX25haXZlCg==</text>
+        <text encoding="base64">ICAgIHJvd01lYW4gPSB4Lm1lYW4oYXhpcz0xKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
+        <text encoding="base64">ICAgIHJvd1ZhciA9IHgudmFyKGF4aXM9MSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4W2l4XSAK</text>
+        <text encoding="base64">ICAgIHggPSAoeCAtIHJvd01lYW4pIC8gcm93VmFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
+        <text encoding="base64">ICAgIG5wLmFwcGx5X2Fsb25nX2F4aXMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbCA9IGYoeFtpeF0pCg==</text>
+        <text encoding="base64">ICAgIG5wLnZhcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbCA9IGYoeFtpeF0pCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHggPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChudW1ncmFkKQo=</text>
+        <text encoding="base64">IyBmcm9tIHEyZyBpbXBvcnQgZ3JhZGNoZWNrX25haXZlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBxMl9ncmFkY2hlY2sgaW1wb3J0IGdyYWRjaGVja19uYWl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lYW5fbGVuID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICB4W2l4XSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>seed</last-search>
+      <last-search>pickle</last-search>
       <last-offset />
-      <last-pattern>seed</last-pattern>
+      <last-pattern>pickle</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
@@ -172,6 +193,7 @@
         <entry>mod</entry>
         <entry encoding="base64">XDxYXD4=</entry>
         <entry>seed</entry>
+        <entry>pickle</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
