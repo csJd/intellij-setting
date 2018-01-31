@@ -38,9 +38,6 @@
         <mark key="^" line="42" column="50" />
         <mark key="." line="58" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1517218926628">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="17" />
@@ -56,11 +53,12 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="82" column="5" />
       </file>
-      <file name="E:/Downloads/xuanyuan/src/eml_parser.py" timestamp="1517383316009">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="16" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="23" column="16" />
+      <file name="E:/Downloads/xuanyuan/src/eml_parser.py" timestamp="1517385451704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="49" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="28" column="49" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
         <mark key="[" line="55" column="24" />
@@ -132,13 +130,15 @@
       <jump line="108" column="5" filename="E:/learning/ml/nnw2v/nnw2v.py" />
       <jump line="9" column="16" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
       <jump line="11" column="0" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
+      <jump line="29" column="46" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
+      <jump line="0" column="0" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -147,37 +147,31 @@
         <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBtc2cgPSBlbWFpbC5tZXNzYWdlX2Zyb21fZmlsZShmKQogICAgICAgICAgICBmb3IgcGFydCBpbiBtc2cud2FsaygpOgogICAgICAgICAgICAgICAgY3R5cGUgPSBwYXJ0LmdldF9jb250ZW50X3R5cGUoKQogICAgICAgICAgICAgICAgY2RwID0gc3RyKHBhcnQuZ2V0KCdDb250ZW50LURpc3Bvc2l0aW9uJykpCiAgICAgICAgICAgICAgICBpZiBjdHlwZSA9PSAndGV4dC9wbGFpbicgYW5kICdhdHRhY2htZW50JyBub3QgaW4gY2RwOgogICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJ0LmdldF9wYXlsb2FkKGRlY29kZT1UcnVlKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGVuYykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gYm9keS5kZWNvZGUoZW5jb2Rpbmc9J3V0Zi04JykK</text>
       </register>
-      <register name="3" type="4">
-        <text>msg = email.message_from_file(f)
-            for part in msg.walk():
-                ctype = part.get_content_type()
-                cdp = str(part.get('Content-Disposition'))
-                if ctype == 'text/plain' and 'attachment' not in cdp:
-                    body = part.get_payload(decode=True)
-                    break</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIGJvZHkgaXMgbm90IHN0cjoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBtc2cgPSBlbWFpbC5tZXNzYWdlX2Zyb21fZmlsZShmKQogICAgICAgICAgICBmb3IgcGFydCBpbiBtc2cud2FsaygpOgogICAgICAgICAgICAgICAgY3R5cGUgPSBwYXJ0LmdldF9jb250ZW50X3R5cGUoKQogICAgICAgICAgICAgICAgY2RwID0gc3RyKHBhcnQuZ2V0KCdDb250ZW50LURpc3Bvc2l0aW9uJykpCiAgICAgICAgICAgICAgICBpZiBjdHlwZSA9PSAndGV4dC9wbGFpbicgYW5kICdhdHRhY2htZW50JyBub3QgaW4gY2RwOgogICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJ0LmdldF9wYXlsb2FkKGRlY29kZT1UcnVlKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlcy5kZWNvZGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gZW1haWwubQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGJvZHkuZGVjb2RlKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
