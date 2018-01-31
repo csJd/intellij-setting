@@ -56,6 +56,12 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="82" column="5" />
       </file>
+      <file name="E:/Downloads/xuanyuan/src/eml_parser.py" timestamp="1517383316009">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+      </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
         <mark key="[" line="55" column="24" />
         <mark key="]" line="55" column="25" />
@@ -128,45 +134,50 @@
       <jump line="11" column="0" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJvd01lYW4gPSB4Lm1lYW4oYXhpcz0xKQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
       </register>
       <register name="0" type="4">
-        <text>accuracy = (np.dot(testy, predictions.T) + np.dot(1 - testy, 1 - predictions.T)) / testy.size * 100;
-    print('Accuracy: %s' % accuracy + '%')</text>
+        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBtc2cgPSBlbWFpbC5tZXNzYWdlX2Zyb21fZmlsZShmKQogICAgICAgICAgICBmb3IgcGFydCBpbiBtc2cud2FsaygpOgogICAgICAgICAgICAgICAgY3R5cGUgPSBwYXJ0LmdldF9jb250ZW50X3R5cGUoKQogICAgICAgICAgICAgICAgY2RwID0gc3RyKHBhcnQuZ2V0KCdDb250ZW50LURpc3Bvc2l0aW9uJykpCiAgICAgICAgICAgICAgICBpZiBjdHlwZSA9PSAndGV4dC9wbGFpbicgYW5kICdhdHRhY2htZW50JyBub3QgaW4gY2RwOgogICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJ0LmdldF9wYXlsb2FkKGRlY29kZT1UcnVlKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvd01lYW4gPSB4Lm1lYW4oYXhpcz0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvd1ZhciA9IHgudmFyKGF4aXM9MSkK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUpIGFzIGY6Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHggPSAoeCAtIHJvd01lYW4pIC8gcm93VmFyCg==</text>
+      <register name="3" type="4">
+        <text>msg = email.message_from_file(f)
+            for part in msg.walk():
+                ctype = part.get_content_type()
+                cdp = str(part.get('Content-Disposition'))
+                if ctype == 'text/plain' and 'attachment' not in cdp:
+                    body = part.get_payload(decode=True)
+                    break</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5wLmFwcGx5X2Fsb25nX2F4aXMoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">d2l0aCBvcGVuKGZpbGVuYW1lKSBhcyBmOgogICAgICAgICAgICBtc2cgPSBlbWFpbC5tZXNzYWdlX2Zyb21fZmlsZShmKQogICAgICAgICAgICBmb3IgcGFydCBpbiBtc2cud2FsaygpOgogICAgICAgICAgICAgICAgY3R5cGUgPSBwYXJ0LmdldF9jb250ZW50X3R5cGUoKQogICAgICAgICAgICAgICAgY2RwID0gc3RyKHBhcnQuZ2V0KCdDb250ZW50LURpc3Bvc2l0aW9uJykpCiAgICAgICAgICAgICAgICBpZiBjdHlwZSA9PSAndGV4dC9wbGFpbicgYW5kICdhdHRhY2htZW50JyBub3QgaW4gY2RwOgogICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJ0LmdldF9wYXlsb2FkKGRlY29kZT1UcnVlKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5wLnZhcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmcm9tIHEyZyBpbXBvcnQgZ3JhZGNoZWNrX25haXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4W2l4XSAtPSBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gZW1haWwubQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4W2l4XSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
