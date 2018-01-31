@@ -53,12 +53,12 @@
         <mark key="^" line="82" column="5" />
         <mark key="." line="82" column="5" />
       </file>
-      <file name="E:/Downloads/xuanyuan/src/eml_parser.py" timestamp="1517387365450">
+      <file name="E:/Downloads/xuanyuan/src/eml_parser.py" timestamp="1517388333037">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="70" />
-        <mark key="]" line="47" column="60" />
-        <mark key="^" line="47" column="60" />
-        <mark key="." line="47" column="60" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="49" column="60" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="49" column="60" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
         <mark key="[" line="55" column="24" />
@@ -71,6 +71,18 @@
         <mark key="]" line="22" column="13" />
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
+      </file>
+      <file name="E:/Downloads/xuanyuan/src/README.md" timestamp="1517388449466">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="59" />
+      </file>
+      <file name="E:/Downloads/xuanyuan/src/.gitignore" timestamp="1517388491319">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_word2vec.py" timestamp="1517219479620">
         <mark key="[" line="17" column="54" />
@@ -134,8 +146,8 @@
       <jump line="0" column="0" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGF0YS8K</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -147,31 +159,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YS8K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">KiBDcmVhdGUgZm9sZGVyICJwYXJzZWQiIHRvIHNhdmUgcGFyc2VkIGZpbGVzIGluICIuL2RhdGEvIgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ZGVmIHBhcnNlMmh0bWwodXJsKToKICAgIGh0bWwgPSAiIgogICAgd2l0aCBvcGVuKHVybCkgYXMgZjoKICAgIG1zZyA9IGVtYWlsLm1lc3NhZ2VfZnJvbV9maWxlKGYpCiAgICBmb3IgcGFydCBpbiBtc2cud2FsaygpOgogICAgICAgIGN0eXBlID0gcGFydC5nZXRfY29udGVudF90eXBlKCkKICAgICAgICBjZHAgPSBzdHIocGFydC5nZXQoJ0NvbnRlbnQtRGlzcG9zaXRpb24nKSkKICAgICAgICBpZiBjdHlwZSA9PSAndGV4dC9odG1sJyBhbmQgJ2F0dGFjaG1lbnQnIG5vdCBpbiBjZHA6CiAgICAgICAgICAgIGRlY29kZWRfYnl0ZXMgPSBwYXJ0LmdldF9wYXlsb2FkKGRlY29kZT1UcnVlKQogICAgICAgICAgICBlbmMgPSBjaGFyZGV0LmRldGVjdChkZWNvZGVkX2J5dGVzKVsnZW5jb2RpbmcnXQogICAgICAgICAgICBodG1sID0gZGVjb2RlZF9ieXRlcy5kZWNvZGUoZW5jb2Rpbmc9ZW5jKQogICAgICAgICAgICBicmVhawoKICAgIHJldHVybiBodG1sIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGZsYWcgPSBGYWxzZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyAgICAgcGFzcyAgIyBTb21ldGhpbmcgdG8gZG8gbGF0ZXIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBjdHlwZSA9PSAndGV4dC9odG1sJyBhbmQgJ2F0dGFjaG1lbnQnIG5vdCBpbiBjZHA6Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBwYXNzICAjIFNvbWV0aGluZyB0byBkbyBsYXRlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIGN0eXBlID09ICd0ZXh0L2h0bWwnIGFuZCAnYXR0YWNobWVudCcgbm90IGluIGNkcDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBjdHlwZSA9PSAndGV4dC9odG1sJyBhbmQgJ2F0dGFjaG1lbnQnIG5vdCBpbiBjZHA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
