@@ -21,11 +21,6 @@
         <mark key="^" line="52" column="85" />
         <mark key="." line="52" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518075886259">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-      </file>
       <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516951610502">
         <mark key="[" line="35" column="66" />
         <mark key="]" line="35" column="68" />
@@ -40,12 +35,6 @@
       </file>
       <file name="/Python Console" timestamp="1517455595800">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1510908230373">
         <mark key="[" line="0" column="0" />
@@ -62,12 +51,6 @@
         <mark key="]" line="49" column="60" />
         <mark key="^" line="49" column="60" />
         <mark key="." line="49" column="60" />
-      </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="55" column="25" />
-        <mark key="." line="55" column="25" />
-        <mark key="^" line="48" column="39" />
       </file>
       <file name="E:/learning/ml/nnw2v/nnw2v.py" timestamp="1516979314633">
         <mark key="[" line="22" column="12" />
@@ -93,6 +76,37 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="28" />
+      </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" timestamp="1517217637409">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="139" column="4" />
+        <mark key="]" line="139" column="5" />
+        <mark key="." line="139" column="5" />
+        <mark key="^" line="139" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518075886259">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
+      <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_gradcheck.py" timestamp="1517212284919">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="48" column="39" />
+      </file>
       <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517212341285">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -105,19 +119,13 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="D:/dev/idea-projects/algs4/src/RandomizedQueue.java" timestamp="1511014842749">
-        <mark key="'" line="46" column="13" />
-        <mark key="[" line="89" column="27" />
-        <mark key="]" line="89" column="28" />
-        <mark key="." line="89" column="28" />
-        <mark key="^" line="89" column="28" />
+      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1518080225127">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1518076565300">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-      </file>
+      <file name="E:/Downloads/xuanyuan/xytest/data/emls/中华人民共和国和乌兹别克斯坦共和国关于进一步深化全面战略伙伴关系的联合声明.eml" timestamp="1518079523537" />
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,13 +137,6 @@
       </file>
       <file name="E:/Downloads/xuanyuan/xytest/README.md" timestamp="1517464281537">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" timestamp="1517217637409">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="139" column="4" />
-        <mark key="]" line="139" column="5" />
-        <mark key="." line="139" column="5" />
-        <mark key="^" line="139" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -158,11 +159,11 @@
       <jump line="0" column="0" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>msg.part.get('charset')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>msg.part.get('charset')</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -171,31 +172,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYWcsIGgydC5oYW5kbGUoaHRtbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaDJ0ID0gaHRtbDJ0ZXh0LkhUTUwyVGV4dCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsYWcsIGgydC5oYW5kbGUoaHRtbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaDJ0ID0gaHRtbDJ0ZXh0LkhUTUwyVGV4dCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfdXJsOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
