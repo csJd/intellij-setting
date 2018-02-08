@@ -21,10 +21,10 @@
         <mark key="^" line="52" column="85" />
         <mark key="." line="52" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517464689148">
+      <file name="/Dummy.txt" timestamp="1518075886259">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="E:/learning/ml/cs224n/assignment1/q1_softmax.py" timestamp="1516951610502">
         <mark key="[" line="35" column="66" />
@@ -112,11 +112,11 @@
         <mark key="." line="89" column="28" />
         <mark key="^" line="89" column="28" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1517464418687">
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="64" />
-        <mark key="^" line="33" column="64" />
-        <mark key="." line="33" column="64" />
+      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1518076069364">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
@@ -159,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>msg.part.get('charset')</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>msg.part.get('charset')</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
