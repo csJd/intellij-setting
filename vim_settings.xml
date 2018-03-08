@@ -90,10 +90,10 @@
         <mark key="." line="139" column="5" />
         <mark key="^" line="139" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518100494273">
+      <file name="/Dummy.txt" timestamp="1520495251154">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Percolation.java" timestamp="1509715411527">
         <mark key="[" line="5" column="12" />
@@ -119,11 +119,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1520476713415">
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="40" column="82" />
-        <mark key="^" line="40" column="82" />
-        <mark key="." line="40" column="82" />
+      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1520495198845">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1509712258350">
         <mark key="[" line="0" column="0" />
@@ -159,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Update the method to get content encoding</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>Update the method to get content encoding</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
