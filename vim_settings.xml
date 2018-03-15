@@ -276,17 +276,22 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(63).eml.txt" timestamp="1520657650019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_word2vec.py" timestamp="1521076629712">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_word2vec.py" timestamp="1521081443822">
+        <mark key="[" line="64" column="39" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(172).eml.txt" timestamp="1520658113532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(47).eml.txt" timestamp="1520657582365">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" timestamp="1521079132795">
+        <mark key="[" line="86" column="26" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(227).eml.txt" timestamp="1520658416537">
         <mark key="[" line="0" column="0" />
@@ -402,7 +407,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(299).eml.txt" timestamp="1520659134829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1517212341285">
+      <file name="E:/learning/ml/cs224n/cs224n18/assignment1/q2_neural.py" timestamp="1521079172563">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -1373,10 +1378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1385,31 +1390,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvc3QsIGdyYWQgPSBmb3J3YXJkX2JhY2t3YXJkX3Byb3AoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBxMl9uZXVyYWwgaW1wb3J0IGZvcndhcmRfYmFja3dhcmRfcHJvcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZzdHIgPSByYXdfZGF0YS5kZWNvZGUoZW5jb2Rpbmc9ZmVuYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHR4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZzdHIgPSByYXdfZGF0YS5kZWNvZGUoZW5jb2Rpbmc9ZmVuYykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
