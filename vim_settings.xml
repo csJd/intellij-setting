@@ -1325,11 +1325,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017年员工手册中不能犯的N个错误(1).eml.txt" timestamp="1520662412919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521639463453">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521641022920">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="46" column="9" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(305).eml.txt" timestamp="1520659169964">
         <mark key="[" line="1" column="0" />
@@ -1386,10 +1386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShsaW5lcykK</text>
+        <text encoding="base64">IyBmcm9tIHNrbGVhcm4uZmVhdHVyZV9leHRyYWN0aW9uLnRleHQgaW1wb3J0IFRmaWRmVmVjdG9yaXplcgpmcm9tIHNrbGVhcm4uZmVhdHVyZV9leHRyYWN0aW9uLnRleHQgaW1wb3J0IFRmaWRmVHJhbnNmb3JtZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1398,31 +1398,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShsaW5lcykK</text>
+        <text encoding="base64">IyBmcm9tIHNrbGVhcm4uZmVhdHVyZV9leHRyYWN0aW9uLnRleHQgaW1wb3J0IFRmaWRmVmVjdG9yaXplcgpmcm9tIHNrbGVhcm4uZmVhdHVyZV9leHRyYWN0aW9uLnRleHQgaW1wb3J0IFRmaWRmVHJhbnNmb3JtZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdmVjdG9yaXplciA9IFRmaWRmVmVjdG9yaXplcihtYXhfZGY9MC41LCBtaW5fZGY9MikK</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHZlY3Rvcml6ZXIuZml0X3RyYW5zZm9ybShsaW5lcykK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICMgdmVjdG9yaXplciA9IFRmaWRmVmVjdG9yaXplcihtYXhfZGY9MC41LCBtaW5fZGY9MikK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHNrbGVhcm4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmZyb20gc2tsZWFybi5mZWF0dXJlX2V4dHJhY3Rpb24udGV4dCBpbXBvcnQgSGFzaGluZ1ZlY3Rvcml6ZXI=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHkgPSBsaXN0KCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIFggPSBsaXN0KCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRpY19zaXplID0gbGVuKGRpYykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpYyA9IGdldF9kaWN0KHVybCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRpYyA9IGdldF9kaWN0KHVybCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
