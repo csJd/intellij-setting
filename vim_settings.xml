@@ -1324,8 +1324,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017年员工手册中不能犯的N个错误(1).eml.txt" timestamp="1520662412919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521625436879">
-        <mark key="[" line="18" column="4" />
+      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521632488123">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(305).eml.txt" timestamp="1520659169964">
         <mark key="[" line="1" column="0" />
@@ -1382,10 +1385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljLmFkZCh3b3Jkcy4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1394,35 +1397,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGljLmFkZCh3b3Jkcy4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;&quot; 
-    
-    :param url: 
-    :return: 
-    '''</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY250ID4gMjA6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyYWQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ICs9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZ3JhZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyYWRQcmVkID0gcHJlZGljdGlvbnNbdGFyZ2V0XSAtIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZ3JhZFByZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZShwYXJzZWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocGFyc2VkX3VybCwgInciLCBlbmNvZGluZz0ndXRmLTgnKSBhcyBmOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
