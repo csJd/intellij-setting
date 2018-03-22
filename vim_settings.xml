@@ -292,6 +292,9 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1521680917729">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(227).eml.txt" timestamp="1520658416537">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1091,7 +1094,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521675519340">
+      <file name="/Python Console" timestamp="1521679899308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1325,11 +1328,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017年员工手册中不能犯的N个错误(1).eml.txt" timestamp="1520662412919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521679260677">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="110" column="27" />
-        <mark key="." line="86" column="0" />
+      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521682046617">
+        <mark key="[" line="98" column="51" />
+        <mark key="]" line="98" column="51" />
+        <mark key="." line="98" column="51" />
+        <mark key="^" line="97" column="5" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(305).eml.txt" timestamp="1520659169964">
         <mark key="[" line="1" column="0" />
@@ -1385,11 +1388,11 @@
       <jump line="0" column="0" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1398,31 +1401,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlc3RfdXJsID0gb3MucGF0aC5qb2luKCJwcm9jZXNzZWRfZGF0YSIsICJzaHVmZmxlX3Rlc3RfZGF0YS5jc3YiKSAgIyB1cmwgdG8gdGVzdCBmaWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByZWNpc2lvbl9yZWNhbGxfZnNjb3JlX3N1cHBvcnQoeSwgcHJlZHkpKQo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZWR5ID0gY2xmLnByZWRpY3QoWCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGNsZiA9IGNsZl9zdm0uZml0KFgsIHkpCiAgICBwcmVkaWN0KGNsZiwgdGVzdFgsIHRlc3R5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3QoY2xmLCBYLCB5KToK</text>
+        <text encoding="base64">ICAgIHByaW50KCJzY29yZSBvZiAiKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFjY3VyYWN5ID0geSAtIAo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2xmKGNsZiwgWCwgeSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJlZHkK</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
