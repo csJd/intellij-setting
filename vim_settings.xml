@@ -919,7 +919,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(41).eml.txt" timestamp="1520657556326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/dic.txt" timestamp="1521633608145" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(175).eml.txt" timestamp="1520658126218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1328,11 +1327,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017年员工手册中不能犯的N个错误(1).eml.txt" timestamp="1520662412919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521682046617">
-        <mark key="[" line="98" column="51" />
-        <mark key="]" line="98" column="51" />
-        <mark key="." line="98" column="51" />
-        <mark key="^" line="97" column="5" />
+      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1521721255235">
+        <mark key="'" line="94" column="13" />
+        <mark key="[" line="143" column="24" />
+        <mark key="]" line="143" column="22" />
+        <mark key="." line="143" column="22" />
+        <mark key="^" line="143" column="22" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(305).eml.txt" timestamp="1520659169964">
         <mark key="[" line="1" column="0" />
@@ -1386,13 +1386,14 @@
       <jump line="11" column="0" filename="E:/learning/ml/cs224n/cs224n18/assignment1/q3_sgd.py" />
       <jump line="29" column="46" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
       <jump line="0" column="0" filename="E:/Downloads/xuanyuan/src/eml_parser.py" />
+      <jump line="94" column="13" filename="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgcHJlZGljdChjbGYsIHRlc3RYLCB0ZXN0eSkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1401,34 +1402,34 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdXJsID0gb3MucGF0aC5qb2luKCJwcm9jZXNzZWRfZGF0YSIsICJzaHVmZmxlX3Rlc3RfZGF0YS5jc3YiKSAgIyB1cmwgdG8gdGVzdCBmaWxlCg==</text>
+        <text encoding="base64">ICAgICMgcHJlZGljdChjbGYsIHRlc3RYLCB0ZXN0eSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGNsZiA9IGNsZl9zdm0uZml0KFgsIHkpCiAgICBwcmVkaWN0KGNsZiwgdGVzdFgsIHRlc3R5KQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGpvYmxpYi5kdW1wKGNsZiwgJ2diZHQucGtsJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzY29yZSBvZiAiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlfcHJlZCAvPSBsZW4oY2xmcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWN0KGNsZiwgWCwgeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfY2xmKGNsZiwgWCwgeSkK</text>
+        <text encoding="base64">ICAgIG4gPSBsZW4oY2xmcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcmVkeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1459,6 +1460,7 @@
         <entry>s/illegal/isIllegal/g</entry>
         <entry>%s/Item/T/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
