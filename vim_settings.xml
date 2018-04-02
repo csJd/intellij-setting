@@ -228,12 +228,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(259).eml.txt" timestamp="1520658959215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522657651999">
-        <mark key="'" line="26" column="2" />
-        <mark key="[" line="22" column="82" />
-        <mark key="]" line="23" column="28" />
-        <mark key="^" line="23" column="28" />
-        <mark key="." line="23" column="28" />
+      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522658394680">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(129).eml.txt" timestamp="1520657954651">
         <mark key="[" line="0" column="0" />
@@ -1399,11 +1398,11 @@
       <jump line="26" column="2" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1412,22 +1411,22 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0IERvYzJWZWMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0IERvYzJWZWMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgpkZWYgZ2V0X2RhdGFzZXN0KCk6CiAgICB3aXRoIG9wZW4oIm91dC93YW5neWlfdGl0bGVfY3V0LnR4dCIsICdyJykgYXMgY2Y6CiAgICAgICAgZG9jcyA9IGNmLnJlYWRsaW5lcygpCiAgICAgICAgcHJpbnQobGVuKGRvY3MpKQoKICAgIHhfdHJhaW4gPSBbXQogICAgI3kgPSBucC5jb25jYXRlbmF0ZShucC5vbmVzKGxlbihkb2NzKSkpCiAgICBmb3IgaSwgdGV4dCBpbiBlbnVtZXJhdGUoZG9jcyk6CiAgICAgICAgd29yZF9saXN0ID0gdGV4dC5zcGxpdCgnICcpCiAgICAgICAgbCA9IGxlbih3b3JkX2xpc3QpCiAgICAgICAgd29yZF9saXN0W2wtMV0gPSB3b3JkX2xpc3RbbC0xXS5zdHJpcCgpCiAgICAgICAgZG9jdW1lbnQgPSBUYWdnZWRlZERvY3VtZW50KHdvcmRfbGlzdCwgdGFncz1baV0pCiAgICAgICAgeF90cmFpbi5hcHBlbmQoZG9jdW1lbnQpCgogICAgcmV0dXJuIHhfdHJhaW4KCmRlZiBnZXRWZWNzKG1vZGVsLCBjb3JwdXMsIHNpemUpOgogICAgdmVjcyA9IFtucC5hcnJheShtb2RlbC5kb2N2ZWNzW3oudGFnc1swXV0ucmVzaGFwZSgxLCBzaXplKSkgZm9yIHogaW4gY29ycHVzXQogICAgcmV0dXJuIG5wLmNvbmNhdGVuYXRlKHZlY3MpCgpkZWYgdHJhaW4oeF90cmFpbiwgc2l6ZT0yMDAsIGVwb2NoX251bT0xKToKICAgIG1vZGVsX2RtID0gRG9jMlZlYyh4X3RyYWluLG1pbl9jb3VudD0xLCB3aW5kb3cgPSAzLCBzaXplID0gc2l6ZSwgc2FtcGxlPTFlLTMsIG5lZ2F0aXZlPTUsIHdvcmtlcnM9NCkKICAgIG1vZGVsX2RtLnRyYWluKHhfdHJhaW4sIHRvdGFsX2V4YW1wbGVzPW1vZGVsX2RtLmNvcnB1c19jb3VudCwgZXBvY2hzPTcwKQogICAgbW9kZWxfZG0uc2F2ZSgnbW9kZWwvbW9kZWxfZG1fd2FuZ3lpJykKCiAgICByZXR1cm4gbW9kZWxfZG0KCmRlZiB0ZXN0KCk6CiAgICBtb2RlbF9kbSA9IERvYzJWZWMubG9hZCgibW9kZWwvbW9kZWxfZG1fd2FuZ3lpIikKICAgIHRlc3RfdGV4dCA9IFsnobYnLCAnzujB1icsICfV+bDUJyAnobcnLCAnyq7HvycgJ7P2wq8nLCAnuLS77icsICfO6NXfJywgJ7DEw8UnLCAnzN+53SddCiAgICBpbmZlcnJlZF92ZWN0b3JfZG0gPSBtb2RlbF9kbS5pbmZlcl92ZWN0b3IodGVzdF90ZXh0KQogICAgcHJpbnQgaW5mZXJyZWRfdmVjdG9yX2RtCiAgICBzaW1zID0gbW9kZWxfZG0uZG9jdmVjcy5tb3N0X3NpbWlsYXIoW2luZmVycmVkX3ZlY3Rvcl9kbV0sIHRvcG49MTApCgoKICAgIHJldHVybiBzaW1zCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1436,7 +1435,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhfdHJhaW4gPSBnZW5zaW0uY29ycG9yYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
