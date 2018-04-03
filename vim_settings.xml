@@ -228,12 +228,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(259).eml.txt" timestamp="1520658959215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522659847856">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="26" column="82" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="18" />
+      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522721271331">
+        <mark key="'" line="80" column="2" />
+        <mark key="[" line="73" column="38" />
+        <mark key="]" line="73" column="37" />
+        <mark key="." line="73" column="37" />
+        <mark key="^" line="73" column="37" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(129).eml.txt" timestamp="1520657954651">
         <mark key="[" line="0" column="0" />
@@ -1399,11 +1399,11 @@
       <jump line="26" column="2" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
