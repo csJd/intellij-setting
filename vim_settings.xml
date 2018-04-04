@@ -228,12 +228,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(259).eml.txt" timestamp="1520658959215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522747336822">
-        <mark key="'" line="82" column="2" />
-        <mark key="[" line="23" column="80" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522803623379">
+        <mark key="'" line="93" column="2" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(129).eml.txt" timestamp="1520657954651">
         <mark key="[" line="0" column="0" />
@@ -1403,7 +1403,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1415,28 +1415,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZF90aW1lID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">VGFnZ2VkZWREb2N1bWVudCA9IGdlbnNpbS5tb2RlbHMuZG9jMnZlYy5UYWdnZWREb2N1bWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLnVwZGF0KHRyYWluX3gpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZF90aW1lID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRyYWluX3hbOjJdKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBnZW5zaW0ubW9kZWxzLmRvYzJ2ZWMgaW1wb3J0IERvYzJWZWMK</text>
+        <text encoding="base64">ICAgIHByaW50KHRyYWluX3hbOjJdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
