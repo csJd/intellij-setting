@@ -228,7 +228,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(259).eml.txt" timestamp="1520658959215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1522812824232">
+      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1523324246330">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="24" column="46" />
@@ -524,11 +524,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(215).eml.txt" timestamp="1520658318530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1521625451609">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="E:/Downloads/xuanyuan/xytest/eml_parser.py" timestamp="1523324735061">
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(297).eml.txt" timestamp="1520659128720">
         <mark key="[" line="0" column="0" />
@@ -924,6 +924,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(41).eml.txt" timestamp="1520657556326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Downloads/xuanyuan/xytest/config.json" timestamp="1523324282801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(175).eml.txt" timestamp="1520658126218">
@@ -1402,10 +1405,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
