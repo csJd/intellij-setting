@@ -924,11 +924,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524654938107">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="12" column="63" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524655623397">
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/6th ANNUAL TOWNSHIP DEVELOPMENT Thailand February 2018.eml.txt" timestamp="1520659570322">
         <mark key="[" line="0" column="0" />
@@ -1426,11 +1426,11 @@
       <jump line="130" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5jbHVkZT1kYXRhWz8odGFyZ2V0LnR5cGU9dG9waWNfc3RpY2t5X21vZHVsZSldLnRhcmdldC5kYXRhWz8odGFyZ2V0LnR5cGU9YW5zd2VyKV0udGFyZ2V0LmNvbnRlbnQscmVsYXRpb25zaGlwLmlzX2F1dGhvcml6ZWQsaXNfYXV0aG9yLHZvdGluZyxpc190aGFua2VkLGlzX25vdGhlbHA7ZGF0YVs/KHRhcmdldC50eXBlPXRvcGljX3N0aWNreV9tb2R1bGUpXS50YXJnZXQuZGF0YVs/KHRhcmdldC50eXBlPWFuc3dlcildLnRhcmdldC5pc19ub3JtYWwsY29tbWVudF9jb3VudCx2b3RldXBfY291bnQsY29udGVudCxyZWxldmFudF9pbmZvLGV4Y2VycHQuYXV0aG9yLmJhZGdlWz8odHlwZT1iZXN0X2Fuc3dlcmVyKV0udG9waWNzO2RhdGFbPyh0YXJnZXQudHlwZT10b3BpY19zdGlja3lfbW9kdWxlKV0udGFyZ2V0LmRhdGFbPyh0YXJnZXQudHlwZT1hcnRpY2xlKV0udGFyZ2V0LmNvbnRlbnQsdm90ZXVwX2NvdW50LGNvbW1lbnRfY291bnQsdm90aW5nLGF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9dG9waWNfc3RpY2t5X21vZHVsZSldLnRhcmdldC5kYXRhWz8odGFyZ2V0LnR5cGU9cGVvcGxlKV0udGFyZ2V0LmFuc3dlcl9jb3VudCxhcnRpY2xlc19jb3VudCxnZW5kZXIsZm9sbG93ZXJfY291bnQsaXNfZm9sbG93ZWQsaXNfZm9sbG93aW5nLGJhZGdlWz8odHlwZT1iZXN0X2Fuc3dlcmVyKV0udG9waWNzO2RhdGFbPyh0YXJnZXQudHlwZT1hbnN3ZXIpXS50YXJnZXQuY29udGVudCxyZWxhdGlvbnNoaXAuaXNfYXV0aG9yaXplZCxpc19hdXRob3Isdm90aW5nLGlzX3RoYW5rZWQsaXNfbm90aGVscDtkYXRhWz8odGFyZ2V0LnR5cGU9YW5zd2VyKV0udGFyZ2V0LmF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9YXJ0aWNsZSldLnRhcmdldC5jb250ZW50LGF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9cXVlc3Rpb24pXS50YXJnZXQuY29tbWVudF9jb3VudCY=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
