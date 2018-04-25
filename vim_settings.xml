@@ -478,11 +478,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(286).eml.txt" timestamp="1520659073662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/settings.py" timestamp="1524659453949">
-        <mark key="[" line="51" column="671" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="36" />
-        <mark key="^" line="50" column="36" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/settings.py" timestamp="1524661097131">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(投诉).eml.txt" timestamp="1520657302271">
         <mark key="[" line="0" column="0" />
@@ -550,8 +550,10 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(263).eml.txt" timestamp="1520658973709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/quotes_spider.py" timestamp="1524656137942">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/quotes_spider.py" timestamp="1524660719280">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/1109_1.eml.txt" timestamp="1520662185282">
         <mark key="[" line="0" column="0" />
@@ -924,11 +926,10 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524658865617">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524661063151">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/6th ANNUAL TOWNSHIP DEVELOPMENT Thailand February 2018.eml.txt" timestamp="1520659570322">
         <mark key="[" line="0" column="0" />
@@ -1433,10 +1434,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1444,32 +1445,32 @@
       <register name="0" type="4">
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICdfeHNyZic6J2I4MWM4OWU4LWE0MzQtNGIzNy1hMzBkLWVhODcxZjE1Y2QzZicsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">I0RFRkFVTFRfUkVRVUVTVF9IRUFERVJTID0gewojICAgJ0FjY2VwdCc6ICd0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSwqLyo7cT0wLjgnLAojICAgJ0FjY2VwdC1MYW5ndWFnZSc6ICdlbicsCiN9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnQ29va2llJzogJ3FfYzE9Yjk2NjVhNTk1NDY0NDc0ZDlkN2NhZjQ4NWJiM2ZiOTh8MTUyMzk2MTc4MDAwMHwxNTIzOTYxNzgwMDAwOyBfemFwPWJkN2E5NTA2LTNmZDItNDVhZC04NTBjLWY5NzI2YThhYzI4MzsgbF9jYXBfaWQ9Ik1UazVaVEF4TWprNE56VmhORGt5WldGbE1tSXdNRE5rT0RZMk5UaGpPR0k9fDE1MjM5NjMzMjJ8ZDBiZWQyYmY5MTAyNmJlYzlhOWQ0NDNiNjZmNGEwYjFhYTYzM2VlYiI7IHJfY2FwX2lkPSJNemsyTW1GaU9XTmpaVEpsTkRFeE5HRm1ZMlEyTnpNNVltWTRZalUzWXpnPXwxNTIzOTYzMzIyfGRiZjA1ZDM2MmRiYjNjZDNkYjAzZWU4NWNmNDFiMzE5OWQyZTNlYTAiOyBjYXBfaWQ9Ik5tSTFPRGt3TkdVd016VXlORE0yTkdFeU1qWXlOalU0WWpBMU5ESmhaRGM9fDE1MjM5NjMzMjJ8MjA0YTc3MGMyZWY3MzRjNDE4MzY1MjU4OTBiM2E0YmU1NGI0YTI4MSI7IGFsaXl1bmdmX3RjPUFRQUFBT3hYL1JFMXRRa0F3WjhHdDdxVWhwd1VTVmF0OyBfeHNyZj02NWI2NzA4NC04MDZlLTRlMTQtYjIwOS00NjIxMmE4MzQwMmU7IGRfYzA9IkFIQnZMOVRMZmcyUFR0dEpPMC1PcGowOHhBOUQwYlBxOE9zPXwxNTI0NjI3NDQ4IjsgY2Fwc2lvbl90aWNrZXQ9IjJ8MTowfDEwOjE1MjQ2Mjc1MTN8MTQ6Y2Fwc2lvbl90aWNrZXR8NDQ6TlRGbFpESXpaamN4T0RWaU5HSTBPRGhqTVRkallXTTFNakF6WXpZek1URT18YTU5NDZiOTJiOTYwNmUzNWMxMWViNDAyYzZjYTI1Njk0MjM2MTdmZmE0NDQwYWViNjA5ODc0NTgxYmNmNTcwMyI7IHpfYzA9IjJ8MTowfDEwOjE1MjQ2Mjc1Mjh8NDp6X2MwfDkyOk1pNHhSWE54V0VGUlFVRkJRVUZCWTBjNGRqRk5kQzFFVTFsQlFVRkNaMEZzVms1VFJXSk9WM2RCTFc1a1ZGZDNRVEZNY2tkcFlsOURYMlZmU1RGdFgyTmpZbGxCfDk0YTQ5OWU2NGQ1NTNhZmE2YWY0ZjJmZDEzMzdmOGI1NzY2YTlmODBiMWIwZThiNjNkZmEwMmUxMjA4Y2ZlNjciOyBfX3V0bWE9MTU1OTg3Njk2LjMxNTg4NDU1Ni4xNTI0NjQ2NzAxLjE1MjQ2NDY3MDEuMTUyNDY0NjcwMS4xOyBfX3V0bWM9MTU1OTg3Njk2OyBfX3V0bXo9MTU1OTg3Njk2LjE1MjQ2NDY3MDEuMS4xLnV0bWNzcj0oZGlyZWN0KXx1dG1jY249KGRpcmVjdCl8dXRtY21kPShub25lKScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnVXNlcl9BZ2VudCc6ICdNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNjUuMC4zMzI1LjE4MSBTYWZhcmkvNTM3LjM2JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICdDb29raWUnOiAncV9jMT1iOTY2NWE1OTU0NjQ0NzRkOWQ3Y2FmNDg1YmIzZmI5OHwxNTIzOTYxNzgwMDAwfDE1MjM5NjE3ODAwMDA7IF96YXA9YmQ3YTk1MDYtM2ZkMi00NWFkLTg1MGMtZjk3MjZhOGFjMjgzOyBsX2NhcF9pZD0iTVRrNVpUQXhNams0TnpWaE5Ea3laV0ZsTW1Jd01ETmtPRFkyTlRoak9HST18MTUyMzk2MzMyMnxkMGJlZDJiZjkxMDI2YmVjOWE5ZDQ0M2I2NmY0YTBiMWFhNjMzZWViIjsgcl9jYXBfaWQ9Ik16azJNbUZpT1dOalpUSmxOREV4TkdGbVkyUTJOek01WW1ZNFlqVTNZemc9fDE1MjM5NjMzMjJ8ZGJmMDVkMzYyZGJiM2NkM2RiMDNlZTg1Y2Y0MWIzMTk5ZDJlM2VhMCI7IGNhcF9pZD0iTm1JMU9Ea3dOR1V3TXpVeU5ETTJOR0V5TWpZeU5qVTRZakExTkRKaFpEYz18MTUyMzk2MzMyMnwyMDRhNzcwYzJlZjczNGM0MTgzNjUyNTg5MGIzYTRiZTU0YjRhMjgxIjsgYWxpeXVuZ2ZfdGM9QVFBQUFPeFgvUkUxdFFrQXdaOEd0N3FVaHB3VVNWYXQ7IF94c3JmPTY1YjY3MDg0LTgwNmUtNGUxNC1iMjA5LTQ2MjEyYTgzNDAyZTsgZF9jMD0iQUhCdkw5VExmZzJQVHR0Sk8wLU9wajA4eEE5RDBiUHE4T3M9fDE1MjQ2Mjc0NDgiOyBjYXBzaW9uX3RpY2tldD0iMnwxOjB8MTA6MTUyNDYyNzUxM3wxNDpjYXBzaW9uX3RpY2tldHw0NDpOVEZsWkRJelpqY3hPRFZpTkdJME9EaGpNVGRqWVdNMU1qQXpZell6TVRFPXxhNTk0NmI5MmI5NjA2ZTM1YzExZWI0MDJjNmNhMjU2OTQyMzYxN2ZmYTQ0NDBhZWI2MDk4NzQ1ODFiY2Y1NzAzIjsgel9jMD0iMnwxOjB8MTA6MTUyNDYyNzUyOHw0OnpfYzB8OTI6TWk0eFJYTnhXRUZSUVVGQlFVRkJZMGM0ZGpGTmRDMUVVMWxCUVVGQ1owRnNWazVUUldKT1YzZEJMVzVrVkZkM1FURk1ja2RwWWw5RFgyVmZTVEZ0WDJOallsbEJ8OTRhNDk5ZTY0ZDU1M2FmYTZhZjRmMmZkMTMzN2Y4YjU3NjZhOWY4MGIxYjBlOGI2M2RmYTAyZTEyMDhjZmU2NyI7IF9fdXRtYT0xNTU5ODc2OTYuMzE1ODg0NTU2LjE1MjQ2NDY3MDEuMTUyNDY0NjcwMS4xNTI0NjQ2NzAxLjE7IF9fdXRtYz0xNTU5ODc2OTY7IF9fdXRtej0xNTU5ODc2OTYuMTUyNDY0NjcwMS4xLjEudXRtY3NyPShkaXJlY3QpfHV0bWNjbj0oZGlyZWN0KXx1dG1jbWQ9KG5vbmUpJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdVU0VSX0FHRU5UJzogJ01vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDcuMDsgV2luZG93cyBOVCA1LjEpJwo=</text>
+        <text encoding="base64">ICAgICdVc2VyX0FnZW50JzogJ01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82NS4wLjMzMjUuMTgxIFNhZmFyaS81MzcuMzYnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REVGQVVMVF9SRVFVRVNUX0hFQURFUlMgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
