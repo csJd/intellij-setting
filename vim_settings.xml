@@ -544,6 +544,9 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(263).eml.txt" timestamp="1520658973709">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/quotes_spider.py" timestamp="1524644048761">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/1109_1.eml.txt" timestamp="1520662185282">
         <mark key="[" line="0" column="0" />
       </file>
@@ -915,6 +918,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524645566787">
+        <mark key="[" line="10" column="63" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/6th ANNUAL TOWNSHIP DEVELOPMENT Thailand February 2018.eml.txt" timestamp="1520659570322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1108,6 +1117,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1524644104465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1408,11 +1420,11 @@
       <jump line="130" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>doc2vec_sim.py</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLypbQGlkPSJUb3BpY01haW4iXS9kaXYvZGl2L2Rpdi9kaXZbM10vZGl2L2gyL2Rpdi9hCiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>doc2vec_sim.py</text>
+        <text>http://www.zhihu.com/</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1421,31 +1433,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLypbQGlkPSJUb3BpY01haW4iXS9kaXYvZGl2L2Rpdi9kaXZbM10vZGl2L2gyL2Rpdi9hCiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBwaXAgaW5zdGFsbCBodG1sMnRleHQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQogICAgICAgIC8vKltAaWQ9IlRvcGljTWFpbiJdL2Rpdi9kaXYvZGl2L2Rpdls0N10vZGl2L2gyL2Rpdi9hCiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBwaXAgaW5zdGFsbCBodG1sMnRleHQK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3VybCA9IG9zLnBhdGguam9pbihlbWxfZGlyLCBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKGVtbF9kaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmRpcgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3VybCA9IG9zLnBhdGguam9pbihlbWxfZGlyLCBmaWxlbmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZWRfdXJsID0gb3MucGF0aC5qb2luKHBhcnNlZF9kaXIsIGZpbGVuYW1lICsgZmlsZXR5cGUpICAjIHVybCB0byAuL2RhdGEvcGFyc2VkLwo=</text>
+        <text encoding="base64">ICAgIG9zLmNoZGlyKGVtbF9kaXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmRpcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
