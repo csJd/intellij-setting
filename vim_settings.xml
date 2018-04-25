@@ -299,7 +299,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524619940746">
+      <file name="/Dummy.txt" timestamp="1524654908517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -478,8 +478,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(286).eml.txt" timestamp="1520659073662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/settings.py" timestamp="1524649902626">
-        <mark key="[" line="18" column="51" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/settings.py" timestamp="1524654555231">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="19" column="129" />
+        <mark key="^" line="19" column="129" />
+        <mark key="." line="19" column="129" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(投诉).eml.txt" timestamp="1520657302271">
         <mark key="[" line="0" column="0" />
@@ -547,7 +550,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(263).eml.txt" timestamp="1520658973709">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/quotes_spider.py" timestamp="1524644048761">
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/quotes_spider.py" timestamp="1524654698398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/1109_1.eml.txt" timestamp="1520662185282">
@@ -921,7 +924,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524650197922" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524654938107">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="63" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/6th ANNUAL TOWNSHIP DEVELOPMENT Thailand February 2018.eml.txt" timestamp="1520659570322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1416,10 +1424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLypbQGlkPSJUb3BpY01haW4iXS9kaXYvZGl2L2Rpdi9kaXZbM10vZGl2L2gyL2Rpdi9hCiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.zhihu.com/</text>
+        <text encoding="base64">aW5jbHVkZT1kYXRhWz8odGFyZ2V0LnR5cGU9dG9waWNfc3RpY2t5X21vZHVsZSldLnRhcmdldC5kYXRhWz8odGFyZ2V0LnR5cGU9YW5zd2VyKV0udGFyZ2V0LmNvbnRlbnQscmVsYXRpb25zaGlwLmlzX2F1dGhvcml6ZWQsaXNfYXV0aG9yLHZvdGluZyxpc190aGFua2VkLGlzX25vdGhlbHA7ZGF0YVs/KHRhcmdldC50eXBlPXRvcGljX3N0aWNreV9tb2R1bGUpXS50YXJnZXQuZGF0YVs/KHRhcmdldC50eXBlPWFuc3dlcildLnRhcmdldC5pc19ub3JtYWwsY29tbWVudF9jb3VudCx2b3RldXBfY291bnQsY29udGVudCxyZWxldmFudF9pbmZvLGV4Y2VycHQuYXV0aG9yLmJhZGdlWz8odHlwZT1iZXN0X2Fuc3dlcmVyKV0udG9waWNzO2RhdGFbPyh0YXJnZXQudHlwZT10b3BpY19zdGlja3lfbW9kdWxlKV0udGFyZ2V0LmRhdGFbPyh0YXJnZXQudHlwZT1hcnRpY2xlKV0udGFyZ2V0LmNvbnRlbnQsdm90ZXVwX2NvdW50LGNvbW1lbnRfY291bnQsdm90aW5nLGF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9dG9waWNfc3RpY2t5X21vZHVsZSldLnRhcmdldC5kYXRhWz8odGFyZ2V0LnR5cGU9cGVvcGxlKV0udGFyZ2V0LmFuc3dlcl9jb3VudCxhcnRpY2xlc19jb3VudCxnZW5kZXIsZm9sbG93ZXJfY291bnQsaXNfZm9sbG93ZWQsaXNfZm9sbG93aW5nLGJhZGdlWz8odHlwZT1iZXN0X2Fuc3dlcmVyKV0udG9waWNzO2RhdGFbPyh0YXJnZXQudHlwZT1hbnN3ZXIpXS50YXJnZXQuY29udGVudCxyZWxhdGlvbnNoaXAuaXNfYXV0aG9yaXplZCxpc19hdXRob3Isdm90aW5nLGlzX3RoYW5rZWQsaXNfbm90aGVscDtkYXRhWz8odGFyZ2V0LnR5cGU9YW5zd2VyKV0udGFyZ2V0LmF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9YXJ0aWNsZSldLnRhcmdldC5jb250ZW50LGF1dGhvci5iYWRnZVs/KHR5cGU9YmVzdF9hbnN3ZXJlcildLnRvcGljcztkYXRhWz8odGFyZ2V0LnR5cGU9cXVlc3Rpb24pXS50YXJnZXQuY29tbWVudF9jb3VudCY=</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
@@ -1428,31 +1436,31 @@
         <text>decoded_bytes.decode(encoding=enc)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLypbQGlkPSJUb3BpY01haW4iXS9kaXYvZGl2L2Rpdi9kaXZbM10vZGl2L2gyL2Rpdi9hCiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQogICAgICAgIC8vKltAaWQ9IlRvcGljTWFpbiJdL2Rpdi9kaXYvZGl2L2Rpdls0N10vZGl2L2gyL2Rpdi9hCiAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwaXAgaW5zdGFsbCBodG1sMnRleHQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX3VybCA9IG9zLnBhdGguam9pbihlbWxfZGlyLCBmaWxlbmFtZSkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIC8vKltAaWQ9IlRvcGljTWFpbiJdL2Rpdi9kaXYvZGl2L2Rpdls0N10vZGl2L2gyL2Rpdi9hCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLypbQGlkPSJUb3BpY01haW4iXS9kaXYvZGl2L2Rpdi9kaXZbM10vZGl2L2gyL2Rpdi9hCiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8qW0BpZD0iVG9waWNNYWluIl0vZGl2L2Rpdi9kaXYvZGl2WzVdL2Rpdi9oMi9kaXYvYQogICAgICAgIC8vKltAaWQ9IlRvcGljTWFpbiJdL2Rpdi9kaXYvZGl2L2Rpdls0N10vZGl2L2gyL2Rpdi9hCiAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLmNoZGlyKGVtbF9kaXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmRpcgo=</text>
+        <text encoding="base64">IyBwaXAgaW5zdGFsbCBodG1sMnRleHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
