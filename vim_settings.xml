@@ -932,11 +932,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524713244388">
-        <mark key="[" line="62" column="56" />
-        <mark key="]" line="62" column="53" />
-        <mark key="." line="62" column="53" />
-        <mark key="^" line="62" column="53" />
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/zh_main.py" timestamp="1524713896842">
+        <mark key="[" line="15" column="64" />
+        <mark key="]" line="15" column="64" />
+        <mark key="." line="15" column="64" />
+        <mark key="^" line="15" column="64" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/6th ANNUAL TOWNSHIP DEVELOPMENT Thailand February 2018.eml.txt" timestamp="1520659570322">
         <mark key="[" line="0" column="0" />
@@ -977,6 +977,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(307).eml.txt" timestamp="1520659175179">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/qa_api_urls.txt" timestamp="1524713960641" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(141).eml.txt" timestamp="1520657992349">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1440,14 +1441,14 @@
       <jump line="130" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>%</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>pickle</text>
