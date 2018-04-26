@@ -663,11 +663,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018华南展秉承佳绩，喜迎25周年庆典！ (Ref_201702492).eml.txt" timestamp="1520662435423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524729998794">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524745672841">
+        <mark key="[" line="47" column="38" />
+        <mark key="]" line="47" column="43" />
+        <mark key="^" line="47" column="43" />
+        <mark key="." line="47" column="43" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(225).eml.txt" timestamp="1520658410800">
         <mark key="[" line="0" column="0" />
@@ -1457,14 +1457,14 @@
       <jump line="49" column="118" filename="D:/dev/scrapy/zh_spider/zh_spider/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>USER</text>
