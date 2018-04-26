@@ -299,7 +299,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524655125460">
+      <file name="/Dummy.txt" timestamp="1524730021792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -663,6 +663,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018华南展秉承佳绩，喜迎25周年庆典！ (Ref_201702492).eml.txt" timestamp="1520662435423">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524729998794">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(225).eml.txt" timestamp="1520658410800">
         <mark key="[" line="0" column="0" />
       </file>
@@ -695,6 +701,11 @@
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(20).eml.txt" timestamp="1520657478896">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/settings.py" timestamp="1524729434649">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(279).eml.txt" timestamp="1520659045717">
         <mark key="[" line="0" column="0" />
@@ -1386,6 +1397,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/qa_spider.py" timestamp="1524729989537">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(96).eml.txt" timestamp="1520657808929">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1438,6 +1454,7 @@
       <jump line="26" column="2" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
       <jump line="38" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
       <jump line="130" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
+      <jump line="49" column="118" filename="D:/dev/scrapy/zh_spider/zh_spider/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1447,13 +1464,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pickle</text>
+        <text>USER</text>
       </register>
       <register name="0" type="4">
-        <text>decoded_bytes.decode(encoding=enc)</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7CiAgICAgICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IFwKICAgICAgICAgICAgICAgICAgICAgICAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82NS4wLjMzMjUuMTgxIFNhZmFyaS81MzcuMzYnLAogICAgICAgICdhdXRob3JpemF0aW9uJzogJ29hdXRoIGMzY2VmN2M2NmExODQzZjhiM2E5ZTZhMWUzMTYwZTIwJywKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1462,34 +1479,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB6aHRlc3QuaXRlbXMgaW1wb3J0IEFuc3dlckl0ZW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqb19xdWVzdGkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgibmV0IHRvIGNvbW0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYV9kYXRhWzBdLmdldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0X3VybHMgPSBbJ2h0dHA6Ly96aGlodS5jb20vJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2wK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IEFuc3dlckl0ZW0oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pickle</last-search>
+      <last-search>USER</last-search>
       <last-offset />
-      <last-pattern>pickle</last-pattern>
+      <last-pattern>USER</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
@@ -1508,6 +1525,7 @@
         <entry encoding="base64">XDxYXD4=</entry>
         <entry>seed</entry>
         <entry>pickle</entry>
+        <entry>USER</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
