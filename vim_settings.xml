@@ -695,11 +695,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(250).eml.txt" timestamp="1520658877346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524817617910">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524818954804">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(36).eml.txt" timestamp="1520657543514">
         <mark key="[" line="0" column="0" />
@@ -1164,9 +1164,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524817574694">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1486,13 +1483,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
@@ -1501,31 +1498,31 @@
         <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvd25sb2FkX2RlbGF5ID0gNQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I0NPTkNVUlJFTlRfUkVRVUVTVFMgPSAzMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHh4eCA9IDEK</text>
+        <text encoding="base64">ICAgIHdvcmRzID0gdGl0bGVzX2ZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09OQ1VSUkVOVF9SRVFVRVNUU19QRVJfSVAgPSAxNgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I0NPT0tJRVNfRU5BQkxFRCA9IEZhbHNlCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
