@@ -697,11 +697,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(250).eml.txt" timestamp="1520658877346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524822655152">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
+      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524828754903">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="38" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(36).eml.txt" timestamp="1520657543514">
         <mark key="[" line="0" column="0" />
@@ -1490,13 +1490,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>'</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
