@@ -504,11 +504,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(256).eml.txt" timestamp="1520658919118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1524820160957">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1524821510273">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(115).eml.txt" timestamp="1520657902834">
         <mark key="[" line="0" column="0" />
@@ -546,6 +546,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(297).eml.txt" timestamp="1520659128720">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/data/question_urls.txt" timestamp="1524821475769" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(92).eml.txt" timestamp="1520657794367">
         <mark key="[" line="0" column="0" />
       </file>
@@ -680,7 +681,8 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(225).eml.txt" timestamp="1520658410800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" timestamp="1524805570919">
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" timestamp="1524820815444">
+        <mark key="'" line="105" column="0" />
         <mark key="[" line="34" column="17" />
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
@@ -1480,16 +1482,17 @@
       <jump line="18" column="0" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
       <jump line="119" column="11" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
       <jump line="9" column="21" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
+      <jump line="105" column="0" filename="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
