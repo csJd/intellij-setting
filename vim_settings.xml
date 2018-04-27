@@ -292,7 +292,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524805506007">
+      <file name="/Dummy.txt" timestamp="1524822785250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -697,11 +697,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(250).eml.txt" timestamp="1520658877346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524818954804">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524822655152">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(36).eml.txt" timestamp="1520657543514">
         <mark key="[" line="0" column="0" />
@@ -846,6 +846,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(81).eml.txt" timestamp="1520657750395">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/Text_Cat/Data/trem_count.txt" timestamp="1524822705200" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018年新疆暖通展3.29-31、2018年山西太原4.13-15日(1).eml.txt" timestamp="1520662437963">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1164,6 +1165,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1524822369111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1486,13 +1490,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
@@ -1501,31 +1505,31 @@
         <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdvcmRzID0gdGl0bGVzX2ZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ZGF0YV91cmwgPSAnLi9EYXRhL3NlcGFyYXRlZF90aXRsZXMudHh0Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
