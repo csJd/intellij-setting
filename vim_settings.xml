@@ -292,7 +292,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524798133292">
+      <file name="/Dummy.txt" timestamp="1524800651512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -574,7 +574,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(192).eml.txt" timestamp="1520658193055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/tutorial/tutorial/spiders/jd_spider.py" timestamp="1524712358220" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/'（.真.）'（.发.）'（.漂.）'（.亻弋.）（.開.'） 弓长=经=王里［15817.-20.-.1765］.eml.txt" timestamp="1520657293459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -598,6 +597,9 @@
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(146).eml.txt" timestamp="1520658008110">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/scrapy/Text_Cat/.gitignore" timestamp="1524800741580">
+        <mark key="[" line="4" column="4" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(105).eml.txt" timestamp="1520657842793">
         <mark key="[" line="0" column="0" />
@@ -838,7 +840,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(154).eml.txt" timestamp="1520658035762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/random_ua.py" timestamp="1524791847310" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/23 Tips to Introduce a Speaker Without Embarrassing Yourself.eml.txt" timestamp="1520659996284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -988,7 +989,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(307).eml.txt" timestamp="1520659175179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zhtest/zhtest/spiders/qa_api_urls.txt" timestamp="1524713960641" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(141).eml.txt" timestamp="1520657992349">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1034,7 +1034,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(79).eml.txt" timestamp="1520657744294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/data/question_urls.txt" timestamp="1524796212855" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(138).eml.txt" timestamp="1520657982826">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1169,6 +1168,12 @@
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2nd Annual Facilities Management  22-23 November 2017    Sofitel Bangkok Sukhumv.txt" timestamp="1520659387963">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524801262280">
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="55" column="21" />
+        <mark key="^" line="55" column="21" />
+        <mark key="." line="55" column="21" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/450份全国各地裁判文书, 验证厦门法官枉法裁判。请见附件。.eml.txt" timestamp="1520662139041">
         <mark key="[" line="0" column="0" />
@@ -1480,28 +1485,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB6aF9zcGlkZXIuc3BpZGVycyBpbXBvcnQgcWFfc3BpZGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9cWFfYXBpX3VybCwgY2FsbGJhY2s9c2VsZi5wYXJzZV9xYSkK</text>
+        <text encoding="base64">ZnJvbSB6aF9zcGlkZXIuc3BpZGVycyBpbXBvcnQgcWFfc3BpZGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgcWFfYXBpX3VybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9cWFfYXBpX3VybCwgY2FsbGJhY2s9c2VsZi5wYXJzZV9xYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgcWFfYXBpX3VybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHNjcmFweS5SZXF1ZXN0KHVybD11cmwsIGNhbGxiYWNrPXFhX3NwaWRlci5RYVNwaWRlclNwaWRlci5wYXJzZSwgaGVhZGVycz1zZWxmLmhlYWRlcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHVybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHNjcmFweS5SZXF1ZXN0KHVybD11cmwsIGNhbGxiYWNrPXFhX3NwaWRlci5RYVNwaWRlclNwaWRlci5wYXJzZSwgaGVhZGVycz1zZWxmLmhlYWRlcnMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UmFuZG9tVUEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHVybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmFuZG9tVUEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
