@@ -228,13 +228,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(259).eml.txt" timestamp="1520658959215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" timestamp="1523324246330">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(129).eml.txt" timestamp="1520657954651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,7 +292,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524751026844">
+      <file name="/Dummy.txt" timestamp="1524798133292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -669,11 +662,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018华南展秉承佳绩，喜迎25周年庆典！ (Ref_201702492).eml.txt" timestamp="1520662435423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524791297810">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="19" column="24" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524798573764">
+        <mark key="[" line="51" column="56" />
+        <mark key="]" line="48" column="70" />
+        <mark key="^" line="48" column="70" />
+        <mark key="." line="48" column="70" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(225).eml.txt" timestamp="1520658410800">
         <mark key="[" line="0" column="0" />
@@ -708,8 +701,8 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(20).eml.txt" timestamp="1520657478896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/settings.py" timestamp="1524792717297">
-        <mark key="[" line="68" column="0" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/settings.py" timestamp="1524798037772">
+        <mark key="[" line="38" column="30" />
         <mark key="]" line="68" column="1" />
         <mark key="." line="68" column="1" />
         <mark key="^" line="68" column="1" />
@@ -1259,11 +1252,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" timestamp="1524792024761">
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="7" column="21" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(315).eml.txt" timestamp="1520659201562">
         <mark key="[" line="0" column="0" />
@@ -1400,13 +1391,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017年员工手册中不能犯的N个错误(1).eml.txt" timestamp="1520662412919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Downloads/xuanyuan/xytest/classfication_tfidf.py" timestamp="1522650351276">
-        <mark key="'" line="93" column="13" />
-        <mark key="[" line="140" column="24" />
-        <mark key="]" line="140" column="22" />
-        <mark key="." line="140" column="22" />
-        <mark key="^" line="140" column="22" />
-      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(305).eml.txt" timestamp="1520659169964">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1477,14 +1461,14 @@
       <jump line="9" column="21" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
@@ -1493,31 +1477,31 @@
         <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmFuZG9tVUEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB6aF9zcGlkZXIuc3BpZGVycyBpbXBvcnQgcWFfc3BpZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9cWFfYXBpX3VybCwgY2FsbGJhY2s9c2VsZi5wYXJzZV9xYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgcWFfYXBpX3VybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkubWlkZGxld2FyZSBpbXBvcnQgVXNlckFnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHNjcmFweS5SZXF1ZXN0KHVybD11cmwsIGNhbGxiYWNrPXFhX3NwaWRlci5RYVNwaWRlclNwaWRlci5wYXJzZSwgaGVhZGVycz1zZWxmLmhlYWRlcnMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHVybCBpbiBzZWxmLnFhX2FwaV91cmxzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0NPTkNVUlJFTlRfUkVRVUVTVFNfUEVSX0lQID0gMTYK</text>
+        <text encoding="base64">UmFuZG9tVUEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBERUZBVUxUX1JFUVVFU1RfSEVBREVSUyA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
