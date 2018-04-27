@@ -669,11 +669,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018华南展秉承佳绩，喜迎25周年庆典！ (Ref_201702492).eml.txt" timestamp="1520662435423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524748550997">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="1" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/questions_spider.py" timestamp="1524791297810">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
         <mark key="^" line="58" column="1" />
-        <mark key="." line="58" column="1" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(225).eml.txt" timestamp="1520658410800">
         <mark key="[" line="0" column="0" />
@@ -708,10 +708,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(20).eml.txt" timestamp="1520657478896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/settings.py" timestamp="1524750968321">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/settings.py" timestamp="1524792717297">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="1" />
+        <mark key="." line="68" column="1" />
+        <mark key="^" line="68" column="1" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(279).eml.txt" timestamp="1520659045717">
         <mark key="[" line="0" column="0" />
@@ -844,6 +845,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(154).eml.txt" timestamp="1520658035762">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/random_ua.py" timestamp="1524791847310" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/23 Tips to Introduce a Speaker Without Embarrassing Yourself.eml.txt" timestamp="1520659996284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1150,7 +1152,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524746837384">
+      <file name="/Python Console" timestamp="1524791152553">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1254,6 +1256,13 @@
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(226).eml.txt" timestamp="1520658413836">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" timestamp="1524792024761">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(315).eml.txt" timestamp="1520659201562">
         <mark key="[" line="0" column="0" />
@@ -1403,11 +1412,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/qa_spider.py" timestamp="1524750741673">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="21" />
+      <file name="D:/dev/scrapy/zh_spider/zh_spider/spiders/qa_spider.py" timestamp="1524790584765">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="39" column="55" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(96).eml.txt" timestamp="1520657808929">
         <mark key="[" line="0" column="0" />
@@ -1462,58 +1471,61 @@
       <jump line="38" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
       <jump line="130" column="0" filename="E:/Downloads/xuanyuan/xytest/doc2vec_sim.py" />
       <jump line="49" column="118" filename="D:/dev/scrapy/zh_spider/zh_spider/settings.py" />
+      <jump line="18" column="0" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
+      <jump line="119" column="11" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
+      <jump line="9" column="21" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdXNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>USER</text>
+        <text>RANDOM</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7CiAgICAgICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IFwKICAgICAgICAgICAgICAgICAgICAgICAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS82NS4wLjMzMjUuMTgxIFNhZmFyaS81MzcuMzYnLAogICAgICAgICdhdXRob3JpemF0aW9uJzogJ29hdXRoIGMzY2VmN2M2NmExODQzZjhiM2E5ZTZhMWUzMTYwZTIwJywKICAgIH0K</text>
+        <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhdXNlCg==</text>
+        <text encoding="base64">UmFuZG9tVUEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnQ2hvb2tpZSc6ICdxX2MxPWI5NjY1YTU5NTQ2NDQ3NGQ5ZDdjYWY0ODViYjNmYjk4fDE1MjM5NjE3ODAwMDB8MTUyMzk2MTc4MDAwMDsgX3phcD1iZDdhOTUwNi0zZmQyLTQ1YWQtODUwYy1mOTcyNmE4YWMyODM7IGxfY2FwX2lkPSJNVGs1WlRBeE1qazROelZoTkRreVpXRmxNbUl3TUROa09EWTJOVGhqT0dJPXwxNTIzOTYzMzIyfGQwYmVkMmJmOTEwMjZiZWM5YTlkNDQzYjY2ZjRhMGIxYWE2MzNlZWIiOyByX2NhcF9pZD0iTXprMk1tRmlPV05qWlRKbE5ERXhOR0ZtWTJRMk56TTVZbVk0WWpVM1l6Zz18MTUyMzk2MzMyMnxkYmYwNWQzNjJkYmIzY2QzZGIwM2VlODVjZjQxYjMxOTlkMmUzZWEwIjsgY2FwX2lkPSJObUkxT0Rrd05HVXdNelV5TkRNMk5HRXlNall5TmpVNFlqQTFOREpoWkRjPXwxNTIzOTYzMzIyfDIwNGE3NzBjMmVmNzM0YzQxODM2NTI1ODkwYjNhNGJlNTRiNGEyODEiOyBhbGl5dW5nZl90Yz1BUUFBQU94WC9SRTF0UWtBd1o4R3Q3cVVocHdVU1ZhdDsgX3hzcmY9NjViNjcwODQtODA2ZS00ZTE0LWIyMDktNDYyMTJhODM0MDJlOyBkX2MwPSJBSEJ2TDlUTGZnMlBUdHRKTzAtT3BqMDh4QTlEMGJQcThPcz18MTUyNDYyNzQ0OCI7IGNhcHNpb25fdGlja2V0PSIyfDE6MHwxMDoxNTI0NjI3NTEzfDE0OmNhcHNpb25fdGlja2V0fDQ0Ok5URmxaREl6WmpjeE9EVmlOR0kwT0Roak1UZGpZV00xTWpBell6WXpNVEU9fGE1OTQ2YjkyYjk2MDZlMzVjMTFlYjQwMmM2Y2EyNTY5NDIzNjE3ZmZhNDQ0MGFlYjYwOTg3NDU4MWJjZjU3MDMiOyB6X2MwPSIyfDE6MHwxMDoxNTI0NjI3NTI4fDQ6el9jMHw5MjpNaTR4UlhOeFdFRlJRVUZCUVVGQlkwYzRkakZOZEMxRVUxbEJRVUZDWjBGc1ZrNVRSV0pPVjNkQkxXNWtWRmQzUVRGTWNrZHBZbDlEWDJWZlNURnRYMk5qWWxsQnw5NGE0OTllNjRkNTUzYWZhNmFmNGYyZmQxMzM3ZjhiNTc2NmE5ZjgwYjFiMGU4YjYzZGZhMDJlMTIwOGNmZTY3IjsgX191dG1hPTE1NTk4NzY5Ni4zMTU4ODQ1NTYuMTUyNDY0NjcwMS4xNTI0NjQ2NzAxLjE1MjQ2NDY3MDEuMTsgX191dG1jPTE1NTk4NzY5NjsgX191dG16PTE1NTk4NzY5Ni4xNTI0NjQ2NzAxLjEuMS51dG1jc3I9KGRpcmVjdCl8dXRtY2NuPShkaXJlY3QpfHV0bWNtZD0obm9uZSknLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkubWlkZGxld2FyZSBpbXBvcnQgVXNlckFnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NPTkNVUlJFTlRfUkVRVUVTVFNfUEVSX0lQID0gMTYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBERUZBVUxUX1JFUVVFU1RfSEVBREVSUyA9IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>USER</last-search>
+      <last-search>RANDOM</last-search>
       <last-offset />
-      <last-pattern>USER</last-pattern>
+      <last-pattern>RANDOM</last-pattern>
       <last-replace>T</last-replace>
       <last-substitute>Item</last-substitute>
       <last-dir>1</last-dir>
@@ -1533,6 +1545,7 @@
         <entry>seed</entry>
         <entry>pickle</entry>
         <entry>USER</entry>
+        <entry>RANDOM</entry>
       </history-search>
       <history-cmd>
         <entry>s/illegal/isIllegal</entry>
