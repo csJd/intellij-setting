@@ -292,7 +292,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524914246351">
+      <file name="/Dummy.txt" timestamp="1524918883149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -1375,11 +1375,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(127).eml.txt" timestamp="1520657948157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" timestamp="1524916654541">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" timestamp="1524918794052">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(216).eml.txt" timestamp="1520658321292">
         <mark key="[" line="0" column="0" />
@@ -1495,16 +1496,20 @@
       <jump line="119" column="11" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
       <jump line="9" column="21" filename="D:/dev/scrapy/zh_spider/zh_spider/middlewares.py" />
       <jump line="105" column="0" filename="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" />
+      <jump line="16" column="11" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
+      <jump line="33" column="13" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
+      <jump line="41" column="4" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
+      <jump line="1" column="0" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
@@ -1513,31 +1518,31 @@
         <text>question/275098818'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdXJsID0gJ2h0dHBzOi8vd3d3LnpoaWh1LmNvbS9xdWVzdGlvbi8yNzUwOTg4MTgnCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdF91cmwgPSAnaHR0cDovL3d3dy56aGlodS5jb20nCg==</text>
+        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVhZGVycyA9IHsuLi59Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBmZXRjaCBhIG5ldyByZXNwb25zZSBmcm9tIHRoZSBnaXZlbiByZXF1ZXN0IGFuZCB1cGRhdGUgYWxsIHJlbGF0ZWQgb2JqZWN0cyBhY2NvcmRpbmdseS4K</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS54cGF0aCgnLy8qW0BpZD0icm9vdCJdL2Rpdi9tYWluL2Rpdi9kaXZbMV0vZGl2WzJdL2RpdlsxXS9kaXZbMl0vZGl2L2Rpdi9kaXYvZGl2L2Rpdi9zdHJvbmcnKS5leHRyYWN0KCkpCg==</text>
+        <text encoding="base64">ICAgIHRlc3RfZmlsZV91cmwgPSAnLi4vRGF0YS96aGlodV9Ib3RUb3BpY3NfZmVuY2kvWzE5OTcxNDQ3XdbpuqPT0MTE0KnM2Mmr1NrEx7Hf0afPsLXEu7DT0MTE0Km12Le90qrXotLitcTT0MTE0Km2q873srvE3LTtuf0udHh0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
