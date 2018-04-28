@@ -1188,10 +1188,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2nd Annual Facilities Management  22-23 November 2017    Sofitel Bangkok Sukhumv.txt" timestamp="1520659387963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524900315079">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524901090661">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/450份全国各地裁判文书, 验证厦门法官枉法裁判。请见附件。.eml.txt" timestamp="1520662139041">
         <mark key="[" line="0" column="0" />
@@ -1485,14 +1486,14 @@
       <jump line="105" column="0" filename="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
