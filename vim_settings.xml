@@ -339,7 +339,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(185).eml.txt" timestamp="1520658163403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/data/question_urls.txt.bak" timestamp="1524811560586" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(274).eml.txt" timestamp="1520659012449">
         <mark key="[" line="0" column="0" />
       </file>
@@ -546,7 +545,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(297).eml.txt" timestamp="1520659128720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/data/question_urls.txt" timestamp="1524821475769" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(92).eml.txt" timestamp="1520657794367">
         <mark key="[" line="0" column="0" />
       </file>
@@ -697,7 +695,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(250).eml.txt" timestamp="1520658877346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524828754903">
+      <file name="D:/dev/scrapy/Text_Cat/topic_from_tf.py" timestamp="1524899215354">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="18" column="38" />
         <mark key="^" line="18" column="31" />
@@ -846,7 +844,6 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(81).eml.txt" timestamp="1520657750395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/Data/trem_count.txt" timestamp="1524822705200" />
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2018年新疆暖通展3.29-31、2018年山西太原4.13-15日(1).eml.txt" timestamp="1520662437963">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1167,7 +1164,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524822369111">
+      <file name="/Python Console" timestamp="1524899435879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1191,11 +1188,10 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2nd Annual Facilities Management  22-23 November 2017    Sofitel Bangkok Sukhumv.txt" timestamp="1520659387963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524804753990">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="1" />
-        <mark key="^" line="60" column="1" />
-        <mark key="." line="60" column="1" />
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524900315079">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/450份全国各地裁判文书, 验证厦门法官枉法裁判。请见附件。.eml.txt" timestamp="1520662139041">
         <mark key="[" line="0" column="0" />
@@ -1489,8 +1485,8 @@
       <jump line="105" column="0" filename="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1505,31 +1501,31 @@
         <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRjCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRjCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YV91cmwgPSAnLi9EYXRhL3NlcGFyYXRlZF90aXRsZXMudHh0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amsK</text>
+        <text encoding="base64">ZGF0YV91cmwgPSAnLi9EYXRhL3NlcGFyYXRlZF90aXRsZXMudHh0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
