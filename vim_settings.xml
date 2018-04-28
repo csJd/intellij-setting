@@ -1375,6 +1375,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(127).eml.txt" timestamp="1520657948157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" timestamp="1524916654541">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(216).eml.txt" timestamp="1520658321292">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1492,7 +1498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdXJsID0gJ2h0dHBzOi8vd3d3LnpoaWh1LmNvbS9xdWVzdGlvbi8yNzUwOTg4MTgnCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1507,31 +1513,31 @@
         <text>question/275098818'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdXJsID0gJ2h0dHBzOi8vd3d3LnpoaWh1LmNvbS9xdWVzdGlvbi8yNzUwOTg4MTgnCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdF91cmwgPSAnaHR0cDovL3d3dy56aGlodS5jb20nCg==</text>
+        <text encoding="base64">ICAgIHRlc3RfdXJsID0gJ2h0dHBzOi8vd3d3LnpoaWh1LmNvbS9xdWVzdGlvbi8yNzUwOTg4MTgnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGVhZGVycyA9IHsuLi59Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBmZXRjaCBhIG5ldyByZXNwb25zZSBmcm9tIHRoZSBnaXZlbiByZXF1ZXN0IGFuZCB1cGRhdGUgYWxsIHJlbGF0ZWQgb2JqZWN0cyBhY2NvcmRpbmdseS4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS54cGF0aCgnLy8qW0BpZD0icm9vdCJdL2Rpdi9tYWluL2Rpdi9kaXZbMV0vZGl2WzJdL2RpdlsxXS9kaXZbMl0vZGl2L2Rpdi9kaXYvZGl2L2Rpdi9zdHJvbmcnKS5leHRyYWN0KCkpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGVzdF91cmwgPSAnaHR0cDovL3d3dy56aGlodS5jb20nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aGVhZGVycyA9IHsuLi59Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBmZXRjaCBhIG5ldyByZXNwb25zZSBmcm9tIHRoZSBnaXZlbiByZXF1ZXN0IGFuZCB1cGRhdGUgYWxsIHJlbGF0ZWQgb2JqZWN0cyBhY2NvcmRpbmdseS4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzY3JhcHkuUmVxdWVzdCh1cmw9c2VsZi50ZXN0X3VybCwgY2FsbGJhY2s9c2VsZi5wYXJzZSkgIywgaGVhZGVycz1zZWxmLmhlYWRlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS54cGF0aCgnLy8qW0BpZD0icm9vdCJdL2Rpdi9tYWluL2Rpdi9kaXZbMV0vZGl2WzJdL2RpdlsxXS9kaXZbMl0vZGl2L2Rpdi9kaXYvZGl2L2Rpdi9zdHJvbmcnKS5leHRyYWN0KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
