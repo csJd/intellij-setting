@@ -1188,11 +1188,11 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2nd Annual Facilities Management  22-23 November 2017    Sofitel Bangkok Sukhumv.txt" timestamp="1520659387963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524901090661">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="51" column="33" />
-        <mark key="^" line="51" column="33" />
+      <file name="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1524904519943">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/450份全国各地裁判文书, 验证厦门法官枉法裁判。请见附件。.eml.txt" timestamp="1520662139041">
         <mark key="[" line="0" column="0" />
@@ -1486,8 +1486,8 @@
       <jump line="105" column="0" filename="D:/dev/scrapy/Text_Cat/zh_scrapy/zh_spider/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1502,31 +1502,31 @@
         <text encoding="base64">I0RPV05MT0FERVJfTUlERExFV0FSRVMgPSB7CiMgICAgJ3poX3NwaWRlci5taWRkbGV3YXJlcy5aaFNwaWRlckRvd25sb2FkZXJNaWRkbGV3YXJlJzogNTQzLAojfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBmZW5jaS5mZW5jaV9maWxlKG9yaWdfZmlsZV91cmwsIHNlcHRfc2VwdF91cmwpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRjCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRjCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YV91cmwgPSAnLi9EYXRhL3NlcGFyYXRlZF90aXRsZXMudHh0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
