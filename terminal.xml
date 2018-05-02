@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd.exe /K &quot;D:\miniconda3\Scripts\activate.bat&quot;" />
+    <option name="myShellPath" value="cmd.exe  &quot;/K&quot;  &quot;D:\Program Files\miniconda3\Scripts\activate.bat&quot;  &quot;D:\Program Files\miniconda3&quot;" />
   </component>
 </application>
