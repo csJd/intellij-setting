@@ -292,7 +292,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525339007509">
+      <file name="/Dummy.txt" timestamp="1525339140498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -962,6 +962,12 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/2017-08-0912_11_35教您做好邮件营销，模拟手工发送一对一产品开发信.eml.txt" timestamp="1520662301114">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/pyc-projects/test/test.py" timestamp="1525339205049">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(82).eml.txt" timestamp="1520657752849">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1171,7 +1177,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1525338685853">
+      <file name="/Python Console" timestamp="1525339092058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1510,8 +1516,8 @@
       <jump line="1" column="0" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1526,7 +1532,7 @@
         <text>question/275098818'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1535,22 +1541,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RfZmlsZV91cmwgPSAnLi4vRGF0YS96aGlodV9Ib3RUb3BpY3NfZmVuY2kvWzE5OTcxNDQ3XdbpuqPT0MTE0KnM2Mmr1NrEx7Hf0afPsLXEu7DT0MTE0Km12Le90qrXotLitcTT0MTE0Km2q873srvE3LTtuf0udHh0Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
