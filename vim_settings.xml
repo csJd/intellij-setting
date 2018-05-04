@@ -298,6 +298,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="/code.py" timestamp="1525394774984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="66" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(227).eml.txt" timestamp="1520658416537">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1177,7 +1183,7 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(145).eml.txt" timestamp="1520658003334">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1525339092058">
+      <file name="/Python Console" timestamp="1525394954771">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(60).eml.txt" timestamp="1520657639473">
@@ -1517,13 +1523,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGZfcGFya3MgPSBwZC5yZWFkX2NzdignLi4vZGF0YS9wYXJrcy5jc3YnLCBpbmRleF9jb2w9J1BhcmsgY29kZScpCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
@@ -1532,10 +1538,10 @@
         <text>question/275098818'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGZfcGFya3MgPSBwZC5yZWFkX2NzdignLi4vZGF0YS9wYXJrcy5jc3YnLCBpbmRleF9jb2w9J1BhcmsgY29kZScpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1544,19 +1550,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
