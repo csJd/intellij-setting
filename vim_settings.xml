@@ -84,10 +84,10 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(242).eml.txt" timestamp="1520658835829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525423466641">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525424172794">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1511014530871">
         <mark key="[" line="101" column="22" />
@@ -1530,14 +1530,14 @@
       <jump line="1" column="0" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB4Z2Jvb3N0Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>RANDOM</text>
