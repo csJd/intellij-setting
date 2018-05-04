@@ -81,11 +81,10 @@
       <file name="E:/Downloads/xuanyuan/parsed_dengdeng/(无主题)(242).eml.txt" timestamp="1520658835829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525419566286">
-        <mark key="[" line="7" column="67" />
-        <mark key="]" line="7" column="67" />
-        <mark key="^" line="7" column="67" />
-        <mark key="." line="7" column="67" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525419707223">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/dev/idea-projects/algs4/src/Deque.java" timestamp="1511014530871">
         <mark key="[" line="101" column="22" />
@@ -1528,8 +1527,8 @@
       <jump line="1" column="0" filename="D:/dev/scrapy/Text_Cat/sentiment/sentiment_match.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB4Z2Jvb3N0Lgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -1544,16 +1543,16 @@
         <text>question/275098818'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGxvYWRfZGF0YSgpOgo=</text>
+        <text encoding="base64">ZnJvbSB4Z2Jvb3N0Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGZfcGFya3MgPSBwZC5yZWFkX2NzdignLi4vZGF0YS9wYXJrcy5jc3YnLCBpbmRleF9jb2w9J1BhcmsgY29kZScpCg==</text>
+        <text encoding="base64">ZGVmIGxvYWRfZGF0YSgpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGZfcGFya3MgPSBwZC5yZWFkX2NzdignLi4vZGF0YS9wYXJrcy5jc3YnLCBpbmRleF9jb2w9J1BhcmsgY29kZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1562,13 +1561,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZXRfY250KGZpbGUucmVhZCgpLnNwbGl0KCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3Blbih0ZXN0X2ZpbGVfdXJsLCAncicsIGVuY29kaW5nPSd1dGYtOCcpIGFzIHRlc3RfZmlsZToK</text>
+        <text encoding="base64">ICAgICAgICBIb3RUb3BpY3NfZmVuY2kvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
