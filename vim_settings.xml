@@ -3,12 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code.py" timestamp="1525683909543">
+      <file name="/code.py" timestamp="1525742230727">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525742867050">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
