@@ -4,7 +4,7 @@
     <property name="created">2017-03-06T19:53:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-01-27T08:55:47</property>
+    <property name="modified">2018-01-26T23:07:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -15,9 +15,6 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <colors>
-    <option name="DOCUMENTATION_COLOR" value="3c3f41" />
-  </colors>
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
