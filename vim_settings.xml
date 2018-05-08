@@ -6,30 +6,34 @@
       <file name="/code.py" timestamp="1525742230727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525742867050">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525744030976">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
+        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
