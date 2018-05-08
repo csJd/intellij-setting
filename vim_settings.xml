@@ -3,12 +3,58 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1525745710100">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+      </file>
       <file name="/code.py" timestamp="1525683909543">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1525746165103">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
+        <mark key="[" line="5" column="78" />
+        <mark key="]" line="5" column="78" />
+        <mark key="." line="5" column="78" />
+        <mark key="^" line="5" column="78" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>)</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
