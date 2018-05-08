@@ -3,49 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/code.py" timestamp="1525742230727">
+      <file name="/code.py" timestamp="1525683909543">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1525744806067">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
-        <mark key="[" line="5" column="78" />
-        <mark key="]" line="5" column="78" />
-        <mark key="." line="5" column="78" />
-        <mark key="^" line="5" column="78" />
       </file>
     </filemarks>
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>k</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
