@@ -18,47 +18,47 @@
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525825763122">
-        <mark key="[" line="34" column="66" />
-        <mark key="]" line="34" column="64" />
-        <mark key="." line="34" column="64" />
-        <mark key="^" line="34" column="64" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525829315386">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="46" column="3" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bGxfZGF0YSA9IFt0cmFpbiwgdGVzdF0K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBkYXRhIGkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcGNsYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmFnZS5hc3R5cGUoaW50KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmxvY1soZGF0YS5hZ2UgPiAxNikgJiAoZGF0YS5hZ2UgPD0gMzIpLCAnYWdlJ10gPSAyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhLmxvY1soZGF0YS5hZ2UgPiAxNikgJiAoZGF0YS5hZ2UgPD0gMzIpLCAnYWdlJ10gPSAyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRqawo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMK</text>
+        <text encoding="base64">ICAgICAgICBkYXRqawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICMgUGFzc2VuZ2VySWQsU3Vydml2ZWQsUGNsYXNzLE5hbWUsU2V4LEFnZSxTaWJTcCxQYXJjaCxUaWNrZXQsRmFyZSxDYWJpbixFbWJhcmtlZAogICAgIyAxLDAsMywiQnJhdW5kLCBNci4gT3dlbiBIYXJyaXMiLG1hbGUsMjIsMSwwLEEvNSAyMTE3MSw3LjI1LCxTCiAgICAjIDIsMSwxLCJDdW1pbmdzLCBNcnMuIEpvaG4gQnJhZGxleSAoRmxvcmVuY2UgQnJpZ2dzIFRoYXllcikiLGZlbWFsZSwzOCwxLDAsUEMgMTc1OTksNzEuMjgzMyxDODUsQwogICAg</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
