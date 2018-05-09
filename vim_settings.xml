@@ -18,11 +18,10 @@
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525830310755">
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="52" column="9" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="51" column="14" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525830602883">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="41" />
+        <mark key="." line="52" column="41" />
       </file>
     </filemarks>
     <jumps />
@@ -37,25 +36,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmFnZS5hc3R5cGUoaW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmxvY1soZGF0YS5hZ2UgPiAxNikgJiAoZGF0YS5hZ2UgPD0gMzIpLCAnYWdlJ10gPSAyCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmFnZS5hc3R5cGUoaW50KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhLmxvY1soZGF0YS5hZ2UgPiAxNikgJiAoZGF0YS5hZ2UgPD0gMzIpLCAnYWdlJ10gPSAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRqawo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhLmxvY1soZGF0YS5hZ2UgPiAxNikgJiAoZGF0YS5hZ2UgPD0gMzIpLCAnYWdlJ10gPSAyCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkYXRqawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkYXRqawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
