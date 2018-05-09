@@ -18,11 +18,11 @@
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525829315386">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="46" column="3" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525830310755">
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="52" column="9" />
+        <mark key="^" line="51" column="14" />
       </file>
     </filemarks>
     <jumps />
@@ -30,8 +30,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
