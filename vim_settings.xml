@@ -18,11 +18,11 @@
       <file name="/Python Console" timestamp="1525746165103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/gsmaven/pom.xml" timestamp="1528534344990">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+      <file name="D:/dev/java_projects/gsmaven/pom.xml" timestamp="1528536308597">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
         <mark key="[" line="5" column="78" />
@@ -40,34 +40,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vcmVwb3NpdG9yeS5qYm9zcy5vcmcvbWF2ZW4yLzwvdXJsPgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVybD5odHRwOi8vcmVwb3NpdG9yeS5qYm9zcy5vcmcvbWF2ZW4yLzwvdXJsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlkPmpib3NzLW1hdmVuMi1yZWxlYXNlLXJlcG9zaXRvcnk8L2lkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NTwvdmVyc2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
