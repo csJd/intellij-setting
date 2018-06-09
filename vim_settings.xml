@@ -6,13 +6,7 @@
       <file name="vim_settings.xml" timestamp="1525745710100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528542828686">
+      <file name="/Dummy.txt" timestamp="1528551735479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1525683909543">
@@ -27,6 +21,21 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f370906-4404-445a-b891-9c50aedf0510/console_1.sql" timestamp="1528551780623">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user [fenqi@localhost]" timestamp="1528551949359">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+      </file>
+      <file name="/account [fenqi@localhost]" timestamp="1528551916973">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
         <mark key="[" line="5" column="78" />
         <mark key="]" line="5" column="78" />
@@ -38,6 +47,9 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="/dummy.sql" timestamp="1528551950750">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
