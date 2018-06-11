@@ -49,11 +49,10 @@
         <mark key="." line="5" column="78" />
         <mark key="^" line="5" column="78" />
       </file>
-      <file name="D:/dev/java_projects/testDemo/pom.xml" timestamp="1528693916188">
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="75" column="3" />
-        <mark key="^" line="75" column="3" />
-        <mark key="." line="75" column="3" />
+      <file name="D:/dev/java_projects/testDemo/pom.xml" timestamp="1528698010899">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/dev/java_projects/gsmaven/src/main/java/Main.java" timestamp="1528534636495">
         <mark key="[" line="6" column="27" />
@@ -76,34 +75,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+MS4wLjItU05BUFNIT1Q8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGFydGlmYWN0SWQ+d3hyLWNvbXBvbmVudDwvYXJ0aWZhY3RJZD4K</text>
+        <text encoding="base64">CTxwYXJlbnQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPGdyb3VwSWQ+Y29tLnd4cjwvZ3JvdXBJZD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CTwvcGFyZW50Pgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8dmVyc2lvbj4xLjAuMC1TTkFQU0hPVDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD53eHItcGFyZW50PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxwYXJlbnQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
