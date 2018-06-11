@@ -26,6 +26,13 @@
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/scut1/testDemo/pom.xml" timestamp="1528686322099">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -51,37 +58,39 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxncm91cElkPmNvbS53eHI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTxncm91cElkPmNvbS53eHI8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50Pgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvZGlzdHJpYnV0aW9uTWFuYWdlbWVudD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
