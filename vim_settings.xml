@@ -16,6 +16,7 @@
       <file name="/Python Console" timestamp="1525746165103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/controller/TestController.java" timestamp="1528702245443" />
       <file name="D:/dev/java_projects/gsmaven/pom.xml" timestamp="1528536752157">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -23,6 +24,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f370906-4404-445a-b891-9c50aedf0510/console_1.sql" timestamp="1528551780623">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/dao/mapper/AccountMapper.java" timestamp="1528702271048">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
@@ -40,6 +47,7 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="D:/dev/java_projects/ww-demo/src/main/resources/application.properties" timestamp="1528702344264" />
       <file name="/account [fenqi@localhost]" timestamp="1528551916973">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,6 +71,9 @@
       <file name="/dummy.sql" timestamp="1528552511483">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1528701966498">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/DemoApplication.java" timestamp="1528697691432">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="36" />
@@ -77,8 +88,8 @@
       <register name="1" type="2">
         <text encoding="base64">CTwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+aW8uc3ByaW5nZm94PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmdmb3gtc3dhZ2dlcjI8L2FydGlmYWN0SWQ+Cgk=</text>
@@ -105,7 +116,7 @@
         <text encoding="base64">ICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
