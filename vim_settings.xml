@@ -64,6 +64,12 @@
       <file name="/dummy.sql" timestamp="1528552511483">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/DemoApplication.java" timestamp="1528697691432">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
