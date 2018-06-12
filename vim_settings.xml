@@ -20,7 +20,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528789531082">
+      <file name="/a.dummy" timestamp="1528792291227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f370906-4404-445a-b891-9c50aedf0510/console_1.sql" timestamp="1528551780623">
@@ -42,11 +42,11 @@
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/DispatchRule.java" timestamp="1528789433716">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/DispatchRule.java" timestamp="1528792367026">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="/account [fenqi@183.3.143.131]" timestamp="1528779569199">
         <mark key="[" line="0" column="0" />
@@ -80,6 +80,12 @@
         <mark key="]" line="9" column="36" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/Rule.java" timestamp="1528792181344">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1528784951801">
         <mark key="[" line="0" column="0" />
@@ -156,37 +162,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHVzZXJJbmZvQTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgdmFsdWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY29uZGl0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGZvciBweXQK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdXNlckluZm87Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aG9uIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcucHl0aG9uPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qeXRob24tc3RhbmRhbG9uZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+My42LjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIFJ1bGV7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLio7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
