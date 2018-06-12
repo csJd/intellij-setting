@@ -20,7 +20,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1528773000667">
+      <file name="/a.dummy" timestamp="1528789531082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f370906-4404-445a-b891-9c50aedf0510/console_1.sql" timestamp="1528551780623">
@@ -34,11 +34,16 @@
       <file name="/coupons_log [@183.3.143.131]" timestamp="1528787326292">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/UserInfo.java" timestamp="1528790268712">
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/DispatchRule.java" timestamp="1528787898576">
-        <mark key="[" line="11" column="1" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/DispatchRule.java" timestamp="1528789433716">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
@@ -67,7 +72,7 @@
       <file name="/coupons_config [@183.3.143.131]" timestamp="1528787288757">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1528787326609">
+      <file name="/dummy.sql" timestamp="1528789892047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/DemoApplication.java" timestamp="1528697691432">
@@ -89,6 +94,9 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="/account_log [fenqi@183.3.143.131]" timestamp="1528779617048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user [@183.3.143.131]" timestamp="1528789891580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/act_trigger_condition_coupons [@183.3.143.131]" timestamp="1528787229356">
@@ -150,8 +158,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -178,7 +186,7 @@
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLio7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
