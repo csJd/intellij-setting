@@ -56,11 +56,11 @@
       <file name="/coupons_config_subbranch [@183.3.143.131]" timestamp="1528787322332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528888751905">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="4" column="15" />
+      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528891958394">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="D:/dev/java_projects/testDemo/src/main/resources/application.properties" timestamp="1528716045748">
         <mark key="[" line="37" column="22" />
@@ -160,7 +160,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528886571938">
+      <file name="/Dummy.txt" timestamp="1528890679022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/merchant_opt [@183.3.143.131]" timestamp="1528886630856">
@@ -207,41 +207,47 @@
       <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFZJRVcgbWVyY2hhbnRfdXNlcl92aWV3IEFTCiAgU0VMRUNUIHVzZXJfaWQsIG1lcmNoYW50X2lkLCBwYXlfdGltZXMsIGNvbnN1bWVfdG90YWwsIGF2Z19jb25zdW1lX2RheSwgcmVjaGFnZV9udW0sIHJlY2hhcmdlX3RvdGFsX2Ftb3VudCwgZGVwb3NpdF9jYXJkX2JhbGFuY2UgRlJPTSBmZW5xaS51c2VyX2RlcG9zaXRfY2FyZCxmZW5xaS53ZWNoYXRfcGF5X2xvZywK</text>
+      <register name="&quot;" type="4">
+        <text>E</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFZJRVcgbWVyY2hhbnRfdXNlcl92aWV3IEFTCiAgU0VMRUNUIHVzZXJfaWQsIG1lcmNoYW50X2lkLCBwYXlfdGltZXMsIGNvbnN1bWVfdG90YWwsIGF2Z19jb25zdW1lX2RheSwgcmVjaGFnZV9udW0sIHJlY2hhcmdlX3RvdGFsX2Ftb3VudCwgZGVwb3NpdF9jYXJkX2JhbGFuY2UgRlJPTSBmZW5xaS51c2VyX2RlcG9zaXRfY2FyZCxmZW5xaS53ZWNoYXRfcGF5X2xvZywK</text>
+      <register name="-" type="4">
+        <text>E</text>
+      </register>
+      <register name="0" type="4">
+        <text>subbranch</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">U0VMRUNUIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>WHERE subbranch.merchant_id = wpl.merchant_id
+  AND wpl.user_id = udc.user_id
+  AND wpl.subbranc_id = hsubbranch.subbranch_id
+  AND udc.merchant_id = subbranch.merchant_id)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIHN1YmJyYW5jaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBJTkRFWCBPTiBvcHRfaWQ7Cg==</text>
+        <text encoding="base64">ICBJTk5FUiBKT0lOIHdlY2hhdF9wYXlfbG9nIEFTIHdwbAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>t</text>
       </register>
     </registers>
     <search>
