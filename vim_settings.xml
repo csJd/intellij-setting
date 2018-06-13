@@ -26,7 +26,16 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/application.properties" timestamp="1528898202190">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user_deposit_card_log [fenqi@183.3.143.131]" timestamp="1528893615580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/coupons [fenqi@183.3.143.131]" timestamp="1528779600624">
@@ -56,11 +65,11 @@
       <file name="/coupons_config_subbranch [@183.3.143.131]" timestamp="1528787322332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528891958394">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528893595756">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="D:/dev/java_projects/testDemo/src/main/resources/application.properties" timestamp="1528716045748">
         <mark key="[" line="37" column="22" />
@@ -160,7 +169,7 @@
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528890679022">
+      <file name="/Dummy.txt" timestamp="1528897905415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/merchant_opt [@183.3.143.131]" timestamp="1528886630856">
@@ -190,6 +199,12 @@
       <file name="/act_trigger_condition [@183.3.143.131]" timestamp="1528787221143">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mybatis.xml" timestamp="1528897990331">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+      </file>
       <file name="D:/dev/java_projects/gsmaven/src/main/java/Main.java" timestamp="1528534636495">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="38" />
@@ -207,44 +222,41 @@
       <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5PVNFTEVDVCAxCg==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
         <text>subbranch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5PVNFTEVDVCAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudGVzdFdoaWxlSWRsZT10cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXIiIHZhbHVlPSJjb20ubXlzcWwuIi8+CiAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iamRiYzpteXNxbDovLzE4My4zLjE0My4xMzE6NTUyL2ZlbnFpIi8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>WHERE subbranch.merchant_id = wpl.merchant_id
-  AND wpl.user_id = udc.user_id
-  AND wpl.subbranc_id = hsubbranch.subbranch_id
-  AND udc.merchant_id = subbranch.merchant_id)</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIHN1YmJyYW5jaAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBJTk5FUiBKT0lOIHdlY2hhdF9wYXlfbG9nIEFTIHdwbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
