@@ -56,11 +56,11 @@
       <file name="/coupons_config_subbranch [@183.3.143.131]" timestamp="1528787322332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528886112221">
-        <mark key="[" line="1" column="163" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
+      <file name="D:/dev/java_projects/demo-ww/sql/user_view_create.sql" timestamp="1528888751905">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="D:/dev/java_projects/testDemo/src/main/resources/application.properties" timestamp="1528716045748">
         <mark key="[" line="37" column="22" />
@@ -208,31 +208,31 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Q1JFQVRFIFZJRVcgbWVyY2hhbnRfdXNlcl92aWV3IEFTCiAgU0VMRUNUIHVzZXJfaWQsIG1lcmNoYW50X2lkLCBwYXlfdGltZXMsIGNvbnN1bWVfdG90YWwsIGF2Z19jb25zdW1lX2RheSwgcmVjaGFnZV9udW0sIHJlY2hhcmdlX3RvdGFsX2Ftb3VudCwgZGVwb3NpdF9jYXJkX2JhbGFuY2UgRlJPTSBmZW5xaS51c2VyX2RlcG9zaXRfY2FyZCxmZW5xaS53ZWNoYXRfcGF5X2xvZywK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q1JFQVRFIFZJRVcgbWVyY2hhbnRfdXNlcl92aWV3IEFTCiAgU0VMRUNUIHVzZXJfaWQsIG1lcmNoYW50X2lkLCBwYXlfdGltZXMsIGNvbnN1bWVfdG90YWwsIGF2Z19jb25zdW1lX2RheSwgcmVjaGFnZV9udW0sIHJlY2hhcmdlX3RvdGFsX2Ftb3VudCwgZGVwb3NpdF9jYXJkX2JhbGFuY2UgRlJPTSBmZW5xaS51c2VyX2RlcG9zaXRfY2FyZCxmZW5xaS53ZWNoYXRfcGF5X2xvZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAoCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBJTkRFWCBPTiBvcHRfaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJTkRFWCBPTiBvcHRfaWQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -241,7 +241,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
