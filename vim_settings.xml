@@ -12,11 +12,11 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/sql/opt_create.sql" timestamp="1528873099196">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="35" column="39" />
-        <mark key="." line="35" column="39" />
-        <mark key="^" line="0" column="8" />
+      <file name="D:/dev/java_projects/demo-ww/sql/opt_create.sql" timestamp="1528877397762">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/controller/Example.java" timestamp="1528785874093">
         <mark key="[" line="7" column="22" />
@@ -88,12 +88,15 @@
       <file name="/coupons_config [@183.3.143.131]" timestamp="1528787288757">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/send_coupons_log [@183.3.143.131]" timestamp="1528877230560">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/java_projects/testDemo/pom.xml" timestamp="1528698010899">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1528865868130">
+      <file name="/dummy.sql" timestamp="1528877234762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/DemoApplication.java" timestamp="1528697691432">
@@ -196,7 +199,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -235,7 +238,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
