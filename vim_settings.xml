@@ -47,11 +47,11 @@
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/Main/src/Lambda.java" timestamp="1528960790085">
+      <file name="D:/dev/java_projects/Main/src/Lambda.java" timestamp="1528962509482">
         <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/mapper/UserMapper.java" timestamp="1528959090497">
         <mark key="[" line="13" column="0" />
@@ -265,6 +265,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/dev/java_projects/jdk10-main/src/main/java/Main.java" timestamp="1528963026353">
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -293,7 +299,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1528960769552">
+      <file name="/fragment.java" timestamp="1528962319242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/account [@183.3.143.131]" timestamp="1528784964552">
@@ -307,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>]</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFN0cmluZyB1c2VySWQgPSAiMDFiNzE4NmFlZjc2NDg5NWE5YjQ4YzE0NGUzMGQ1ZDciOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLnVzZXJNYXBwZXIuZmluZFVzZXJCeUlkKHVzZXJJZCkpOwogICAg</text>
