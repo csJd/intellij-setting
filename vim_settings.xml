@@ -126,11 +126,11 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="D:/dev/java_projects/jdk10-main/pom.xml" timestamp="1528964477439">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
+      <file name="D:/dev/java_projects/jdk10-main/pom.xml" timestamp="1528964925759">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="/user [fenqi@183.3.143.131]" timestamp="1528958550649">
         <mark key="[" line="0" column="0" />
@@ -304,7 +304,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1528963948969">
+      <file name="/fragment.java" timestamp="1528965058651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/account [@183.3.143.131]" timestamp="1528784964552">
@@ -317,41 +317,41 @@
       <jump line="0" column="0" filename="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/CmdApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeAo=</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>9</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFN0cmluZyB1c2VySWQgPSAiMDFiNzE4NmFlZjc2NDg5NWE5YjQ4YzE0NGUzMGQ1ZDciOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLnVzZXJNYXBwZXIuZmluZFVzZXJCeUlkKHVzZXJJZCkpOwogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeAo=</text>
+        <text encoding="base64">ICAgIC9idWlsZD4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwbGFnCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGJ1aWxkPgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My43LjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8cmVsZWFzZT4xMDwvcmVsZWFzZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPgogICAgPA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvYnVpbGQ+Cg==</text>
+        <text encoding="base64">ICAgIDxwbGFnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cGwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwvYnVpbGQ+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8cGwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc0FycmF5LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIDxidWlsZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
