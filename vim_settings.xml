@@ -15,6 +15,11 @@
       <file name="/coupons_opt [@183.3.143.131]" timestamp="1528865806239">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/mybatis-spring-boot-samples/pom.xml" timestamp="1528954910384">
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9f370906-4404-445a-b891-9c50aedf0510/console_1.sql" timestamp="1528551780623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,6 +153,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="D:/dev/java_projects/mybatis-spring-boot-samples/mybatis-spring-boot-sample-xml/pom.xml" timestamp="1528955202079">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+      </file>
       <file name="D:/dev/java_projects/demo-ww/sql/user_mershant_query.sql" timestamp="1528937938977">
         <mark key="[" line="9" column="22" />
         <mark key="]" line="9" column="22" />
@@ -279,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>T</text>
       </register>
       <register name="0" type="4">
         <text>subbranch</text>
