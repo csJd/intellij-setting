@@ -37,11 +37,11 @@
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/mapper/UserMapper.java" timestamp="1528939946349">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/mapper/UserMapper.java" timestamp="1528953931663">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="/user_deposit_card_log [fenqi@183.3.143.131]" timestamp="1528893615580">
         <mark key="[" line="0" column="0" />
@@ -105,11 +105,11 @@
         <mark key="." line="5" column="78" />
         <mark key="^" line="5" column="78" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mapper/UserMapper.xml" timestamp="1528940961137">
-        <mark key="[" line="6" column="26" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mapper/UserMapper.xml" timestamp="1528954220112">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="/user [fenqi@183.3.143.131]" timestamp="1528953070798">
         <mark key="[" line="0" column="0" />
@@ -228,6 +228,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mybatis-config.xml" timestamp="1528954290009">
+        <mark key="[" line="21" column="33" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+      </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/model/User.java" timestamp="1528938520637">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="2" column="0" />
@@ -272,11 +278,11 @@
       <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>*</text>
       </register>
       <register name="0" type="4">
         <text>subbranch</text>
