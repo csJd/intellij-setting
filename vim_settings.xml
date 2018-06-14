@@ -21,25 +21,41 @@
       <file name="/coupons_log [@183.3.143.131]" timestamp="1528787326292">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/UserInfo.java" timestamp="1528793037452">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="/wechat_pay_log [fenqi@183.3.143.131]" timestamp="1528937272160">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/resources/application.properties" timestamp="1528936185913">
-        <mark key="[" line="5" column="0" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/application.properties" timestamp="1528940349717">
+        <mark key="[" line="4" column="27" />
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="0" column="17" />
+        <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="/user [fenqi@localhost]" timestamp="1528551949359">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/mapper/UserMapper.java" timestamp="1528939946349">
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="/user_deposit_card_log [fenqi@183.3.143.131]" timestamp="1528893615580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/coupons [fenqi@183.3.143.131]" timestamp="1528779600624">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/UserDao.java" timestamp="1528939276596">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/model/UserInfo.java" timestamp="1528938101217">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="D:/dev/java_projects/ww-demo/src/main/java/com/ww/demo/DemoApplication.java" timestamp="1528697691432">
         <mark key="[" line="9" column="39" />
@@ -71,11 +87,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="D:/dev/java_projects/testDemo/src/main/resources/application.properties" timestamp="1528716045748">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-      </file>
       <file name="/account [fenqi@localhost]" timestamp="1528551916973">
         <mark key="[" line="0" column="0" />
       </file>
@@ -85,13 +96,14 @@
         <mark key="." line="5" column="78" />
         <mark key="^" line="5" column="78" />
       </file>
-      <file name="/user [fenqi@183.3.143.131]" timestamp="1528782827273">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mapper/UserMapper.xml" timestamp="1528940961137">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/pom.xml" timestamp="1528775254912">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/user [fenqi@183.3.143.131]" timestamp="1528937995051">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1525745710100">
         <mark key="[" line="0" column="0" />
@@ -111,10 +123,17 @@
       <file name="/Python Console" timestamp="1525746165103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/gsmaven/pom.xml" timestamp="1528536752157">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/DemoApplication.java" timestamp="1528939774635">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/sql/user_mershant_query.sql" timestamp="1528937938977">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="19" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/039e2d3b-5cfb-41b0-b3be-50beb3a645d4/console.sql" timestamp="1528858594736">
         <mark key="[" line="7" column="0" />
@@ -155,12 +174,7 @@
       <file name="/send_coupons_log [@183.3.143.131]" timestamp="1528877230560">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/testDemo/pom.xml" timestamp="1528698010899">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1528886631509">
+      <file name="/dummy.sql" timestamp="1528937995581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/Rule.java" timestamp="1528792181344">
@@ -190,6 +204,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/model/User.java" timestamp="1528938520637">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -198,6 +218,12 @@
       </file>
       <file name="/act_trigger_condition [@183.3.143.131]" timestamp="1528787221143">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/CmdApplication.java" timestamp="1528940194370">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="54" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/resources/mybatis.xml" timestamp="1528897990331">
         <mark key="[" line="16" column="49" />
@@ -211,7 +237,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1528701966498">
+      <file name="/fragment.java" timestamp="1528939761070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/account [@183.3.143.131]" timestamp="1528784964552">
@@ -222,41 +248,41 @@
       <jump line="131" column="0" filename="D:/dev/java_projects/scut1/testDemo/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5PVNFTEVDVCAxCg==</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>y</text>
       </register>
       <register name="0" type="4">
         <text>subbranch</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5PVNFTEVDVCAxCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCEtLQogICAgICAgQ29weXJpZ2h0IDIwMTUtMjAxNiB0aGUgb3JpZ2luYWwgYXV0aG9yIG9yIGF1dGhvcnMuCiAgICAgICBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsKICAgICAgIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KICAgICAgIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAogICAgICAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiAgICAgICBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAgICAgICBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLAogICAgICAgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiAgICAgICBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAgICAgICBsaW1pdGF0aW9ucyB1bmRlciB0aGUgTGljZW5zZS4KLS0+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudGVzdFdoaWxlSWRsZT10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudmFsaWRhdGlvblF1ZXJ5PVNFTEVDVCAxCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudGVzdFdoaWxlSWRsZT10cnVlCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIENtZEFwcGxpY2F0aW9uIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJkcml2ZXIiIHZhbHVlPSJjb20ubXlzcWwuIi8+CiAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iamRiYzpteXNxbDovLzE4My4zLjE0My4xMzE6NTUyL2ZlbnFpIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhbXBsZS5teWJhdGlzLm1hcHBlci5Ib3RlbE1hcHBlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhbXBsZS5teWJhdGlzLmRhby5DaXR5RGFvOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLkRhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
