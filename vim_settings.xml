@@ -169,11 +169,11 @@
       <file name="/subbranch [fenqi@183.3.143.131]" timestamp="1528966388075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/DemoApplication.java" timestamp="1528958359933">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/DemoApplication.java" timestamp="1528972270433">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="D:/dev/java_projects/gsmaven/pom.xml" timestamp="1528536752157">
         <mark key="[" line="23" column="0" />
@@ -237,6 +237,12 @@
       </file>
       <file name="/dummy.sql" timestamp="1528967982346">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/controller/ScheduledTask.java" timestamp="1528972810746">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/Rule.java" timestamp="1528792181344">
         <mark key="[" line="5" column="25" />
@@ -331,16 +337,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFN0cmluZyB1c2VySWQgPSAiMDFiNzE4NmFlZjc2NDg5NWE5YjQ4YzE0NGUzMGQ1ZDciOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLnVzZXJNYXBwZXIuZmluZFVzZXJCeUlkKHVzZXJJZCkpOwogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNjaGVkdWxlZChmaXhlZERlbGF5ID0gMTAwMGtrKjYwKjYwKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,19 +358,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC9idWlsZD4K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">PGJ1aWxkPgogICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tY29tcGlsZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My43LjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8cmVsZWFzZT4xMDwvcmVsZWFzZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPgogICAgPA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
