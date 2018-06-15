@@ -152,6 +152,11 @@
       <file name="/account [fenqi@localhost]" timestamp="1528551916973">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/pythons/auto_coupons.py" timestamp="1529049243352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
         <mark key="[" line="5" column="78" />
         <mark key="]" line="5" column="78" />
@@ -407,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -416,16 +421,16 @@
         <text encoding="base64">IFN0cmluZyB1c2VySWQgPSAiMDFiNzE4NmFlZjc2NDg5NWE5YjQ4YzE0NGUzMGQ1ZDciOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLnVzZXJNYXBwZXIuZmluZFVzZXJCeUlkKHVzZXJJZCkpOwogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgKiBmcm9tIEJsb2cgd2hlcmUgaWQgPSAje2lkfQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOnV0Zi04IC0qLSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3QgKiBmcm9tIEJsb2cgd2hlcmUgaWQgPSAje2lkfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -434,13 +439,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0cjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
