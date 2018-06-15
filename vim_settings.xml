@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/mybatis-config.xml" timestamp="1529051779523">
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/mybatis-config.xml" timestamp="1529061969531">
         <mark key="i" line="21" column="26" />
-        <mark key="[" line="22" column="26" />
         <mark key="k" line="21" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="21" column="31" />
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/sql/opt_create.sql" timestamp="1528877397762">
         <mark key="[" line="26" column="21" />
@@ -78,17 +78,17 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/mapper/MerchantOptMapper.xml" timestamp="1529051151325">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="61" />
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/mapper/MerchantOptMapper.xml" timestamp="1529060482894">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/controller/UserController.java" timestamp="1529051871802">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="26" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="26" />
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/controller/UserController.java" timestamp="1529060137401">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/dao/mapper/UserMapper.java" timestamp="1528980708674">
         <mark key="[" line="13" column="0" />
@@ -137,10 +137,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/dao/mapper/MerchantOptMapper.java" timestamp="1529051305642">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/dao/mapper/MerchantOptMapper.java" timestamp="1529060357811">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="6" />
       </file>
       <file name="/act_trigger_condition_coupons [@183.3.143.131]" timestamp="1528787229356">
         <mark key="[" line="0" column="0" />
@@ -273,6 +274,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/util/SqlSessionUtil.java" timestamp="1529061296854">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+        <mark key="^" line="24" column="22" />
+      </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/DispatchRule.java" timestamp="1528968037691">
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="44" />
@@ -371,11 +378,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/controller/TestController.java" timestamp="1529051419666">
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="48" column="44" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="43" />
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/java/test/ww/demo/controller/TestController.java" timestamp="1529061997675">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+        <mark key="^" line="27" column="1" />
       </file>
       <file name="/MySQL Fragment (MerchantOptMapper.xml:290).sql" timestamp="1529044635776">
         <mark key="[" line="0" column="0" />
@@ -385,7 +392,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/application.properties" timestamp="1529051015082" />
+      <file name="D:/dev/java_projects/wangwang/demo-ww/src/main/resources/application.properties" timestamp="1529060101835">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -416,7 +428,7 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1528965058651">
+      <file name="/fragment.java" timestamp="1529060103300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/account [@183.3.143.131]" timestamp="1528784964552">
@@ -437,40 +449,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>U</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>r</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFN0cmluZyB1c2VySWQgPSAiMDFiNzE4NmFlZjc2NDg5NWE5YjQ4YzE0NGUzMGQ1ZDciOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLnVzZXJNYXBwZXIuZmluZFVzZXJCeUlkKHVzZXJJZCkpOwogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnRPcHRNYXBwZXIgbWFwcGVyID0gc2Vzc2lvbi5nZXRNYXBwZXIoTWVyY2hhbnRPcHRNYXBwZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZ2V0R2xvYmFsKCkuaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnRPcHQgbWVyY2hhbnRPcHQgPSBtYXBwZXIuc2VsZWN0TWVyY2hhbnRPcHRCeUlkKDUpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3Mpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbi5kdXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXBwZXIgbWFwcGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
