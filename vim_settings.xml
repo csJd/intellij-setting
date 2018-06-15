@@ -138,8 +138,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mapper/MerchantOptMapper.xml" timestamp="1529044744565">
-        <mark key="[" line="10" column="56" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/resources/mapper/MerchantOptMapper.xml" timestamp="1529045363682">
+        <mark key="[" line="5" column="50" />
         <mark key="]" line="10" column="60" />
         <mark key="." line="10" column="60" />
         <mark key="^" line="10" column="60" />
@@ -303,11 +303,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/controller/TestController.java" timestamp="1529026360380">
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="35" />
+      <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/controller/TestController.java" timestamp="1529045538547">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="35" column="7" />
+        <mark key="^" line="35" column="7" />
+        <mark key="." line="35" column="7" />
       </file>
       <file name="D:/dev/java_projects/demo-ww/src/main/java/test/ww/demo/model/Rule.java" timestamp="1528792181344">
         <mark key="[" line="5" column="25" />
