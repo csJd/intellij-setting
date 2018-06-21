@@ -18,11 +18,11 @@
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529564025408">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529564751659">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
         <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+        <mark key="." line="34" column="8" />
       </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525836706942">
         <mark key="[" line="12" column="47" />
@@ -37,7 +37,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -64,7 +64,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
