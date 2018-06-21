@@ -15,15 +15,22 @@
       <file name="/code.py" timestamp="1528709041631">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529570916818">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="62" />
+        <mark key="." line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+      </file>
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529568853864">
-        <mark key="[" line="66" column="56" />
-        <mark key="]" line="66" column="61" />
-        <mark key="^" line="66" column="61" />
-        <mark key="." line="66" column="61" />
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529570030152">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/data/question_urls_gzhemc_180621.txt" timestamp="1529570836618" />
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525836706942">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="12" column="34" />
@@ -34,40 +41,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGd6aGVtY19xdWVzdGlvbnNfYXBpX3VybCA9ICcxOTYwODU0NCcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjdXRfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk1OTk3MzcvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
+        <text encoding="base64">ICAgIGd6aGVtY19xdWVzdGlvbnNfYXBpX3VybCA9ICcxOTYwODU0NCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN5c3VfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk2MDg1NjYvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
+        <text encoding="base64">ICAgIHNjdXRfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk1OTk3MzcvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN5c3VfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk2MDg1NjYvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc2N1dCAxNDgyIDE4MDYyMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgCg==</text>
+        <text encoding="base64">ICAgICMgc2N1dCAxNDgyIDE4MDYyMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgc3lzdSAzMTQ4IDE4MDYyMQo=</text>
+        <text encoding="base64">ICAgICMgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
