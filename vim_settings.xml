@@ -15,11 +15,12 @@
       <file name="/code.py" timestamp="1528709041631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529570916818">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="62" />
-        <mark key="." line="33" column="62" />
-        <mark key="^" line="33" column="62" />
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529571943813">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="^" line="35" column="42" />
       </file>
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
@@ -38,13 +39,16 @@
         <mark key="^" line="12" column="34" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="32" column="43" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+      <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGd6aGVtY19xdWVzdGlvbnNfYXBpX3VybCA9ICcxOTYwODU0NCcK</text>
@@ -74,7 +78,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
