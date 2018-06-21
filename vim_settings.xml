@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1529562024525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -21,7 +24,6 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/sentiment/sentiment_match.py" timestamp="1529561781009" />
     </filemarks>
     <jumps />
     <registers>
