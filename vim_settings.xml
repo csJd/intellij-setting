@@ -15,12 +15,12 @@
       <file name="/code.py" timestamp="1528709041631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529571943813">
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529573586073">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="^" line="35" column="42" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="30" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="/Python Console" timestamp="1525786405362">
         <mark key="[" line="0" column="0" />
@@ -48,7 +48,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>[qid]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGd6aGVtY19xdWVzdGlvbnNfYXBpX3VybCA9ICcxOTYwODU0NCcK</text>
@@ -78,7 +78,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>[qid]</text>
       </register>
     </registers>
     <search>
