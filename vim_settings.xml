@@ -40,11 +40,10 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="E:/scut/1st_year/bdp/zhihu_text/util/fenci.py" timestamp="1529649123423">
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/fenci.py" timestamp="1529650685027">
         <mark key="[" line="75" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="3" />
-        <mark key="." line="78" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -59,28 +58,28 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1haV8oKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gX19tYWluX186Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb250ZW50ID0gcmUuc3ViKCc8Lio+JywgJycsIGpvX2Fuc3dlcl9pdGVtLmdldCgnY29udGVudCcpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkKICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPFs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkK</text>
+        <text encoding="base64">ZGVmIG1haV8oKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
