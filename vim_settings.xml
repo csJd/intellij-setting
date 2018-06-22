@@ -40,6 +40,12 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/fenci.py" timestamp="1529649123423">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="3" />
+        <mark key="." line="78" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="32" column="43" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
@@ -47,40 +53,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb250ZW50ID0gcmUuc3ViKCc8Lio+JywgJycsIGpvX2Fuc3dlcl9pdGVtLmdldCgnY29udGVudCcpKQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkKICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPFs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGd6aGVtY19xdWVzdGlvbnNfYXBpX3VybCA9ICcxOTYwODU0NCcK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCd0ZXN0JykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIG1haV8oKToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb250ZW50ID0gcmUuc3ViKCc8Lio+JywgJycsIGpvX2Fuc3dlcl9pdGVtLmdldCgnY29udGVudCcpKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkKICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPFs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjdXRfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk1OTk3MzcvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IHJlLnN1YignPC4qPicsICcnLCBqb19hbnN3ZXJfaXRlbS5nZXQoJ2NvbnRlbnQnKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5c3VfcXVlc3Rpb25zX2FwaV91cmwgPSAnaHR0cHM6Ly93d3cuemhpaHUuY29tL2FwaS92NC90b3BpY3MvMTk2MDg1NjYvZmVlZHMvdGltZWxpbmVfcXVlc3Rpb24/b2Zmc2V0PTAmbGltaXQ9JyArIEdFVF9MSU1JVAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
