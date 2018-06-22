@@ -6,8 +6,10 @@
       <file name="/start_script.py" timestamp="1529562024525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529638978254">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1529667310301">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/code.py" timestamp="1528709041631">
         <mark key="[" line="0" column="0" />
@@ -86,7 +88,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>files</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -116,7 +118,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>files</text>
       </register>
     </registers>
     <search>
