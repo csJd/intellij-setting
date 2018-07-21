@@ -3,8 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1525745710100">
+      <file name="/start_script.py" timestamp="1532142372170">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1532142348047">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="/code.py" timestamp="1528709041631">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529632512550">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+      </file>
+      <file name="/Python Console" timestamp="1529654298399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
+      </file>
+      <file name="/a.dummy" timestamp="1529658112447">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/questions_spider.py" timestamp="1529665395171">
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="31" />
+        <mark key="." line="69" column="31" />
+        <mark key="^" line="69" column="31" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/tool.py" timestamp="1529663179148">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -12,47 +50,75 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="/code.py" timestamp="1525683909543">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1525746165103">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525836706942">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525745121631">
-        <mark key="[" line="5" column="78" />
-        <mark key="]" line="5" column="78" />
-        <mark key="." line="5" column="78" />
-        <mark key="^" line="5" column="78" />
+      <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/fenci.py" timestamp="1529650685027">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="32" column="43" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+      <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKHIiRDpcb3B0XG1pbmljb25kYTNcZW52c1xtbFxMaWJyYXJ5XG1pbmd3LXc2NFxiaW4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>files</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHhnYm9vc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2RmLmhlYWQoNSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWVfc3VmZml4ID0gdGltZS5zdHJmdGltZSgnJXklbSVkJywgdGltZS5sb2NhbHRpbWUoKSkgKyAnLnR4dCcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBwcm9jZXNzLnN0YXJ0KCkgICMgdGhlIHNjcmlwdCB3aWxsIGJsb2NrIGhlcmUgdW50aWwgdGhlIGNyYXdsaW5nIGlzIGZpbmlzaGVkCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBwcm9jZXNzLmNyYXdsKFFhU3BpZGVyKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBwcm9jZXNzID0gQ3Jhd2xlclByb2Nlc3MoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBzY3JhcHkuY3Jhd2xlciBpbXBvcnQgQ3Jhd2xlclByb2Nlc3MK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>files</text>
       </register>
     </registers>
     <search>
@@ -61,7 +127,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
