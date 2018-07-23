@@ -6,10 +6,10 @@
       <file name="/start_script.py" timestamp="1532142372170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532302699998">
+      <file name="/Dummy.txt" timestamp="1532355994936">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1528709041631">
         <mark key="[" line="0" column="0" />
@@ -21,6 +21,7 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/pre_process/data_util.py" timestamp="1532356185522" />
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532302680703">
         <mark key="[" line="42" column="30" />
         <mark key="]" line="43" column="23" />
@@ -65,10 +66,21 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1532355507874">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532356682937">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -81,11 +93,11 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532354340848">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="13" />
-        <mark key="." line="62" column="13" />
-        <mark key="^" line="62" column="13" />
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532354954744">
+        <mark key="[" line="69" column="22" />
+        <mark key="]" line="69" column="21" />
+        <mark key="." line="69" column="21" />
+        <mark key="^" line="69" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -93,11 +105,11 @@
       <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>q</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>M</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
@@ -106,28 +118,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLm5laWdoYm9ycyBpbXBvcnQgS05lCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IyMgUHljaGFybSC9qNLpyejWwwoKKiC7u9DQt/vNs9K7zqonXG4nCiAgKiBGaWxlIHwgU2V0dGluZ3MgfCBFZGl0b3IgfCBDb2RlIFN0eWxlCiAgICAqIGBMaW5lIHNlcGFyYXRvcmAg0aHU8SBgVW5peCBhbmQgT1MgWCAoXG4pYAoKKiCx4MLrzbPSu86qYFVURi04YAogICogRmlsZSB8IFNldHRpbmdzIHwgRWRpdG9yIHwgRmlsZSBFbmNvZGluZ3MKICAgICogR2xvYmFsILrNIFByb2plY3QgtrzRodTxIGBVVEYtOGAKICAgICogz8K3vSBEZWZhdWx0IGVuY29kaW5nIGZvciBwcm9wZXJ0aWVzIGZpbGVz0rLRodTxIGBVVEYtOGAKCiogUHl0aG9uIERvYyDKudPDIEdvb2dsZSC357jxCiAgKiBGaWxlIHwgU2V0dGluZ3MgfCBUb29scyB8IFB5dGhvbiBJbnRlZ3JhdGVkIFRvb2xzCiAgICAqIGBEb2NzdHJpbmcgZm9ybWF0YCDRodTxIGBHb29nbGVgCgoqIMno1sNQeXRob24gxKzIz7T6wusKICAqIEZpbGUgfCBTZXR0aW5ncyB8IEVkaXRvciB8IEZpbGUgYW5kIENvZGUgVGVtcGxhdGVzCiAgICAqINGh1PEgYFB5dGhvbiBTY3JpcHRgINWzzPnS1M/CxNrI3SwgYCR7VVNFUn1gv8m7u86q19S8us/rz9TKvrXE6sezxgogICAgKiC/ydLU19S8urC00OjQ3rjECgpgYGBweXRob24KIyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkKCmBgYAoKKiBQeXRob260+sLr1tC1xM7EvP7Ct762CiAgKiC9qNLpy/nT0MK3vra2vMq508MgYHV0aWxzYCCw/M/CtcQgYHBhdGhfdXRpbC5mcm9tX3Byb2plY3Rfcm9vdGAgt723qLXDtb2++LbUwre+tgogICogwP3I59Kqt8POymBkYXRhL3RyYWluX3NldC5jc3ZgyrGjrM/IyvOx6tPSvPy4tNbGYHRyYWluX3NldC5jc3ZgtcTP4LbUwre+tqOsyLu689axvdO199PDt723qL7NusMKYGBgcHl0aG9uCmZyb20gdXRpbHMucGF0aF91dGlsIGltcG9ydCBmcm9tX3Byb2plY3Rfcm9vdAp0cmFpbl9kYXRhX3VybCA9IGZyb21fcHJvamVjdF9yb290KCdkYXRhL3RyYWluX3NldC5jc3YnKQpwcmludCh0cmFpbl9kYXRhX3VybCkKYGBgCgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV4dHJhY3RfZGF0YSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGVfdHlwZSBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IyMgUHljaGFybSC9qNLpyejWwwoKKiC7u9DQt/vNs9K7zqonXG4nCiAgKiBGaWxlIHwgU2V0dGluZ3MgfCBFZGl0b3IgfCBDb2RlIFN0eWxlCiAgICAqIGBMaW5lIHNlcGFyYXRvcmAg0aHU8SBgVW5peCBhbmQgT1MgWCAoXG4pYAoKKiCx4MLrzbPSu86qYFVURi04YAogICogRmlsZSB8IFNldHRpbmdzIHwgRWRpdG9yIHwgRmlsZSBFbmNvZGluZ3MKICAgICogR2xvYmFsILrNIFByb2plY3QgtrzRodTxIGBVVEYtOGAKICAgICogz8K3vSBEZWZhdWx0IGVuY29kaW5nIGZvciBwcm9wZXJ0aWVzIGZpbGVz0rLRodTxIGBVVEYtOGAKCiogUHl0aG9uIERvYyDKudPDIEdvb2dsZSC357jxCiAgKiBGaWxlIHwgU2V0dGluZ3MgfCBUb29scyB8IFB5dGhvbiBJbnRlZ3JhdGVkIFRvb2xzCiAgICAqIGBEb2NzdHJpbmcgZm9ybWF0YCDRodTxIGBHb29nbGVgCgoqIMno1sNQeXRob24gxKzIz7T6wusKICAqIEZpbGUgfCBTZXR0aW5ncyB8IEVkaXRvciB8IEZpbGUgYW5kIENvZGUgVGVtcGxhdGVzCiAgICAqINGh1PEgYFB5dGhvbiBTY3JpcHRgINWzzPnS1M/CxNrI3SwgYCR7VVNFUn1gv8m7u86q19S8us/rz9TKvrXE6sezxgogICAgKiC/ydLU19S8urC00OjQ3rjECgpgYGBweXRob24KIyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkKCmBgYAoKKiBQeXRob260+sLr1tC1xM7EvP7Ct762CiAgKiC9qNLpy/nT0MK3vra2vMq508MgYHV0aWxzYCCw/M/CtcQgYHBhdGhfdXRpbC5mcm9tX3Byb2plY3Rfcm9vdGAgt723qLXDtb2++LbUwre+tgogICogwP3I59Kqt8POymBkYXRhL3RyYWluX3NldC5jc3ZgyrGjrM/IyvOx6tPSvPy4tNbGYHRyYWluX3NldC5jc3ZgtcTP4LbUwre+tqOsyLu689axvdO199PDt723qL7NusMKYGBgcHl0aG9uCmZyb20gdXRpbHMucGF0aF91dGlsIGltcG9ydCBmcm9tX3Byb2plY3Rfcm9vdAp0cmFpbl9kYXRhX3VybCA9IGZyb21fcHJvamVjdF9yb290KCdkYXRhL3RyYWluX3NldC5jc3YnKQpwcmludCh0cmFpbl9kYXRhX3VybCkKYGBgCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
