@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532142372170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532301819971">
+      <file name="/Dummy.txt" timestamp="1532302699998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="12" />
@@ -21,11 +21,11 @@
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532301160437">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="25" column="40" />
-        <mark key="^" line="25" column="40" />
+      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532302680703">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
         <mark key="[" line="34" column="29" />
@@ -93,20 +93,20 @@
       <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGZpbGVfdHlwZSBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -115,16 +115,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmlsZV9kaXJfbmFtZSA9IGRpcgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZmlsZV9kaXJfbmFtZSA9IGRpcgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWVfc3VmZml4ID0gdGltZS5zdHJmdGltZSgnJXklbSVkJywgdGltZS5sb2NhbHRpbWUoKSkgKyAnLnR4dCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
