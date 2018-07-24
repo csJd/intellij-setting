@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1532142372170">
+      <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532388230244">
+      <file name="/Dummy.txt" timestamp="1532432310873">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -70,21 +70,23 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1532355507874">
+      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1532431978112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532388210686">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532433606234">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -97,53 +99,55 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532354954744">
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="21" />
-        <mark key="." line="69" column="21" />
-        <mark key="^" line="69" column="21" />
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532432871419">
+        <mark key="[" line="143" column="9" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="32" column="43" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
       <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+      <jump line="14" column="7" filename="D:/dev/py_projects/dg_text/local_test.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICBtYXRoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICBtYXRoCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsZiA9IHN2bS5TVkMoKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmVuc2VtYmxlIGltcG9ydCBSYW5kb21Gb3Jlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBzdm0K</text>
+        <text encoding="base64">Cb2ryv2+3byv16q7r7PJz6HK6L7Y1fMKCTpwYXJhbSBzZW50ZW5jZV9kYXRhOgoJOnBhcmFtIHdvcmRfbGlzdDoKCTpwYXJhbSB3b3JkX2RmOgoJOnBhcmFtIGlzX3RmOgoJOnJldHVybjoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmVuc2VtYmxlIGltcG9ydAo=</text>
+        <text encoding="base64">IWdpdGtlZXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmRpc2NyaW1pbmFudF9hbmFseXNpcyBpbXBvcnQgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICBtYXRoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsZi5zY29yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmVuc2VtYmxlIGltcG9ydCBSYW5kb21Gb3Jlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBzdm0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -219,7 +223,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
