@@ -6,20 +6,13 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532435896667">
+      <file name="/Dummy.txt" timestamp="1532437273614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529632512550">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
       </file>
       <file name="/Python Console" timestamp="1532435319197">
         <mark key="[" line="0" column="0" />
@@ -64,6 +57,12 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532437262817">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="22" column="27" />
+      </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1532388423056">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -75,6 +74,11 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532437411163">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
         <mark key="[" line="50" column="0" />
@@ -119,41 +123,41 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Update .gitignore and README.md</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="-" type="4">
-        <text>Update .gitignore and README.md</text>
+        <text>s</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3Rfc2tsZWFybigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>vmap</text>
