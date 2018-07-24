@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532444720272">
+      <file name="/Dummy.txt" timestamp="1532446173189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -58,12 +58,12 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532445482073">
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532446152927">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="34" column="54" />
       </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1532388423056">
         <mark key="[" line="5" column="0" />
@@ -77,9 +77,9 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532437411163">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532446789284">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="26" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
@@ -111,11 +111,10 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532445373462">
-        <mark key="[" line="120" column="22" />
-        <mark key="]" line="120" column="21" />
-        <mark key="." line="120" column="21" />
-        <mark key="^" line="120" column="21" />
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532446088080">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -128,41 +127,41 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IyBjb2Rpbmc6IHV0Zi04CiMgY3JlYXRlZCBieSAke1VTRVJ9IG9uICR7REFURX0KCgpkZWYgbWFpbigpOgogICAgcGFzcwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICBtYWluKCkK</text>
+      <register name="0" type="2">
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdlbnNpbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAqIGBoYAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgcHl0aG9uCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmRjXwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Zm9ybSB1dAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YmRjX3VybCA9IGZyb21fcHJvY2Vzc2VkX2RhdGEK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">YGBgcHl0aG9uCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YmRjXwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Zm9ybSB1dAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxhYmVsc1s6MTBdKQo=</text>
+        <text encoding="base64">YmRjX3VybCA9IGZyb21fcHJvY2Vzc2VkX2RhdGEK</text>
       </register>
       <register name=":" type="4">
         <text>vmap</text>
