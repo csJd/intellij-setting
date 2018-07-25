@@ -31,18 +31,18 @@
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" timestamp="1532530810107">
-        <mark key="[" line="39" column="21" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="26" />
-        <mark key="^" line="39" column="26" />
+      <file name="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" timestamp="1532532110155">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="40" />
+        <mark key="." line="114" column="40" />
+        <mark key="^" line="114" column="40" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532530597055">
+      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532532041198">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="30" column="74" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="63" column="46" />
       </file>
       <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532528735724">
         <mark key="'" line="30" column="18" />
@@ -69,7 +69,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532525802372">
+      <file name="/Dummy.txt" timestamp="1532532125207">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -144,38 +144,43 @@
       <jump line="19" column="18" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
       <jump line="31" column="4" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="7" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="88" column="20" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="107" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="10" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="57" column="10" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="9" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGR2X21vZGVsID0gRG9jMlZlYy5sb2FkKG1vZGVsX3VybCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHNhdmVfd3Yod3YsIHVybCkK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5wLmFycmF5Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBwYXNzCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
