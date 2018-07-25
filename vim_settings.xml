@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532435319197">
+      <file name="/Python Console" timestamp="1532521819600">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -36,12 +36,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532519097294">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="83" column="60" />
-        <mark key="." line="83" column="60" />
-        <mark key="^" line="83" column="60" />
+      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532522683041">
+        <mark key="'" line="30" column="18" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="136" column="24" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532434401040">
         <mark key="'" line="0" column="0" />
@@ -61,7 +61,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532475066595">
+      <file name="/Dummy.txt" timestamp="1532522150920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -69,6 +69,13 @@
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529632512550">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
         <mark key="[" line="34" column="29" />
@@ -135,44 +142,44 @@
       <jump line="19" column="18" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHByZWRfbGFiZWxzWzoxMF0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCIgbWF4IG5ncmFtICAgOiIsIGNsZi53b3JkX25ncmFtcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByZWRfbGFiZWxzWzoxMF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHI6IDAuMQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbnRlbmNlc1s6MTBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzID0gewo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNlbnRlbmNlc1s6MTBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGFyZ3MgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgIHByaW50KCJmYXN0dGV4dCBtb2RlbCBpcyB0cmFpbmluZywgbW9kZWwgd2lsbCBiZSBzYXZlZCBhdFxuICIsIG1vZGVsX3VybCkKICAgIG1vZGVsX3VybCA9IG1vZGVsX3VybFs6LTRdICAjIGZ0IHdpbGwgYWRkIC5iaW4gYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsX3VybCA9IG1vZGVsX3VybFs6LTRdICAjIGZ0IHdpbGwgYWRkIC5iaW4gYXV0b21hdGljYWxseQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG1vZGVsX3VybAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobW9kZWxfdXJsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vmap</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -182,10 +189,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>set</entry>
         <entry>imap</entry>
         <entry>vmap</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
