@@ -11,11 +11,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532302680703">
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="23" />
+      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532516909648">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
       </file>
       <file name="/a.dummy" timestamp="1529658112447">
         <mark key="[" line="0" column="0" />
@@ -36,11 +36,12 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532516808032">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532517961800">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="83" />
+        <mark key="^" line="19" column="83" />
+        <mark key="." line="19" column="83" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532434401040">
         <mark key="'" line="0" column="0" />
@@ -131,43 +132,44 @@
       <jump line="45" column="61" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
       <jump line="4" column="44" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
+      <jump line="19" column="18" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHNhdmVfdXJsIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJFQ0VTU0VEX0RBVEFfRElSID0gZnJvbV9wcm9qZWN0X3Jvb3QoImVtYmVkZGluZ19tb2RlbC9wcm9jZXNzZWRfZGF0YSIpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGdlbnNpbQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAqIGBoYAo=</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UFJPQ0VTU0VEX0RBVEFfRElSID0gZnJvbV9wcm9qZWN0X3Jvb3QoImVtYmVkZGluZ19tb2RlbC9wcm9jZXNzZWRfZGF0YSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsYWJlbCA9IAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgcHl0aG9uCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihsYWJlbHMpKToK</text>
       </register>
       <register name=":" type="4">
         <text>vmap</text>
