@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532606167867">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/Python Console" timestamp="1532606472038">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
@@ -47,12 +47,12 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="36" column="57" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532606171008">
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532607214173">
         <mark key="'" line="42" column="6" />
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="34" column="44" />
-        <mark key="." line="34" column="44" />
-        <mark key="^" line="34" column="44" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="5" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -143,40 +143,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lcyA9IGRhdGFfZmlsZS5yZWFkbGluZXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZGNfZGljdFt3b3JkXSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbF93b3JkX2RpY3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxhYmVsX3dvcmRfZGljdCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcyA9IGRhdGFfZmlsZS5yZWFkbGluZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbF91cmw6IHVybCB0byBzYXZlIHRyYWluZWQgbW9kZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
