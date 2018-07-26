@@ -18,7 +18,7 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1532603236950">
+      <file name="/a.dummy" timestamp="1532620835495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
@@ -58,16 +58,17 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/clac_weightings.py" timestamp="1532618567113">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/clac_weightings.py" timestamp="1532620736290">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+        <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532561914292">
+      <file name="/Dummy.txt" timestamp="1532620978596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="5" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
@@ -116,11 +117,11 @@
         <mark key="^" line="31" column="55" />
         <mark key="." line="31" column="55" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532561030850">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532620558787">
+        <mark key="[" line="79" column="69" />
+        <mark key="]" line="79" column="69" />
+        <mark key="." line="79" column="69" />
+        <mark key="^" line="79" column="69" />
       </file>
     </filemarks>
     <jumps>
@@ -145,32 +146,32 @@
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Update README.md and ft_model.py</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>Update README.md and ft_model.py</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogcGlja2xlIM7EvP4gXCoucGsgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm8K</text>
+        <text encoding="base64">ICAgICouY3N2ILj5vt13ZWlnaHRfdHlwZaOsvau497j2tMq1xMio1tjWtbTmyOtjc3bOxLz+o6zB0MP7WyJ3b3JkIiwgIndlaWdodCIsICJjb3VudCJdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm8KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRxZG0gYXMgdHFkbQo=</text>
+        <text encoding="base64">KiBzZWxlY3RfZGF0YS+4+b7dc2VudGVuY2VfdHlwZaOsvavUtMr9vt28r9equ6+zyTxsYWJlbKOsc2VudGVuY2VfdHlwZT61xGNzdsr9vt28rwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
