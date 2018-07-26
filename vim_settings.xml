@@ -11,13 +11,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532516909648">
+      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1529658112447">
+      <file name="/a.dummy" timestamp="1532603236950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/tool.py" timestamp="1529663179148">
@@ -44,19 +44,19 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="63" column="46" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532560072494">
-        <mark key="'" line="30" column="18" />
-        <mark key="[" line="148" column="18" />
-        <mark key="]" line="148" column="19" />
-        <mark key="^" line="147" column="15" />
-        <mark key="." line="148" column="19" />
+      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532603573301">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="57" />
+        <mark key="^" line="36" column="57" />
+        <mark key="." line="36" column="57" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532434401040">
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532604436778">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
+        <mark key="[" line="25" column="47" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="28" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -78,7 +78,6 @@
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/pre_process/data_util.py" timestamp="1532560668477" />
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="34" column="29" />
@@ -151,43 +150,45 @@
       <jump line="57" column="10" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="9" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="29" column="15" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
+      <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add w2v model and d2v model</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>Add w2v model and d2v model</text>
+        <text>h</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbF91cmw6IHVybCB0byBzYXZlIHRyYWluZWQgbW9kZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsX3VybCA9IGFyZ3NfdG9fdXJsKGFyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdlbl9waHJhc2VfZGF0YShkYXRhX3VybCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGR2X21vZGVsID0gRG9jMlZlYy5sb2FkKG1vZGVsX3VybCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIGdlbl9waHJhc2VfZGF0YShkYXRhX3VybCk6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgYXJyYXkK</text>
+        <text encoding="base64">ICAgIGR2X21vZGVsID0gRG9jMlZlYy5sb2FkKG1vZGVsX3VybCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ZnJvbSBudW1weSBpbXBvcnQgYXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
