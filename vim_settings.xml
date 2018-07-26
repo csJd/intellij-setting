@@ -47,17 +47,21 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="36" column="57" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532616422575">
-        <mark key="[" line="47" column="78" />
-        <mark key="]" line="47" column="78" />
-        <mark key="^" line="47" column="78" />
-        <mark key="." line="47" column="78" />
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/clac_weightings.py" timestamp="1532618567113">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1532561914292">
         <mark key="[" line="0" column="0" />
@@ -141,11 +145,11 @@
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>m</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
@@ -154,22 +158,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgd29yZF9sYWJlbF9kaWN0ID0ganUubG9hZCgnd2wuanNvbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhYmVsX3Rlcm1fbnVtID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoaW50KQo=</text>
+        <text encoding="base64">Zm8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgbgo=</text>
+        <text encoding="base64">Zm8KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm9jYWIuYWRkKHdvcmQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRxZG0gYXMgdHFkbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvY2FiID0gc2V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
