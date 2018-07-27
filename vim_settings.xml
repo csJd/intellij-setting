@@ -104,6 +104,12 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532650205588">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="70" column="23" />
+      </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -145,38 +151,38 @@
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Update README.md and ft_model.py</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxhYmVsX3dvcmRzX251bSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkgICMgdG8gc3RvcmUgYWxsIGYoY19pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Update README.md and ft_model.py</text>
+        <text>b</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIGxhYmVsX3dvcmRzX251bSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkgICMgdG8gc3RvcmUgYWxsIGYoY19pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXZlbCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogcGlja2xlIM7EvP4gXCoucGsgCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICouY3N2ILj5vt13ZWlnaHRfdHlwZaOsvau497j2tMq1xMio1tjWtbTmyOtjc3bOxLz+o6zB0MP7WyJ3b3JkIiwgIndlaWdodCIsICJjb3VudCJdCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICogcGlja2xlIM7EvP4gXCoucGsgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">KiBzZWxlY3RfZGF0YS+4+b7dc2VudGVuY2VfdHlwZaOsvavUtMr9vt28r9equ6+zyTxsYWJlbKOsc2VudGVuY2VfdHlwZT61xGNzdsr9vt28rwo=</text>
+        <text encoding="base64">ICAgICouY3N2ILj5vt13ZWlnaHRfdHlwZaOsvau497j2tMq1xMio1tjWtbTmyOtjc3bOxLz+o6zB0MP7WyJ3b3JkIiwgIndlaWdodCIsICJjb3VudCJdCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiBzZWxlY3RfZGF0YS+4+b7dc2VudGVuY2VfdHlwZaOsvavUtMr9vt28r9equ6+zyTxsYWJlbKOsc2VudGVuY2VfdHlwZT61xGNzdsr9vt28rwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
