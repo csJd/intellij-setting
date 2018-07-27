@@ -99,22 +99,22 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="36" column="57" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532654578111">
-        <mark key="[" line="44" column="54" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532654695606">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="39" column="30" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532651847949">
-        <mark key="[" line="26" column="62" />
-        <mark key="]" line="26" column="60" />
-        <mark key="." line="26" column="60" />
-        <mark key="^" line="86" column="9" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532655886736">
+        <mark key="[" line="110" column="11" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -128,11 +128,11 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532652443439">
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532655928059">
         <mark key="[" line="79" column="65" />
-        <mark key="]" line="79" column="65" />
-        <mark key="^" line="83" column="7" />
-        <mark key="." line="79" column="65" />
+        <mark key="]" line="79" column="66" />
+        <mark key="." line="79" column="66" />
+        <mark key="^" line="79" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -164,25 +164,25 @@
         <text>c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RENfRElDVCA9IGp1LmxvYWQoZnJvbV9wcm9qZWN0X3Jvb3QoInByb2Nlc3NlZF9kYXRhL3NhdmVkX3dlaWdodC9waHJhc2VfbGV2ZWxfZGMuanNvbiIpKQo=</text>
+        <text encoding="base64">CSogcGhyYXNlX2xldmVsX2RjLmpzb24KCSAgICAqICJwaHJhc2UiILy2sfDJz7XEZGPWtQoJICAgICogtffTw87EvP4uLi90ZXJtX3dlaWdodGluZ19tb2RlbC9jYWxjX3dlaWdodGluZ3MucHnW0LXEt723qGNhbGNfZGMoLi4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEZfRElDVCA9IGp1LmxvYWQoZnJvbV9wcm9qZWN0X3Jvb3QoIiIpKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VEZfRElDVCA9IGp1LmxvYWQoZnJvbV9wcm9qZWN0X3Jvb3QoIiIpKQo=</text>
+        <text encoding="base64">ICAgIGNhbGNfYmRjKHVwZGF0ZT1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEZfRElDVCA9IGp1LmxvYWQoZnJvbV9wcm9qZWN0X3Jvb3QoIiIpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JkOiB0aGUgc2VudGVuY2UgdG8gcHJvY2Vzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxvYWRfc2F2ZWQoZGF0YV91cmwsICd0ZicsIHVwZGF0ZSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -191,7 +191,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJkY19kaWN0ID0gCg==</text>
+        <text encoding="base64">ZGVmIGxvYWRfc2F2ZWQoZGF0YV91KGRjX3VybCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
