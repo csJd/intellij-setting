@@ -3,25 +3,87 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1532142372170">
+      <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532142348047">
+      <file name="/Python Console" timestamp="1532654254584">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="28" />
+      </file>
+      <file name="/a.dummy" timestamp="1532656743116">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="12" />
       </file>
-      <file name="/code.py" timestamp="1528709041631">
+      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" timestamp="1532532110155">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="40" />
+        <mark key="." line="114" column="40" />
+        <mark key="^" line="114" column="40" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532532041198">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="63" column="46" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" timestamp="1532657579225">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="149" column="14" />
+        <mark key="]" line="149" column="14" />
+        <mark key="^" line="36" column="57" />
+        <mark key="." line="149" column="14" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532677924445">
+        <mark key="'" line="101" column="13" />
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532655886736">
+        <mark key="[" line="110" column="11" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="32" column="34" />
+      </file>
+      <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/clac_weightings.py" timestamp="1532620736290">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="25" column="60" />
+        <mark key="." line="25" column="60" />
+        <mark key="^" line="25" column="60" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1532659058822">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="5" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" timestamp="1529632512550">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-      </file>
-      <file name="/Python Console" timestamp="1529654298399">
+      <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
@@ -30,8 +92,11 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1529658112447">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/dev/py_projects/dg_text/pre_process/data_filter.py" timestamp="1532656728855">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+        <mark key="." line="38" column="48" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/questions_spider.py" timestamp="1529665395171">
         <mark key="[" line="69" column="22" />
@@ -39,86 +104,111 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="E:/scut/1st_year/bdp/zhihu_text/util/tool.py" timestamp="1529663179148">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="D:/dev/py_projects/dg_text/pre_process/term_weighting_filter.py" timestamp="1532671371361">
+        <mark key="[" line="47" column="66" />
+        <mark key="]" line="47" column="65" />
+        <mark key="^" line="47" column="65" />
+        <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1525836706942">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532652210819">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
-      <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/qa_spider.py" timestamp="1529663628202">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1532388423056">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1532518307996">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
-      <file name="E:/scut/1st_year/bdp/zhihu_text/util/fenci.py" timestamp="1529650685027">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532654695606">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="33" />
+        <mark key="." line="39" column="30" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="21" />
       </file>
     </filemarks>
     <jumps>
       <jump line="32" column="43" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
       <jump line="49" column="0" filename="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/qa_spider.py" />
+      <jump line="14" column="7" filename="D:/dev/py_projects/dg_text/local_test.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/local_test.py" />
+      <jump line="45" column="61" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
+      <jump line="4" column="44" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
+      <jump line="19" column="18" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
+      <jump line="31" column="4" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="7" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="88" column="20" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="107" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="10" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
+      <jump line="57" column="10" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="9" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
+      <jump line="29" column="15" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
+      <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
+      <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
+      <jump line="43" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>files</text>
+        <text>M</text>
+      </register>
+      <register name="-" type="4">
+        <text>M</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICIiIiBpbml0IG15IGxnYm0gbW9kZWwKICAgIAogICAgQXJnczoKICAgICAgICBwYXJhbV9ncmlkOiBwYXJhbV9ncmlkIGZvciBHcmlkU2VhcmNoQ1YKCiAgICBSZXR1cm5zOgoKICAgICIiIgoKICAgIGlmIHBhcmFtX2dyaWQgaXMgTm9uZQogICAgICAgIHBhcmFtX2dyaWQgPSBbCiAgICAgICAgICAgIHsnYm9vc3RpbmdfdHlwZSc6IFsnZ2JkdCcsICdkYXJ0JywgJ3JmJ10sICdsZWFybmluZ19yYXRlJzogWzAuMSwgMC4wMV19LAogICAgICAgIF0KICAgIGNsZiA9IEdyaWRTZWFyY2hDVihMR0JNQ2xhc3NpZmllcigpLCBwYXJhbV9ncmlkLCBjdj0zLCBzY29yaW5nPSdmMV9tYWNybycsIG5fam9icz1OX0pPQlMpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMR0JNQ2xhc3NpZmllciwgYXJnczogaW5pdGVkIGxnYm0gbW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZW5hbWVfc3VmZml4ID0gdGltZS5zdHJmdGltZSgnJXklbSVkJywgdGltZS5sb2NhbHRpbWUoKSkgKyAnLnR4dCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBwcm9jZXNzLnN0YXJ0KCkgICMgdGhlIHNjcmlwdCB3aWxsIGJsb2NrIGhlcmUgdW50aWwgdGhlIGNyYXdsaW5nIGlzIGZpbmlzaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAnbGVhcm5pbmdfcmF0ZSc6ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwcm9jZXNzLmNyYXdsKFFhU3BpZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAnYm9vc3RpbmdfdHlwZSc6ICdnYmR0JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwcm9jZXNzID0gQ3Jhd2xlclByb2Nlc3MoKQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuY3Jhd2xlciBpbXBvcnQgQ3Jhd2xlclByb2Nlc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>files</text>
       </register>
     </registers>
     <search>
@@ -128,6 +218,9 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>set</entry>
+        <entry>imap</entry>
+        <entry>vmap</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -191,7 +284,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
