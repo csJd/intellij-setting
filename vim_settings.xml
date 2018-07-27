@@ -47,11 +47,12 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="149" column="14" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532671098947">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532672381485">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
         <mark key="]" line="17" column="18" />
@@ -109,7 +110,7 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/pre_process/term_weighting_filter.py" timestamp="1532671177392">
+      <file name="D:/dev/py_projects/dg_text/pre_process/term_weighting_filter.py" timestamp="1532671371361">
         <mark key="[" line="47" column="66" />
         <mark key="]" line="47" column="65" />
         <mark key="^" line="47" column="65" />
@@ -167,13 +168,14 @@
       <jump line="29" column="15" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
+      <jump line="43" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGZpbHRlcmVkX2J5X2RpY3Qod29yZCwgZGljPUJEQ19ESUNULCBsb3dlcj0wLjUpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
@@ -182,28 +184,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9ybSB4Z2Jvb3N0LnNrbGVhcm4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsZi5mCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJrCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+        <text encoding="base64">ICAgIHRlc3RfWAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
