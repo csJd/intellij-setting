@@ -6,10 +6,10 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532657716647">
+      <file name="/Dummy.txt" timestamp="1532659058822">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="5" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
@@ -54,11 +54,11 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="10" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/pre_process/term_weighting_filter.py" timestamp="1532657456627">
-        <mark key="[" line="6" column="62" />
-        <mark key="]" line="58" column="19" />
-        <mark key="^" line="58" column="19" />
-        <mark key="." line="58" column="19" />
+      <file name="D:/dev/py_projects/dg_text/pre_process/term_weighting_filter.py" timestamp="1532659080447">
+        <mark key="[" line="47" column="66" />
+        <mark key="]" line="47" column="65" />
+        <mark key="^" line="47" column="65" />
+        <mark key="." line="47" column="65" />
       </file>
       <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
         <mark key="[" line="24" column="22" />
@@ -164,22 +164,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>to process data</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>to process data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGZpbHRlcmVkX2J5X2RpY3Qod29yZCwgZGljPUJEQ19ESUNULCBsb3dlcj0wLjUpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -194,10 +194,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
