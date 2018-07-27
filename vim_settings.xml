@@ -47,12 +47,12 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="149" column="14" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532672381485">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="28" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532677924445">
+        <mark key="'" line="101" column="13" />
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="25" />
+        <mark key="^" line="63" column="25" />
+        <mark key="." line="63" column="25" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
         <mark key="]" line="17" column="18" />
@@ -172,37 +172,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>M</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGZpbHRlcmVkX2J5X2RpY3Qod29yZCwgZGljPUJEQ19ESUNULCBsb3dlcj0wLjUpCiAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICIiIiBpbml0IG15IGxnYm0gbW9kZWwKICAgIAogICAgQXJnczoKICAgICAgICBwYXJhbV9ncmlkOiBwYXJhbV9ncmlkIGZvciBHcmlkU2VhcmNoQ1YKCiAgICBSZXR1cm5zOgoKICAgICIiIgoKICAgIGlmIHBhcmFtX2dyaWQgaXMgTm9uZQogICAgICAgIHBhcmFtX2dyaWQgPSBbCiAgICAgICAgICAgIHsnYm9vc3RpbmdfdHlwZSc6IFsnZ2JkdCcsICdkYXJ0JywgJ3JmJ10sICdsZWFybmluZ19yYXRlJzogWzAuMSwgMC4wMV19LAogICAgICAgIF0KICAgIGNsZiA9IEdyaWRTZWFyY2hDVihMR0JNQ2xhc3NpZmllcigpLCBwYXJhbV9ncmlkLCBjdj0zLCBzY29yaW5nPSdmMV9tYWNybycsIG5fam9icz1OX0pPQlMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMR0JNQ2xhc3NpZmllciwgYXJnczogaW5pdGVkIGxnYm0gbW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsZi5mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlc3RfWAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbGVhcm5pbmdfcmF0ZSc6ICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYm9vc3RpbmdfdHlwZSc6ICdnYmR0JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
