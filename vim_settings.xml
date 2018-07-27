@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532620978596">
+      <file name="/Dummy.txt" timestamp="1532651341641">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="18" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
@@ -60,12 +60,12 @@
         <mark key="." line="114" column="40" />
         <mark key="^" line="114" column="40" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532605439826">
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532652006757">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="25" column="28" />
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" timestamp="1532532041198">
         <mark key="'" line="0" column="0" />
@@ -93,22 +93,22 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="36" column="57" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532435267364">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="55" />
-        <mark key="^" line="31" column="55" />
-        <mark key="." line="31" column="55" />
+      <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532651034591">
+        <mark key="[" line="44" column="56" />
+        <mark key="]" line="44" column="55" />
+        <mark key="^" line="44" column="55" />
+        <mark key="." line="44" column="55" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
         <mark key="]" line="17" column="18" />
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532650205588">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="70" column="23" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1532651847949">
+        <mark key="[" line="26" column="62" />
+        <mark key="]" line="26" column="60" />
+        <mark key="." line="26" column="60" />
+        <mark key="^" line="86" column="9" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/util/util.py" timestamp="1529658056073">
         <mark key="[" line="2" column="0" />
@@ -151,41 +151,41 @@
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxhYmVsX3dvcmRzX251bSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkgICMgdG8gc3RvcmUgYWxsIGYoY19pKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNfdGltZSA9IHRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ganUubG9hZChkY191cmwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhYmVsX3dvcmRzX251bSA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGludCkgICMgdG8gc3RvcmUgYWxsIGYoY19pKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX2ZpbGUubGVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXZlbCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbF9zZXQuYWRkKGxhYmVsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIGxhYmVsX3NldCA9IHNldCgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICogcGlja2xlIM7EvP4gXCoucGsgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aiAgICBsYWJlbF9zZXQgPSBzZXQoKQogICAgZm9yIGxhYmVsLCBzZW50ZW5jZSBpbiB6aXAobGFiZWxzLCBzZW50ZW5jZXMpOgogICAgICAgIGxhYmVsX3NldC5hZGQobGFiZWwpCiAgICAgICAgZm9yIHdvcmQgaW4gc2VudGVuY2U6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHdvcmRfbGFiZWxfZGljdFt3b3JkXVtsYWJlbF0gKz0gMQogICAgICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgICAgICB3b3JkX2xhYmVsX2RpY3Rbd29yZF1bbGFiZWxdID0gMQoKICAgIGJkY19kaWN0ID0gY29sbGVjdGlvbnMuZGVmYXVsdGRpY3QoZmxvYXQpCiAgICBmb3Igd29yZCBpbiB0cWRtKHdvcmRfbGFiZWxfZGljdCk6CiAgICAgICAgZm9yIGxhYmVsIGluIHdvcmRfbGFiZWxfZGljdFt3b3JkXToKICAgICAgICAgICAgd29yZF9sYWJlbF9kaWN0W3dvcmRdW2xhYmVsXSAvPSBsYWJlbF93b3Jkc19udW1bbGFiZWxdICAjIHAodCwgY19pKSA9IGYodCwgY19pKSAvIGYoY19pKQogICAgICAgIHZhbHVlc19hcnJheSA9IG5wLmFycmF5KGxpc3Qod29yZF9sYWJlbF9kaWN0W3dvcmRdLnZhbHVlcygpKSkgICMgcCh0LCBjX2kpIGZvciBhbGwgbGFiZWxzCiAgICAgICAgdmFsdWVzX2FycmF5ID0gdmFsdWVzX2FycmF5IC8gdmFsdWVzX2FycmF5LnN1bSgpICAjIHAodCwgY19pKSAvIHN1bShwKHQsIGNfaSkpCiAgICAgICAgdmFsdWVzX2FycmF5ID0gbnAubG9nKHZhbHVlc19hcnJheSkgKiB2YWx1ZXNfYXJyYXkKICAgICAgICBiZGNfZGljdFt3b3JkXSA9IDEgKyB2YWx1ZXNfYXJyYXkuc3VtKCkgLyBucC5sb2cobGVuKGxhYmVsX3dvcmRzX251bSkpICAjIG5vcm0KCiAgICAjIHRvIHNhdmUgY2FsY3VsYXRlZCByZXN1bHQKICAgIGp1LmR1bXAoZGNfZGljdCwgZGNfdXJsKQogICAgcmV0dXJuIGRjX2RpY3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICouY3N2ILj5vt13ZWlnaHRfdHlwZaOsvau497j2tMq1xMio1tjWtbTmyOtjc3bOxLz+o6zB0MP7WyJ3b3JkIiwgIndlaWdodCIsICJjb3VudCJdCg==</text>
+        <text encoding="base64">ICAgIGxhYmVscywgc2VudGVuY2VzID0gbG9hZF9yYXdfZGF0YShkYXRhX3VybCkKICAgIHdvcmRfbGFiZWxfZGljdCA9IGNvbGxlY3Rpb25zLmRlZmF1bHRkaWN0KGRpY3QpICAjIHN0b3JlIGYodCwgY19pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBzZWxlY3RfZGF0YS+4+b7dc2VudGVuY2VfdHlwZaOsvavUtMr9vt28r9equ6+zyTxsYWJlbKOsc2VudGVuY2VfdHlwZT61xGNzdsr9vt28rwo=</text>
+        <text encoding="base64">ICAgIHNhdmVkX2RpY3QgPSB3b3JkX2xhYmVsX2RpY3QuY29weSgpICAjIHNhdmUgZGljdCBmb3IgZGMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBjYWxjIGJkYwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
