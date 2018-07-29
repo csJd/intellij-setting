@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532654254584">
-        <mark key="[" line="0" column="13" />
+      <file name="/Python Console" timestamp="1532876817555">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -18,7 +18,7 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1532656743116">
+      <file name="/a.dummy" timestamp="1532877285498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
@@ -47,12 +47,12 @@
         <mark key="^" line="36" column="57" />
         <mark key="." line="149" column="14" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532677924445">
-        <mark key="'" line="101" column="13" />
-        <mark key="[" line="63" column="37" />
-        <mark key="]" line="63" column="25" />
-        <mark key="^" line="63" column="25" />
-        <mark key="." line="63" column="25" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" timestamp="1532877236636">
+        <mark key="'" line="117" column="13" />
+        <mark key="[" line="124" column="15" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="124" column="10" />
+        <mark key="^" line="124" column="10" />
       </file>
       <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
         <mark key="]" line="17" column="18" />
@@ -77,14 +77,19 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532659058822">
+      <file name="/Dummy.txt" timestamp="1532877303316">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="32" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/main.py" timestamp="1532876322169">
+        <mark key="[" line="112" column="4" />
+        <mark key="]" line="112" column="4" />
+        <mark key="." line="112" column="4" />
       </file>
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/test.py" timestamp="1529663383000">
         <mark key="[" line="34" column="29" />
@@ -169,43 +174,44 @@
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
       <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
       <jump line="43" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
+      <jump line="113" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>M</text>
+        <text>Update term_weighting_filter.py</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>Update term_weighting_filter.py</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIiIiBpbml0IG15IGxnYm0gbW9kZWwKICAgIAogICAgQXJnczoKICAgICAgICBwYXJhbV9ncmlkOiBwYXJhbV9ncmlkIGZvciBHcmlkU2VhcmNoQ1YKCiAgICBSZXR1cm5zOgoKICAgICIiIgoKICAgIGlmIHBhcmFtX2dyaWQgaXMgTm9uZQogICAgICAgIHBhcmFtX2dyaWQgPSBbCiAgICAgICAgICAgIHsnYm9vc3RpbmdfdHlwZSc6IFsnZ2JkdCcsICdkYXJ0JywgJ3JmJ10sICdsZWFybmluZ19yYXRlJzogWzAuMSwgMC4wMV19LAogICAgICAgIF0KICAgIGNsZiA9IEdyaWRTZWFyY2hDVihMR0JNQ2xhc3NpZmllcigpLCBwYXJhbV9ncmlkLCBjdj0zLCBzY29yaW5nPSdmMV9tYWNybycsIG5fam9icz1OX0pPQlMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0dW5pbmc6CiAgICAgICAgICAgIHBhcmFtX2dyaWQgPSBpbml0X3BhcmFtX2dyaWQoY2xmKQogICAgICAgICAgICB0dW5lX2NsZihjbGYsIFgsIHksIHBhcmFtX2dyaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMR0JNQ2xhc3NpZmllciwgYXJnczogaW5pdGVkIGxnYm0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiJXMgbW9kZWwgaXMgdHJhaW5pbmciICUgY2xmX25hbWUpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVuZV9jbGYoY2xmLCBYLCB5LCBwYXJhbV9ncmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1fZ3JpZCA9IGluaXRfcGFyYW1fZ3JpZChjbGYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbGVhcm5pbmdfcmF0ZSc6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0dW5pbmc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYm9vc3RpbmdfdHlwZSc6ICdnYmR0JywK</text>
+        <text encoding="base64">ICAgIGNsZiA9IFNWQygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSB7Cg==</text>
+        <text encoding="base64">ICAgIGNsZi5maXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
