@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532876817555">
+      <file name="/Python Console" timestamp="1532906341070">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -77,7 +77,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532877303316">
+      <file name="/Dummy.txt" timestamp="1532907864620">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,12 +121,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532652210819">
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1532906862370">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
+        <mark key="^" line="18" column="64" />
       </file>
       <file name="D:/dev/py_projects/kg_learn/titanic/solution.py" timestamp="1532388423056">
         <mark key="[" line="5" column="0" />
@@ -145,6 +145,11 @@
         <mark key="]" line="39" column="30" />
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1532907833962">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -178,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Update term_weighting_filter.py</text>
+        <text>Add classifier_deng.py</text>
       </register>
       <register name="-" type="4">
-        <text>Update term_weighting_filter.py</text>
+        <text>Add classifier_deng.py</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiB0dW5pbmc6CiAgICAgICAgICAgIHBhcmFtX2dyaWQgPSBpbml0X3BhcmFtX2dyaWQoY2xmKQogICAgICAgICAgICB0dW5lX2NsZihjbGYsIFgsIHksIHBhcmFtX2dyaWQpCg==</text>
@@ -190,28 +195,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiJXMgbW9kZWwgaXMgdHJhaW5pbmciICUgY2xmX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHVuZV9jbGYoY2xmLCBYLCB5LCBwYXJhbV9ncmlkKQo=</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5zcGFyc2UuY3NyIGltcG9ydCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1fZ3JpZCA9IGluaXRfcGFyYW1fZ3JpZChjbGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0dW5pbmc6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsZiA9IFNWQygpCg==</text>
+        <text encoding="base64">ICAgIFggPSBzYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsZi5maXQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
