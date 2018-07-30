@@ -77,7 +77,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532954886402">
+      <file name="/Dummy.txt" timestamp="1532956318380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -152,12 +152,12 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1532954540789">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1532956193337">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="68" />
-        <mark key="]" line="47" column="79" />
-        <mark key="." line="47" column="79" />
-        <mark key="^" line="47" column="79" />
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="75" />
+        <mark key="." line="72" column="75" />
+        <mark key="^" line="72" column="75" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -192,44 +192,46 @@
       <jump line="7" column="20" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="38" column="14" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="5" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="69" column="16" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="6" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiB0dW5pbmc6CiAgICAgICAgICAgIHBhcmFtX2dyaWQgPSBpbml0X3BhcmFtX2dyaWQoY2xmKQogICAgICAgICAgICB0dW5lX2NsZihjbGYsIFgsIHksIHBhcmFtX2dyaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcmVtYWluIHRvIGNvbXBsZXRlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
