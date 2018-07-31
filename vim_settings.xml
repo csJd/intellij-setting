@@ -77,7 +77,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533052022497">
+      <file name="/Dummy.txt" timestamp="1533079652119">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -157,11 +157,11 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533046506992">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533079649190">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="93" />
-        <mark key="]" line="79" column="99" />
-        <mark key="." line="79" column="99" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
         <mark key="^" line="79" column="99" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533037834504">
