@@ -77,7 +77,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533125340468">
+      <file name="/Dummy.txt" timestamp="1533126902180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -163,12 +163,12 @@
         <mark key="." line="107" column="41" />
         <mark key="^" line="107" column="41" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533125332207">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533126894584">
         <mark key="'" line="46" column="27" />
         <mark key="[" line="56" column="31" />
-        <mark key="]" line="57" column="58" />
-        <mark key="." line="57" column="58" />
-        <mark key="^" line="57" column="58" />
+        <mark key="]" line="56" column="31" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="57" column="102" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -214,40 +214,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Refactor tw_to_vector</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Refactor tw_to_vector</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbnRlbmNlcyA9IFtzZW50ZW5jZS5zcGxpdCgpIGZvciBzZW50ZW5jZSBpbiBzZW50ZW5jZXNdCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFgsIHkgPSBqb2JsaWIubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvdmVjdG9yL3RmYmRjXzNncmFtXzQwMDAwMDBfWHkucGsiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA9ICJ3b3JkX3NlZyIKICAgIHRlc3RfZGYgPSBwZC5yZWFkX2Nzdihmcm9tX3Byb2plY3Rfcm9vdCgnZGF0YS90ZXN0X3NldC5jc3YnKSkKICAgIHNlbnRlbmNlcyA9IHRlc3RfZGZbY29sdW1uXQogICAgdHdfZGljdCA9IGZyb21fcHJvamVjdF9yb290KCJwcm9jZXNzZWRfZGF0YS9zYXZlZF93ZWlnaHQvcGhyYXNlX2xldmVsXzNncmFtX2JkYy5qc29uIikKICAgIFhfdGVzdCA9IHR3MnYudG9fdmVjdG9yKHNlbnRlbmNlcywgdHdfZGljdCkK</text>
+        <text encoding="base64">ICAgIFgsIHkgPSBqb2JsaWIubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvdmVjdG9yL3RmYmRjXzNncmFtXzQwMDAwMDBfWHkucGsiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbiA9ICJ3b3JkX3NlZyIKICAgIHRlc3RfZGYgPSBwZC5yZWFkX2Nzdihmcm9tX3Byb2plY3Rfcm9vdCgnZGF0YS90ZXN0X3NldC5jc3YnKSkKICAgIHNlbnRlbmNlcyA9IHRlc3RfZGZbY29sdW1uXQogICAgdHdfZGljdCA9IGZyb21fcHJvamVjdF9yb290KCJwcm9jZXNzZWRfZGF0YS9zYXZlZF93ZWlnaHQvcGhyYXNlX2xldmVsXzNncmFtX2JkYy5qc29uIikKICAgIFhfdGVzdCA9IHR3MnYudG9fdmVjdG9yKHNlbnRlbmNlcywgdHdfZGljdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBzdm0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBzdm0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
