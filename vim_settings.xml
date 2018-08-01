@@ -77,7 +77,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533129270187">
+      <file name="/Dummy.txt" timestamp="1533133237396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,14 +156,14 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533129258555">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533133443689">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="54" />
-        <mark key="]" line="73" column="54" />
-        <mark key="." line="73" column="54" />
+        <mark key="[" line="82" column="71" />
+        <mark key="]" line="82" column="71" />
+        <mark key="." line="82" column="71" />
         <mark key="^" line="73" column="55" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533129226794">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533133460668">
         <mark key="'" line="67" column="4" />
         <mark key="[" line="61" column="46" />
         <mark key="]" line="46" column="39" />
@@ -218,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>MAX_FEATURES</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>MAX_FEATURES</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
