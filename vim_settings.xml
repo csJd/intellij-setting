@@ -125,12 +125,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533037365272">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="131" column="38" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533120498904">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="152" column="8" />
+        <mark key="]" line="152" column="10" />
+        <mark key="." line="152" column="10" />
+        <mark key="^" line="152" column="10" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -157,14 +157,14 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533080768460">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533120669419">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="80" column="99" />
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="52" />
+        <mark key="." line="43" column="52" />
+        <mark key="^" line="43" column="51" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533037834504">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533120470517">
         <mark key="[" line="25" column="45" />
         <mark key="]" line="25" column="49" />
         <mark key="." line="25" column="49" />
@@ -210,32 +210,32 @@
       <jump line="38" column="27" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IHNldCB0b2tlbl9wYXR0ZXJuIHRvIGtlZXAgc2luZ2xlIGNoYXIgdG9rZW5zCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>J</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCJ0cmFpbiIsIFhfdHJhaW4uc2hwYWUsIHlfdHJhaW4uc2hhcGUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHNldCB0b2tlbl9wYXR0ZXJuIHRvIGtlZXAgc2luZ2xlIGNoYXIgdG9rZW5zCg==</text>
+        <text encoding="base64">ICAgIHRyYWluID0gcGQucmVhZF9jc3YoZnJvbV9wcm9qZWN0X3Jvb3QoJ2RhdGEvdHJhaW5fc2V0LmNzdicpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfbjogbWF4X24gZm9yIG5ncmFtX3JhbmdlCg==</text>
+        <text encoding="base64">IHNldCB0b2tlbl9wYXR0ZXJuIHRvIGtlZXAgc2luZ2xlIGNoYXIgdG9rZW5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXhfbjogbWF4X24gZm9yIG5ncmFtX3JhbmdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZV90b19saXN0OiB3aGV0aGVyIHRyYW5zZm9ybSBzZW50ZW5jZSB0byB3b3JkIGxpc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX3VybDogdXJsIHRvIGRhdGEgZmlsZQogICAgICAgIHNlbnRlbmNlX3RvX2xpc3Q6IHdoZXRoZXIgdHJhbnNmb3JtIHNlbnRlbmNlIHRvIHdvcmQgbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZW50ZW5jZV90b19saXN0OiB3aGV0aGVyIHRyYW5zZm9ybSBzZW50ZW5jZSB0byB3b3JkIGxpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhX3VybDogdXJsIHRvIGRhdGEgZmlsZQogICAgICAgIHNlbnRlbmNlX3RvX2xpc3Q6IHdoZXRoZXIgdHJhbnNmb3JtIHNlbnRlbmNlIHRvIHdvcmQgbGlzdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -244,7 +244,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5hcHBlbmQobmdyYW1zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
