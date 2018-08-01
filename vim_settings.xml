@@ -125,11 +125,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533123415399">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533136265134">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="38" column="95" />
+        <mark key="]" line="143" column="40" />
+        <mark key="." line="143" column="40" />
+        <mark key="^" line="143" column="40" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -218,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MAX_FEATURES</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>MAX_FEATURES</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
