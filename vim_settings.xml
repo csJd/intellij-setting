@@ -106,6 +106,13 @@
         <mark key="^" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" timestamp="1533207924561">
+        <mark key="'" line="81" column="24" />
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="38" />
+        <mark key="." line="84" column="38" />
+        <mark key="^" line="84" column="38" />
+      </file>
       <file name="D:/opt/miniconda3/envs/ml/Lib/site-packages/gensim/models/word2vec.py" timestamp="1533043155877" />
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/questions_spider.py" timestamp="1529665395171">
         <mark key="[" line="69" column="22" />
@@ -216,43 +223,45 @@
       <jump line="67" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="6" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="96" column="51" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
+      <jump line="80" column="24" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHh5X3VybCA9IGZyb21fcHJvamVjdF9yb290KCJwcm9jZXNzZWRfZGF0YS92ZWN0b3IvdGZ7fV97fWdyYW1fe31fWHkucGsiLmZvcm1hdChUV19UWVBFLCBNQVhfTiwgTUFYX0ZFQVRVUkVTKSkK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHh5X3VybCA9IGZyb21fcHJvamVjdF9yb290KCJwcm9jZXNzZWRfZGF0YS92ZWN0b3IvdGZ7fV97fWdyYW1fe31fWHkucGsiLmZvcm1hdChUV19UWVBFLCBNQVhfTiwgTUFYX0ZFQVRVUkVTKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJnZW5lcmF0ZWQgWCB5IHdpbGwgYmUgc2F2ZWQgYXQiLCB4eV91cmwpCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLmpzb25fdXRpbCBhcyBqdQo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHh5X3VybCA9IGZyb21fcHJvamVjdF9yb290KCJwcm9jZXNzZWRfZGF0YS92ZWN0b3IvdGZ7fV97fWdyYW1fe31fWHkucGsiLmZvcm1hdChUV19UWVBFLCBNQVhfTiwgTUFYX0ZFQVRVUkVTKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJncmlkX3NlYXJjaF9jdiBpcyBydW5uaW5nIikK</text>
+        <text encoding="base64">ICAgIHByaW50KCJnZW5lcmF0ZWQgWCB5IHdpbGwgYmUgc2F2ZWQgYXQiLCB4eV91cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImdyaWQgc2VhcmNoIGN2IGlzIGRvbmUiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzLmpzb25fdXRpbCBhcyBqdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNsZi5jdl9yZXN1bHRzXykK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR3X3R5cGUgPSAnYmRjJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJncmlkX3NlYXJjaF9jdiBpcyBydW5uaW5nIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbnRlbmNlcyA9IFtzZW50ZW5jZS5zcGxpdCgpIGZvciBzZW50ZW5jZSBpbiBzZW50ZW5jZXNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImdyaWQgc2VhcmNoIGN2IGlzIGRvbmUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
