@@ -66,11 +66,12 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533216705788">
-        <mark key="[" line="64" column="43" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="50" />
-        <mark key="^" line="64" column="50" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533219546107">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="73" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1533212574462">
         <mark key="[" line="0" column="0" />
@@ -166,12 +167,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="28" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533216497449">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533218179306">
         <mark key="'" line="67" column="4" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -220,43 +221,63 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="96" column="51" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
       <jump line="80" column="24" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
+      <jump line="85" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="21" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmggPSBucC56ZXJvcyhuX2ZlYXR1cmVzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
+      <register name="0" type="4">
+        <text>if self.use_dc:
+            n_samples, n_features = X.shape
+
+            # calculate term frequencies, f(t), +1 to smooth
+            tfs = np.asarray(X.sum(axis=0)).ravel() + 1
+
+            # initialize dc
+            dc = np.ones(n_features)
+
+            # all labels
+            labels = set(y)
+            for label in labels:
+                label_X = X[y == label]  # slicing data of specific label
+                label_tfs = np.asarray(label_X.sum(axis=0)).ravel() + 1  # f(t, Ci), +1 to smooth
+                pt_label = label_tfs / tfs  # f(t, Ci) / f(t)
+                dc += pt_label * np.log(pt_label) / np.log(len(labels))
+
+            self._dc_diag = sp.spdiags(dc, diags=0, m=n_features, n=n_features, format='csr')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsX3Jvd3MgPSAoeSA9PSBsYWJlbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmggPSBucC56ZXJvcyhuX2ZlYXR1cmVzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdGVybV9kb2MgPSB2ZWMudHJhbnNmb3JtKHRlc3RbY29sdW1uXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0ID0gbnAuemVyb3Mobl9mZWF0dXJlcykgIyBzdW0gb2YgcCh0LCBDaSkgLCBmb3IgYmRjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRybl90ZXJtX2RvYyA9IHZlYy5maXRfdHJhbnNmb3JtKHRyYWluX2RmW2NvbHVtbl0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzdW1fcHQgPSBucC56ZXJvcyhuX2ZlYXR1cmVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZlYyA9IFRmaWRmVmVjdG9yaXplcihuZ3JhbV9yYW5nZT0oMSwgMyksIG1pbl9kZj0zLCBtYXhfZGY9MC44LCBtYXhfZmVhdHVyZXM9MjAwMDAwMCwgc3VibGluZWFyX3RmPTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0ID0gbnAuemVyb3Mobl9mZWF0dXJlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFhfdHJhaW4gPSB0cmFucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9wdENbbGFiZWxdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHkgPSAodHJhaW5bImNsYXNzIl0pLmFzdHlwZShpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0QyA9IG5wLnplcm9zKGxlbihsYWJlbHMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tLS0tLS0tLS1uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbml0aWFsaXplIGRjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGMgPSBucC5vbmVzKG5fZmVhdHVyZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
