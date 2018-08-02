@@ -66,13 +66,13 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533211571470">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533212104707">
         <mark key="[" line="46" column="34" />
         <mark key="]" line="46" column="47" />
         <mark key="." line="46" column="47" />
         <mark key="^" line="46" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533211798647">
+      <file name="/Dummy.txt" timestamp="1533212574462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,12 +166,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="28" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533133460668">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533212361907">
         <mark key="'" line="67" column="4" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="46" column="39" />
-        <mark key="." line="46" column="39" />
-        <mark key="^" line="46" column="39" />
+        <mark key="[" line="18" column="105" />
+        <mark key="]" line="18" column="107" />
+        <mark key="." line="18" column="107" />
+        <mark key="^" line="18" column="107" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -223,43 +223,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>Add TfdcTransformer class like TfidfTransformer</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Add TfdcTransformer class like TfidfTransformer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tLS0tLS0tLS1uCg==</text>
+        <text encoding="base64">ICAgIHRlc3RfdGVybV9kb2MgPSB2ZWMudHJhbnNmb3JtKHRlc3RbY29sdW1uXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRybl90ZXJtX2RvYyA9IHZlYy5maXRfdHJhbnNmb3JtKHRyYWluX2RmW2NvbHVtbl0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFByZXNzLCBwcC4gMTE4LTEyMC5gCg==</text>
+        <text encoding="base64">ICAgIHZlYyA9IFRmaWRmVmVjdG9yaXplcihuZ3JhbV9yYW5nZT0oMSwgMyksIG1pbl9kZj0zLCBtYXhfZGY9MC44LCBtYXhfZmVhdHVyZXM9MjAwMDAwMCwgc3VibGluZWFyX3RmPTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEludHJvZHVjdGlvbiB0byBJbmZvcm1hdGlvbiBSZXRyaWV2YWwuIENhbWJyaWRnZSBVbml2ZXJzaXR5Cg==</text>
+        <text encoding="base64">ICAgIFhfdHJhaW4gPSB0cmFucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uIFtNUlMyMDA4XSBgQy5ELiBNYW5uaW5nLCBQLiBSYWdoYXZhbiBhbmQgSC4gU2NoqLl0emUgICgyMDA4KS4K</text>
+        <text encoding="base64">ICAgIHkgPSAodHJhaW5bImNsYXNzIl0pLmFzdHlwZShpbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNtb290aF9pZGYgOiBib29sZWFuLCBkZWZhdWx0PSBkaXZpc2lvbnMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>True
-        Smooth idf weights by adding one to document frequencies, as if an
-        extra document was seen containing every term in the collection
-        exactly once. Prevents zero</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC0tLS0tLS0tLS1uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBhcmFtZXRlcnMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlYWQgbW9yZSBpbiB0aGUgOnJlZjpgVXNlciBHdWlkZSA8dGV4dF9mZWF0dXJlX2V4dHJhY3Rpb24+YC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFByZXNzLCBwcC4gMTE4LTEyMC5gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
