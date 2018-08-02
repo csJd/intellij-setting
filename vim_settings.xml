@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533044754648">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -54,11 +48,6 @@
         <mark key="." line="124" column="10" />
         <mark key="^" line="124" column="10" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/local_test.py" timestamp="1532618205384">
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-      </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1533166585664">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="18" />
@@ -77,7 +66,13 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533167205326">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533211571470">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1533211798647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -228,10 +223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
