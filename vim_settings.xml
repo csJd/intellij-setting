@@ -66,11 +66,11 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533212104707">
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="47" />
-        <mark key="." line="46" column="47" />
-        <mark key="^" line="46" column="47" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533216705788">
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="50" />
       </file>
       <file name="/Dummy.txt" timestamp="1533212574462">
         <mark key="[" line="0" column="0" />
@@ -166,12 +166,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="28" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533213804737">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533216497449">
         <mark key="'" line="67" column="4" />
-        <mark key="[" line="18" column="105" />
-        <mark key="]" line="18" column="107" />
-        <mark key="." line="18" column="107" />
-        <mark key="^" line="18" column="107" />
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1532657217751">
         <mark key="[" line="37" column="21" />
@@ -223,40 +223,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add TfdcTransformer class like TfidfTransformer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Add TfdcTransformer class like TfidfTransformer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkY19kaWN0ID0ganUubG9hZChmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvc2F2ZWRfd2VpZ2h0L3BocmFzZV9sZXZlbF97fWdyYW1fZGMuanNvbiIuZm9ybWF0KE1BWF9OKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RfdGVybV9kb2MgPSB2ZWMudHJhbnNmb3JtKHRlc3RbY29sdW1uXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsX3Jvd3MgPSAoeSA9PSBsYWJlbCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRybl90ZXJtX2RvYyA9IHZlYy5maXRfdHJhbnNmb3JtKHRyYWluX2RmW2NvbHVtbl0pCg==</text>
+        <text encoding="base64">ICAgIHRlc3RfdGVybV9kb2MgPSB2ZWMudHJhbnNmb3JtKHRlc3RbY29sdW1uXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlYyA9IFRmaWRmVmVjdG9yaXplcihuZ3JhbV9yYW5nZT0oMSwgMyksIG1pbl9kZj0zLCBtYXhfZGY9MC44LCBtYXhfZmVhdHVyZXM9MjAwMDAwMCwgc3VibGluZWFyX3RmPTEpCg==</text>
+        <text encoding="base64">ICAgIHRybl90ZXJtX2RvYyA9IHZlYy5maXRfdHJhbnNmb3JtKHRyYWluX2RmW2NvbHVtbl0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFhfdHJhaW4gPSB0cmFucwo=</text>
+        <text encoding="base64">ICAgIHZlYyA9IFRmaWRmVmVjdG9yaXplcihuZ3JhbV9yYW5nZT0oMSwgMyksIG1pbl9kZj0zLCBtYXhfZGY9MC44LCBtYXhfZmVhdHVyZXM9MjAwMDAwMCwgc3VibGluZWFyX3RmPTEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHkgPSAodHJhaW5bImNsYXNzIl0pLmFzdHlwZShpbnQpCg==</text>
+        <text encoding="base64">ICAgIFhfdHJhaW4gPSB0cmFucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHkgPSAodHJhaW5bImNsYXNzIl0pLmFzdHlwZShpbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0tLS0tLS0tLS1uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC0tLS0tLS0tLS1uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFByZXNzLCBwcC4gMTE4LTEyMC5gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
