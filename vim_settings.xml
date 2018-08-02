@@ -66,12 +66,12 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533220480562">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533222168151">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="16" />
-        <mark key="]" line="97" column="15" />
-        <mark key="." line="97" column="15" />
-        <mark key="^" line="97" column="15" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="89" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1533212574462">
         <mark key="[" line="0" column="0" />
@@ -226,58 +226,73 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/</text>
       </register>
-      <register name="0" type="4">
-        <text>if self.use_dc:
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpbml0aWFsaXplIGRjCiAgICAgICAgICAgIGRjID0gbnAub25lcyhuX2ZlYXR1cmVzKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZnMgKz0gMQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF90ZnMgKz0gMQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYuc21vb3RoX2RjOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgaWYgc2VsZi51cwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>e_bdc:
             n_samples, n_features = X.shape
 
             # calculate term frequencies, f(t), +1 to smooth
             tfs = np.asarray(X.sum(axis=0)).ravel() + 1
 
-            # initialize dc
-            dc = np.ones(n_features)
+            sum_pt = np.zeros(n_features) # sum of p(t, Ci) , for bdc
 
             # all labels
             labels = set(y)
+
+            label_tfs = ict
+            pt_label = defaultdict(float)
             for label in labels:
                 label_X = X[y == label]  # slicing data of specific label
-                label_tfs = np.asarray(label_X.sum(axis=0)).ravel() + 1  # f(t, Ci), +1 to smooth
-                pt_label = label_tfs / tfs  # f(t, Ci) / f(t)
+                label_tfs = np.asarray(label_X.sum(axis=0)).ravel()  # f(t, Ci), +1 to smooth
+                if self.use_bdc:
+                    pt_label[label] = label_tfs / label_tfs.sum()  # f(t, Ci) / f(Ci)
+
+            for label in labels:
+                label_X = X[y == label]
+                
+
+            for label in labels:
+
+
+
+
                 dc += pt_label * np.log(pt_label) / np.log(len(labels))
 
-            self._dc_diag = sp.spdiags(dc, diags=0, m=n_features, n=n_features, format='csr')</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9wdCA9IHN1bV9wdCArIHB0X2xhYmVsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmggPSBucC56ZXJvcyhuX2ZlYXR1cmVzKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0ID0gbnAuemVyb3Mobl9mZWF0dXJlcykgIyBzdW0gb2YgcCh0LCBDaSkgLCBmb3IgYmRjCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fcHQgPSBucC56ZXJvcyhuX2ZlYXR1cmVzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0ID0gbnAuemVyb3Mobl9mZWF0dXJlcykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bV9wdENbbGFiZWxdCg==</text>
+            self._dc_diag = sp.spdiags(dc, diags=0, m=n_features, n=n_features, format='csr')
+
+        return self</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtX3B0QyA9IG5wLnplcm9zKGxlbihsYWJlbHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbml0aWFsaXplIGRjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRmcyA9IHRmcyArIGxhYmVsX3RmcyAgIyBzdW0gb2YgcCBvciBmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
