@@ -72,14 +72,14 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533262694079">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533265376959">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="96" column="37" />
-        <mark key="]" line="96" column="38" />
-        <mark key="." line="96" column="38" />
-        <mark key="^" line="96" column="54" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="29" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533261132927">
+      <file name="/Dummy.txt" timestamp="1533265414372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -232,41 +232,41 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbGFiZWxfdGZzIG1pZ2h0IGhhdmUgMCB2YWx1ZXMgaW4gc29tZSBjb2x1bW5zLCBuZWVkIHRvIHNtb290aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNtb28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF90cHNbbGFiZWxfdHBzID09IDBdID0gc21vb3RoX2RjICAjIHRvIHNtb290aCB6ZXJvIHZhbHVlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNtb28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZnMgPSB0ZnMgKyBsYWJlbF90ZnMgICMgc3VtIG9mIHAodCwgQ2kpSgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF90ZnMgPSBucC5hc2FycmF5KGxhYmVsX1guc3VtKGF4aXM9MCkpLnJhdmVsKCkgICMgZih0LCBDaSkgZm9yIGRjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9YID0gWFt5ID09IGxhYmVsXSAgIyBzbGljZWQgZGF0YSBvZiBzcGVjaWZpYyBsYWJlbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBsYWJlbCBpbiBsYWJlbHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZnMgPSB0ZnMgKyBsYWJlbF90ZnMgICMgc3VtIG9mIHAodCwgQ2kpSgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF90ZnMgPSBucC5hc2FycmF5KGxhYmVsX1guc3VtKGF4aXM9MCkpLnJhdmVsKCkgICMgZih0LCBDaSkgZm9yIGRjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
