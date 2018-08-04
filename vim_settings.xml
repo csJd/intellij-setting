@@ -73,10 +73,10 @@
         <mark key="." line="196" column="39" />
         <mark key="^" line="196" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533380310393">
+      <file name="/Dummy.txt" timestamp="1533382427225">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
@@ -234,11 +234,11 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRvIHN1cHBvcnQgY3N2IHdpdGggaGVhZGVy</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IHRvIHN1cHBvcnQgY3N2IHdpdGggaGVhZGVy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
