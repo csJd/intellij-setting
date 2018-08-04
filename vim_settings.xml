@@ -72,14 +72,14 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533375292076">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="170" column="10" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533379862646">
+        <mark key="'" line="145" column="22" />
+        <mark key="[" line="195" column="11" />
+        <mark key="]" line="195" column="12" />
+        <mark key="." line="195" column="12" />
+        <mark key="^" line="195" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533373126067">
+      <file name="/Dummy.txt" timestamp="1533379907275">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,12 +134,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533375195021">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="159" column="0" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533379465368">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="191" column="40" />
+        <mark key="]" line="191" column="108" />
+        <mark key="." line="191" column="108" />
+        <mark key="^" line="191" column="108" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -154,11 +154,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1533224680895">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="1" column="6" />
-        <mark key="." line="1" column="6" />
-        <mark key="^" line="1" column="6" />
+      <file name="D:/dev/py_projects/dg_text/.gitignore" timestamp="1533378196724">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/json_util.py" timestamp="1532654695606">
         <mark key="[" line="39" column="30" />
@@ -166,12 +166,12 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533166430199">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533379904067">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="113" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="105" column="28" />
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="65" column="21" />
+        <mark key="." line="65" column="21" />
+        <mark key="^" line="65" column="21" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533374686450">
         <mark key="'" line="67" column="4" />
@@ -235,43 +235,45 @@
       <jump line="171" column="6" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="10" column="17" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="145" column="22" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="16" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA9ICJ3b3JkX3NlZyIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA9ICJ3b3JkX3NlZyIK</text>
+        <text encoding="base64">ICAgIHRlc3RfdXJsID0gZnJvbV9wcm9qZWN0X3Jvb3QoImRhdGEvdGVzdF9zZXQuY3N2IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWCwgeSwgWF90ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX3VybDogdXJsIHRvIHNhdmUgdGhlIHJlc3VsdCBmaWxlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb2x1bW46IHRoZSBjb2x1bW4gdG8gdXNlCg==</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RfZGYgPSBwZC5yZWFkX2Nzdih0ZXN0X3VybCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
