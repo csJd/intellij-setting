@@ -128,12 +128,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533381643358">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533397777949">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="191" column="72" />
-        <mark key="]" line="191" column="108" />
-        <mark key="." line="191" column="108" />
-        <mark key="^" line="191" column="108" />
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="42" column="70" />
+        <mark key="." line="42" column="70" />
+        <mark key="^" line="42" column="70" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRvIHN1cHBvcnQgY3N2IHdpdGggaGVhZGVy</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRvIHN1cHBvcnQgY3N2IHdpdGggaGVhZGVy</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
