@@ -116,11 +116,10 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533477890180">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="43" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="43" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533479901574">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -238,43 +237,53 @@
       <jump line="16" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="58" column="20" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="16" column="16" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
+      <jump line="4" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhoaCwgYmJiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhoaCwgYmJiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKipkKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKmwpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGQgPSB7J2hoYic6ICcxJywgJ2JiYic6ICcyMid9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGw9WzEsMl0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>params_grad = {
+    'column': ['word_seg', 'article'],
+    'max_n': [1, 2, 3],
+    'min_df': [2, 3],
+    'max_df': [0.8, 0.9],
+    'max_features': [200000, 500000, 1000000, 2000000, 3000000, 4000000],
+    'balanced': [False, True],
+    're_weight': [0, 9]
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJhbXNfbGlzdCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGhoaCwgYmJiKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
