@@ -119,6 +119,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533473714262">
+        <mark key="[" line="5" column="93" />
+        <mark key="]" line="5" column="91" />
+        <mark key="^" line="5" column="91" />
+        <mark key="." line="5" column="91" />
+      </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="10" />
@@ -238,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
