@@ -69,12 +69,12 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533436326600">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533469717940">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="206" column="28" />
-        <mark key="]" line="206" column="28" />
-        <mark key="." line="206" column="28" />
-        <mark key="^" line="197" column="3" />
+        <mark key="[" line="200" column="11" />
+        <mark key="]" line="200" column="12" />
+        <mark key="." line="200" column="12" />
+        <mark key="^" line="200" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1533435975267">
         <mark key="[" line="0" column="0" />
@@ -131,12 +131,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533437379696">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533470493713">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="196" column="75" />
-        <mark key="]" line="196" column="75" />
-        <mark key="." line="196" column="75" />
-        <mark key="^" line="196" column="75" />
+        <mark key="[" line="197" column="64" />
+        <mark key="]" line="197" column="69" />
+        <mark key="." line="197" column="69" />
+        <mark key="^" line="197" column="69" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -238,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
