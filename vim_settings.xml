@@ -6,9 +6,6 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533429528319">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -119,11 +116,11 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533473714262">
-        <mark key="[" line="5" column="93" />
-        <mark key="]" line="5" column="91" />
-        <mark key="^" line="5" column="91" />
-        <mark key="." line="5" column="91" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533475865557">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -243,41 +240,41 @@
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbF9oW2xhYmVsX2ggPT0gMF0gPSBzbW9vdGhfZGMgICMgdG8gYXZvaWQgemVybyBsb2cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdHJhbnNmb3JtZXIKICAgIGlmIHRyYW5zIGlzIE5vbmU6CiAgICAgICAgdHJhbnMgPSBUZmRjVHJhbnNmb3JtZXIoc3VibGluZWFyX3RmPXN1YmxpbmVhcl90ZiwgYmFsYW5jZWQ9YmFsYW5jZWQsIHJlX3dlaWdodD1yZV93ZWlnaHQpCgo=</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHZlYy5nZXRfcGFyYW1zKCkpCg==</text>
+        <text encoding="base64">ICAgIHsnY29sdW1uJzogWydhcnRpY2xlJ10sICdtYXhfbic6IFsyLCAzXSwgJ21pbl9kZic6WzIsIDNdLCAnbWF4X2RmJzogWzAuOCwgMC45XSwgJ21heF9mZWF0dXJlcyc6IFsyMDAwMDBdfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ2ZWN0b3JpemVyIHBhcmFtczoiLCB2ZWMuZ2V0X3BhcmFtcygpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICMgdHJhbnNmb3JtZXIKICAgIGlmIHRyYW5zIGlzIE5vbmU6CiAgICAgICAgdHJhbnMgPSBUZmRjVHJhbnNmb3JtZXIoc3VibGluZWFyX3RmPXN1YmxpbmVhcl90ZiwgYmFsYW5jZWQ9YmFsYW5jZWQsIHJlX3dlaWdodD1yZV93ZWlnaHQpCgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KHZlYy5nZXRfcGFyYW1zKCkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ2ZWN0b3JpemVyIHBhcmFtczoiLCB2ZWMuZ2V0X3BhcmFtcygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
