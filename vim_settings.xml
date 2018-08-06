@@ -79,7 +79,7 @@
         <mark key="." line="226" column="15" />
         <mark key="^" line="226" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533557755905">
+      <file name="/Dummy.txt" timestamp="1533568369974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -122,12 +122,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533557734537">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533568292239">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="153" column="46" />
-        <mark key="]" line="153" column="46" />
-        <mark key="." line="153" column="46" />
-        <mark key="^" line="93" column="48" />
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="72" column="30" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -141,12 +141,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533481660101">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533567809833">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="197" column="64" />
-        <mark key="]" line="197" column="69" />
-        <mark key="." line="197" column="69" />
-        <mark key="^" line="197" column="69" />
+        <mark key="[" line="190" column="31" />
+        <mark key="]" line="190" column="32" />
+        <mark key="." line="190" column="32" />
+        <mark key="^" line="190" column="32" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533042916294">
         <mark key="'" line="59" column="27" />
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="0" type="4">
         <text>params_grad = [
