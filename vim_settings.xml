@@ -121,11 +121,11 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533512672043">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533553606650">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -281,28 +281,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFhfc3RhY2tfdHJhaW4ucmVzaGFwZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5X3ByZWRfdGVzdD0gY2xmLnByZWRpY3QoWF90ZXN0KQo=</text>
+        <text encoding="base64">ICAgIFhfc3RhY2tfdHJhaW4ucmVzaGFwZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrX3Rlc3QgPSBjbGYucHJlZGljdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB5X3ByZWRfdGVzdD0gY2xmLnByZWRpY3QoWF90ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB5X3Rlc3QgPSBjbGYucHJlZGljdChYX3Rlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBYX3N0YWNrX3Rlc3QgPSBjbGYucHJlZGljdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrLmFwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB5X3Rlc3QgPSBjbGYucHJlZGljdChYX3Rlc3QpCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBYX3N0YWNrCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBYX3N0YWNrLmFwCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFhfc3RhY2ssIHlfc3RhY2sK</text>
+        <text encoding="base64">ICAgICAgICB5X3Rlc3QgPSBjbGYucHJlZGljdChYX3Rlc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
