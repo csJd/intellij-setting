@@ -6,10 +6,11 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533511296711">
+      <file name="/Python Console" timestamp="1533554274438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
@@ -71,12 +72,12 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533482188825">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="192" column="11" />
-        <mark key="]" line="192" column="11" />
-        <mark key="." line="192" column="11" />
-        <mark key="^" line="184" column="77" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533554259822">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="38" />
+        <mark key="." line="214" column="0" />
+        <mark key="^" line="220" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1533512695218">
         <mark key="[" line="0" column="0" />
@@ -121,11 +122,10 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533553606650">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533554715802">
+        <mark key="[" line="94" column="56" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -242,12 +242,10 @@
       <jump line="145" column="22" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="16" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="58" column="20" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
-      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="16" column="16" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="4" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="57" column="15" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="70" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
-      <jump line="65" column="8" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="74" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="7" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="67" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
@@ -258,51 +256,51 @@
       <jump line="91" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="5" column="51" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
+      <jump line="65" column="3" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
+      <jump line="185" column="6" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="225" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="11" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="191" column="10" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="226" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="12" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvYmxpYi4K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="0" type="4">
-        <text>{
-            'column': ['word_seg', 'article'],
-            'max_n': [1],
-            'min_df': [2, 3],
-            'max_df': [0.8, 0.9],
-            'max_features': [200000, 300000, 1000000, 2000000, 3000000, 4000000],
-            'balanced': [False, True],
-            're_weight': [0, 9]
-        },</text>
+        <text>train_url.replace('.csv', '_df.pk')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvYmxpYi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFhfc3RhY2tfdHJhaW4gPSBucC5hcHBlbmQoWF9zdGFja190cmFpbiwgeV9wcmVkKQogICAgWF9zdGFja190ZXN0ID0gbnAuYXBwZW5kKFhfc3RhY2tfdGVzdCwgeV9wcmVkX3Rlc3QpCiAgICBmb3IgaSwgcGFyYW1zIGluIGVudW1lcmF0ZSh0cWRtKHBhcmFtc19saXN0KSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFhfc3RhY2tfdHJhaW4ucmVzaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIHlfcHJlZF90ZXN0ID0gY2xmLnByZWRpY3QoWF90ZXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB5X3ByZWRfdGVzdD0gY2xmLnByZWRpY3QoWF90ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrX3Rlc3QgPSBjbGYucHJlZGljdCgpCg==</text>
+        <text encoding="base64">ICAgICMgYnJlYWsgICMgYnJlYWsgZm9yIHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5X3Rlc3QgPSBjbGYucHJlZGljdChYX3Rlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrCg==</text>
+        <text encoding="base64">ICAgIGZvciBpLCBwYXJhbXMgaW4gZW51bWVyYXRlKHRxZG0ocGFyYW1zX2xpc3QpKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBYX3N0YWNrLmFwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgidHJhbnNmb3JtaW5nIHRlc3Qgc2V0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5X3Rlc3QgPSBjbGYucHJlZGljdChYX3Rlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
