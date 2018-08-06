@@ -122,12 +122,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533568292239">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533597501385">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="72" column="26" />
-        <mark key="]" line="72" column="30" />
-        <mark key="." line="72" column="30" />
-        <mark key="^" line="72" column="30" />
+        <mark key="[" line="127" column="10" />
+        <mark key="]" line="127" column="10" />
+        <mark key="." line="127" column="10" />
+        <mark key="^" line="127" column="40" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>params_grad = [
