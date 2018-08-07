@@ -79,7 +79,7 @@
         <mark key="^" line="209" column="14" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533599064612">
+      <file name="/Dummy.txt" timestamp="1533651758951">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -141,12 +141,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533567809833">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="190" column="31" />
-        <mark key="]" line="190" column="32" />
-        <mark key="." line="190" column="32" />
-        <mark key="^" line="190" column="32" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533651708144">
+        <mark key="'" line="223" column="0" />
+        <mark key="[" line="221" column="4" />
+        <mark key="]" line="221" column="4" />
+        <mark key="." line="221" column="4" />
+        <mark key="^" line="199" column="9" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533598011893">
         <mark key="'" line="0" column="0" />
@@ -285,13 +285,15 @@
       <jump line="238" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="19" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
+      <jump line="196" column="9" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
+      <jump line="223" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>params_grad = [
@@ -325,31 +327,31 @@
     ]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgIGNsZiA9IExpbmVhclNWQygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBleGlzdHMK</text>
+        <text encoding="base64">ICAgICMgY2xmID0gTGluZWFyU1ZDKEM9MSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmV4dGVybmFscyBpbXBvcnQgam9ibGliCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9ibGliLmR1bXAodGVzdF9kZiwgdGVzdF9waykK</text>
+        <text encoding="base64">ICAgIGNsZi5wCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdF9kZiA9IHBkLnJlYWRfY3N2KHRlc3RfdXJsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgT25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdF9kZiA9IGpvYmxpYi5sb2FkKHRlc3RfcGspCg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBleGlzdHModGVzdF9wayk6Cg==</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBleGlzdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIHZlY3Rvcml6ZXIK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmV4dGVybmFscyBpbXBvcnQgam9ibGliCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
