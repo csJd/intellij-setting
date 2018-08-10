@@ -18,8 +18,15 @@
         <mark key="." line="3" column="43" />
         <mark key="^" line="3" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1533211055593">
+      <file name="/a.dummy" timestamp="1533898926412">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" timestamp="1533900029030">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
         <mark key="[" line="24" column="22" />
@@ -79,7 +86,7 @@
         <mark key="^" line="209" column="14" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533873474178">
+      <file name="/Dummy.txt" timestamp="1533898947785">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -173,19 +180,18 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533893102418">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="44" column="40" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533898921380">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="138" column="19" />
+        <mark key="]" line="138" column="19" />
+        <mark key="^" line="139" column="28" />
+        <mark key="." line="138" column="19" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533374686450">
-        <mark key="'" line="67" column="4" />
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="33" column="79" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533898007919">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1533869273595">
         <mark key="[" line="37" column="21" />
@@ -195,12 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
-      <jump line="29" column="15" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
-      <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
-      <jump line="38" column="6" filename="D:/dev/py_projects/dg_text/local_test.py" />
-      <jump line="43" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
-      <jump line="113" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
       <jump line="29" column="56" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="7" column="20" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="38" column="14" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
@@ -295,43 +295,49 @@
       <jump line="20" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="93" column="10" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="100" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="98" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="19" column="12" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
+      <jump line="141" column="62" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
+      <jump line="147" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
+      <jump line="17" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>c</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYWluX3NlbnRlbmNlcyA9IGxvYWRfdG9fZGYodHJhaW5fdXJsKVtjb2x1bW5dCg==</text>
+      <register name="0" type="4">
+        <text>sublinear_tf=True, re_weight=0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFdfVFlQRSA9ICdpZGYnCg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbiA9ICd3b3JkX3NlZycK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBYLCB5Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZGVmIG9mZmxpbmVfdHJhbnNmb3JtKGNvbHVtbj0nd29yZF9zZWcnLCB0cmFpbl91cmw9VFJBSU5fVVJMLCB0ZXN0X3VybD1Ob25lLCB0d190eXBlPVRXX1RZUEUpOgogICAgIiIiCgogICAgQXJnczoKICAgICAgICB0cmFpbl91cmw6IHN0ciwgdXJsIHRvIHRyYWluIGRhdGEgKHdpdGggaGVhZGVyKQogICAgICAgIHR3X3R5cGU6IHN0ciwgdGVybSB3aWdodGluZyB0eXBlIHtpZGYsIGRjLCBiZGN9CgogICAgUmV0dXJuczoKICAgICAgICBYLCB5LCBYX3Rlc3QKCiAgICAiIiIKICAgIGRhdGFfdXJsID0gZnJvbV9wcm9qZWN0X3Jvb3QoInByb2Nlc3NlZF9kYXRhXHBocmFzZV9sZXZlbF9kYXRhLmNzdiIpCiAgICBpZiBjb2x1bW4gPT0gJ2FydGljbGUnOgogICAgICAgIGRhdGFfdXJsID0gZGF0YV91cmwucmVwbGFjZSgncGhyYXNlJywgJ3dvcmQnKQogICAgICAgIAogICAgaWYgdHdfdHlwZSA9PSAnaWRmJzoKICAgICAgICBYID0gdGZpZGZfdHJhbnNmb3JtKHRyYWluX3VybCwgdGVzdF91cmwpCiAgICBlbGlmIHR3X3R5cGUgPT0gJ2RjJzoKICAgICAgICBkY19kaWN0ID0gY3cuY2FsY19kYyhkYXRhX3VybD1kYXRhX3VybCwgbmdyYW09TUFYX04pCiAgICAgICAgWCA9IGRpY3RfdHJhbnNmb3JtKGRjX2RpY3QpCiAgICBlbGlmIHR3X3R5cGUgPT0gJ2JkYyc6CiAgICAgICAgYmRjX2RpY3QgPSBjdy5jYWxjX2JkYyhuZ3JhbT1NQVhfTikKICAgICAgICBYID0gZGljdF90cmFuc2Zvcm0oYmRjX2RpY3QpCgogICAgcmV0dXJuIFgsIHkK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX3VybCA9IGZyb21fcHJvamVjdF9yb290KCIiKQo=</text>
+        <text encoding="base64">ICAgIGRlbCB0cmFpbl9kZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHkgPSBucC5hcnJheShsYWJlbHMpCg==</text>
+        <text encoding="base64">ICAgIGRlbCB0cmFpbl9kZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxhYmVscywgc2VudGVuY2VzID0gbG9hZF9yYXdfZGF0YShuZ3JhbT1Ob25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJsaW5lYXJfdGY9VHJ1ZSwgcmVfd2VpZ2h0PTApOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFggPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VEVTVF9VUkwgPSBmcm9tX3Byb2plY3Rfcm9vdCgnZGF0YS90ZXN0X3NldC5jc3YnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
