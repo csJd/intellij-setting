@@ -173,12 +173,12 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533886419618">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="52" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533888305689">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="25" column="54" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533374686450">
         <mark key="'" line="67" column="4" />
@@ -195,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="10" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
-      <jump line="9" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="29" column="15" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/ft_model.py" />
@@ -218,7 +216,6 @@
       <jump line="43" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="67" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="6" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
-      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="96" column="51" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
       <jump line="80" column="24" filename="D:/dev/py_projects/dg_text/term_weighting_model/Transformer.py" />
       <jump line="85" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" />
@@ -295,43 +292,46 @@
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="83" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="19" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="20" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="93" column="10" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeydib29zdGluZ190eXBlJzogWydnYmR0JywgJ2RhcnQnLCAncmYnXSwgJ2xlYXJuaW5nX3JhdGUnOiBbMC4xLCAwLjAxXX0sCg==</text>
+        <text encoding="base64">ICAgIHRyYWluX3NlbnRlbmNlcyA9IGxvYWRfdG9fZGYodHJhaW5fdXJsKVtjb2x1bW5dCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">VEVTVF9VUkwgPSBmcm9tX3Byb2plY3Rfcm9vdCgnZGF0YS90ZXN0X3NldC5jc3YnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfbjoK</text>
+        <text encoding="base64">ICAgICAgICBYID0gdGZpZGZfdG9fdmVjdG9yKHNlbnRlbmNlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHR3X3R5cGUgPT0gJ2lkZic6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHkgPSBucC5hcnJheShsYWJlbHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFggPSBOb25lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhYmVscywgc2VudGVuY2VzID0gbG9hZF9yYXdfZGF0YShkYXRhX3VybCwgbmdyYW09Tm9uZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHR3X2RpY3QgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZmlkZlRyYW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICBYLCB5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
