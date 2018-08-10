@@ -141,12 +141,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533878901369">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533882484807">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="225" column="72" />
-        <mark key="." line="225" column="0" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="61" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="71" column="61" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533598011893">
         <mark key="'" line="0" column="0" />
@@ -297,15 +297,14 @@
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbiA9ICd3b3JkX3NlZycK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>generate_vectors(train_url, test_url, column=column, max_n=3, min_df=3, max_df=0.8,
-    #                                 max_features=4000000, balanced=False, re_weight=9)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeydib29zdGluZ190eXBlJzogWydnYmR0JywgJ2RhcnQnLCAncmYnXSwgJ2xlYXJuaW5nX3JhdGUnOiBbMC4xLCAwLjAxXX0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbHVtbiA9ICd3b3JkX3NlZycK</text>
