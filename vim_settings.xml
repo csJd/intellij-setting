@@ -147,12 +147,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533906248020">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533906926438">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="228" column="49" />
-        <mark key="]" line="228" column="50" />
-        <mark key="^" line="70" column="11" />
-        <mark key="." line="228" column="50" />
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="12" />
+        <mark key="." line="240" column="12" />
+        <mark key="^" line="240" column="12" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533905428958">
         <mark key="'" line="0" column="0" />
@@ -303,19 +303,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="0" type="4">
         <text>sublinear_tf=True, re_weight=0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2l0IHB1bGwK</text>
+        <text encoding="base64">ICAgICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Z2l0IHB1bGwK</text>
@@ -324,19 +324,19 @@
         <text encoding="base64">Z2l0IHB1bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0IHB1bGwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ZGVmIHRmZGNfYmFzZWxpbmUoKToKICAgIGNvbHVtbiA9ICJ3b3JkX3NlZyIKICAgIHRyYWluX2RmID0gcGQucmVhZF9jc3YoZnJvbV9wcm9qZWN0X3Jvb3QoJ2RhdGEvdHJhaW5fc2V0LmNzdicpKQogICAgdGVzdF9kZiA9IHBkLnJlYWRfY3N2KGZyb21fcHJvamVjdF9yb290KCdkYXRhL3Rlc3Rfc2V0LmNzdicpKQogICAgdmVjID0gQ291bnRWZWN0b3JpemVyKG5ncmFtX3JhbmdlPSgxLCAzKSwgbWluX2RmPTMsIG1heF9kZj0wLjgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X2ZlYXR1cmVzPTMwMDAwMDAsIHRva2VuX3BhdHRlcm49J1x3KycpCiAgICB0cmFucyA9IFRmZGNUcmFuc2Zvcm1lcihzdWJsaW5lYXJfdGY9VHJ1ZSwgYmFsYW5jZWQ9VHJ1ZSkKICAgIFhfdHJhaW4gPSB2ZWMuZml0X3RyYW5zZm9ybSh0cmFpbl9kZltjb2x1bW5dKQogICAgeV90cmFpbiA9IG5wLmFycmF5KCh0cmFpbl9kZlsiY2xhc3MiXSkuYXN0eXBlKGludCkpCiAgICBYX3RyYWluID0gdHJhbnMuZml0X3RyYW5zZm9ybShYX3RyYWluLCB5X3RyYWluKQoKICAgIFhfdGVzdCA9IHZlYy50cmFuc2Zvcm0odGVzdF9kZltjb2x1bW5dKQogICAgWF90ZXN0ID0gdHJhbnMudHJhbnNmb3JtKFhfdGVzdCkKCiAgICBsaW5fY2xmID0gTGluZWFyU1ZDKCkKICAgIGxpbl9jbGYuZml0KFhfdHJhaW4sIHlfdHJhaW4pCiAgICBwcmVkcyA9IGxpbl9jbGYucHJlZGljdChYX3Rlc3QpCgogICAgcmVzdWx0X2ZpbGUgPSBvcGVuKGZyb21fcHJvamVjdF9yb290KCdwcm9jZXNzZWRfZGF0YS9jb21fcmVzdWx0L2Jhc2VsaW5lX3RmYmRjXzNncmFtXzMwMDAwMDAuY3N2JyksICd3JykKICAgIHJlc3VsdF9maWxlLndyaXRlKCJpZCxjbGFzcyIgKyAiXG4iKQogICAgZm9yIGksIGxhYmVsIGluIGVudW1lcmF0ZShwcmVkcyk6CiAgICAgICAgcmVzdWx0X2ZpbGUud3JpdGUoc3RyKGkpICsgIiwiICsgc3RyKGxhYmVsKSArICJcbiIpCiAgICByZXN1bHRfZmlsZS5jbG9zZSgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdlbl9waHJhc2VfZGF0YShkYXRhX3VybCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
