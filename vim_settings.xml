@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533885371982">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="/Python Console" timestamp="1533904636906">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
@@ -155,7 +154,7 @@
         <mark key="^" line="70" column="11" />
         <mark key="." line="71" column="61" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533903583246">
+      <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533904556905">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="28" />
         <mark key="]" line="60" column="0" />
@@ -194,9 +193,9 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="D:/dev/py_projects/dg_text/README.md" timestamp="1533903601398">
-        <mark key="[" line="169" column="3" />
-        <mark key="]" line="167" column="8" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="171" column="3" />
+        <mark key="]" line="169" column="8" />
+        <mark key="." line="169" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -302,11 +301,11 @@
       <jump line="14" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2l0IHB1bGwK</text>
+      <register name="&quot;" type="4">
+        <text>word_level_data.csv</text>
       </register>
       <register name="-" type="4">
-        <text>Refactor offline_transformer.py</text>
+        <text>word_level_data.csv</text>
       </register>
       <register name="0" type="4">
         <text>sublinear_tf=True, re_weight=0</text>
