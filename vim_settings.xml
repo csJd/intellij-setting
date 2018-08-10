@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533908233344">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="/Python Console" timestamp="1533909804558">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
@@ -79,18 +79,18 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533909213581">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1533910054308">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="164" column="34" />
-        <mark key="]" line="164" column="34" />
+        <mark key="[" line="164" column="36" />
+        <mark key="]" line="164" column="36" />
         <mark key="^" line="164" column="34" />
-        <mark key="." line="164" column="34" />
+        <mark key="." line="164" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533905432856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1533910832780">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="/code.py" timestamp="1532357737263">
         <mark key="[" line="0" column="0" />
@@ -129,12 +129,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533909431682">
-        <mark key="'" line="155" column="4" />
-        <mark key="[" line="174" column="30" />
-        <mark key="]" line="174" column="34" />
-        <mark key="^" line="174" column="34" />
-        <mark key="." line="174" column="34" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533910683167">
+        <mark key="'" line="157" column="4" />
+        <mark key="[" line="126" column="29" />
+        <mark key="]" line="126" column="30" />
+        <mark key="." line="126" column="30" />
+        <mark key="^" line="140" column="57" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -304,40 +304,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9iYTogVHJ1ZSB0byBwcmVkaWN0IHByb2JhYmlsaXRpZXMgb2YgbGFiZWxzIGluc3RlYWQgbGFiZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdGVzdF91cmwgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdGVzdF91cmwgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFgsIHksIFhfdGVzdCA9IGdlbmVyYXRlX3ZlY3RvcnModHJhaW5fdXJsLCB0ZXN0X3VybCwgKipwYXJhbXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFhfdGVzdCA9IFhfc3RhY2tfdGVzdC5yZXNoYXBlKGxlbihwYXJhbXNfbGlzdCksIC0xKS50cmFuc3Bvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHkgPSBucC5hc2FycmF5KGpvYmxpYi5sb2FkKGZyb21fcHJvamVjdF9yb290KCJkYXRhL3RyYWluX3NldF9kZi5wayIpKVsnY2xhc3MnXSkucmF2ZWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFggPSBYX3N0YWNrX3RyYWluLnJlc2hhcGUobGVuKHBhcmFtc19saXN0KSwgLTEpLnRyYW5zcG9zZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHByZWRpY3QK</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcHJvYmE6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
