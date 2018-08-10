@@ -6,11 +6,11 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533877875737">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
+      <file name="/Python Console" timestamp="1533885371982">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
@@ -173,12 +173,12 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533885027043">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" timestamp="1533886419618">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" timestamp="1533374686450">
         <mark key="'" line="67" column="4" />
@@ -195,8 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
-      <jump line="10" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/w2v_model.py" />
       <jump line="57" column="10" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="9" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/embedding_model/d2v_model.py" />
@@ -295,43 +293,45 @@
       <jump line="235" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="2" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
+      <jump line="83" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
+      <jump line="19" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeydib29zdGluZ190eXBlJzogWydnYmR0JywgJ2RhcnQnLCAncmYnXSwgJ2xlYXJuaW5nX3JhdGUnOiBbMC4xLCAwLjAxXX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHR3X2RpY3QgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBtYXhfbjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZmlkZlRyYW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBYLCB2ZWN0b3JpemVkIGRhdGEK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIHR3X2RpY3QgaXMgTm9uZToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUZmlkZlRyYW5zCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXM6IGxpc3Qgb2Ygc2VudGVuY2UgdG8gYmUgdmVjdG9yaXplZAo=</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
