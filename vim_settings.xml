@@ -128,12 +128,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533864236771">
-        <mark key="'" line="47" column="17" />
-        <mark key="[" line="180" column="12" />
-        <mark key="]" line="202" column="32" />
-        <mark key="." line="202" column="32" />
-        <mark key="^" line="202" column="32" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533908156313">
+        <mark key="'" line="143" column="4" />
+        <mark key="[" line="130" column="44" />
+        <mark key="]" line="125" column="49" />
+        <mark key="." line="125" column="49" />
+        <mark key="^" line="125" column="49" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="14" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
-      <jump line="5" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="69" column="16" filename="D:/dev/py_projects/dg_text/term_weighting_model/tw_to_vector.py" />
       <jump line="70" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="38" column="27" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
@@ -300,6 +298,8 @@
       <jump line="17" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
       <jump line="22" column="12" filename="D:/dev/py_projects/dg_text/term_weighting_model/offline_transformer.py" />
       <jump line="14" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
+      <jump line="123" column="28" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
+      <jump line="141" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
