@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1534115547606">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -141,11 +147,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534085652194">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534116061732">
         <mark key="'" line="183" column="36" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
+        <mark key="[" line="188" column="23" />
+        <mark key="]" line="180" column="42" />
+        <mark key="." line="180" column="42" />
+        <mark key="^" line="180" column="42" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533905428958">
         <mark key="'" line="0" column="0" />
@@ -295,11 +302,11 @@
       <jump line="183" column="36" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsZiA9IFhHQkNsYXNzaWZpZXIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>v</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9iYTogVHJ1ZSB0byBwcmVkaWN0IHByb2JhYmlsaXRpZXMgb2YgbGFiZWxzIGluc3RlYWQgbGFiZWwK</text>
