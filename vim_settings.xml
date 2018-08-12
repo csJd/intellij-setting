@@ -86,8 +86,8 @@
         <mark key="^" line="164" column="34" />
         <mark key="." line="164" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533910832780">
-        <mark key="[" line="0" column="54" />
+      <file name="/Dummy.txt" timestamp="1534082663773">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="54" />
@@ -129,12 +129,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533973087291">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1534082371044">
         <mark key="'" line="157" column="4" />
-        <mark key="[" line="168" column="70" />
-        <mark key="]" line="168" column="76" />
-        <mark key="." line="168" column="76" />
-        <mark key="^" line="168" column="76" />
+        <mark key="[" line="125" column="37" />
+        <mark key="]" line="125" column="37" />
+        <mark key="." line="125" column="37" />
+        <mark key="^" line="125" column="37" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9iYTogVHJ1ZSB0byBwcmVkaWN0IHByb2JhYmlsaXRpZXMgb2YgbGFiZWxzIGluc3RlYWQgbGFiZWwK</text>
