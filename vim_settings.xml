@@ -129,12 +129,12 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533910683167">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1533973087291">
         <mark key="'" line="157" column="4" />
-        <mark key="[" line="126" column="29" />
-        <mark key="]" line="126" column="30" />
-        <mark key="." line="126" column="30" />
-        <mark key="^" line="140" column="57" />
+        <mark key="[" line="168" column="70" />
+        <mark key="]" line="168" column="76" />
+        <mark key="." line="168" column="76" />
+        <mark key="^" line="168" column="76" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -148,12 +148,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533908347586">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="240" column="12" />
-        <mark key="]" line="240" column="12" />
-        <mark key="." line="240" column="12" />
-        <mark key="^" line="240" column="12" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533974299501">
+        <mark key="'" line="183" column="36" />
+        <mark key="[" line="168" column="76" />
+        <mark key="]" line="168" column="79" />
+        <mark key="." line="168" column="79" />
+        <mark key="^" line="168" column="79" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533905428958">
         <mark key="'" line="0" column="0" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="27" filename="D:/dev/py_projects/dg_text/utils/data_util.py" />
       <jump line="59" column="20" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="56" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="46" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
@@ -301,13 +300,14 @@
       <jump line="141" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="170" column="34" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
       <jump line="155" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" />
+      <jump line="183" column="36" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm9iYTogVHJ1ZSB0byBwcmVkaWN0IHByb2JhYmlsaXRpZXMgb2YgbGFiZWxzIGluc3RlYWQgbGFiZWwK</text>
