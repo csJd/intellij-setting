@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533909804558">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -122,7 +116,6 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="D:/opt/miniconda3/envs/ml/Lib/site-packages/gensim/models/word2vec.py" timestamp="1533043155877" />
       <file name="E:/scut/1st_year/bdp/zhihu_text/zh_spider/spiders/questions_spider.py" timestamp="1529665395171">
         <mark key="[" line="69" column="22" />
         <mark key="]" line="69" column="31" />
@@ -148,12 +141,11 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1533974299501">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534085652194">
         <mark key="'" line="183" column="36" />
-        <mark key="[" line="168" column="76" />
-        <mark key="]" line="168" column="79" />
-        <mark key="." line="168" column="79" />
-        <mark key="^" line="168" column="79" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533905428958">
         <mark key="'" line="0" column="0" />
@@ -303,8 +295,8 @@
       <jump line="183" column="36" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNsZiA9IFhHQkNsYXNzaWZpZXIoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -313,31 +305,31 @@
         <text encoding="base64">ICAgICAgICBwcm9iYTogVHJ1ZSB0byBwcmVkaWN0IHByb2JhYmlsaXRpZXMgb2YgbGFiZWxzIGluc3RlYWQgbGFiZWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIGNsZiA9IFhHQkNsYXNzaWZpZXIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsZi5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFhfdGVzdCA9IFhfc3RhY2tfdGVzdC5yZXNoYXBlKGxlbihwYXJhbXNfbGlzdCksIC0xKS50cmFuc3Bvc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHkgPSBucC5hc2FycmF5KGpvYmxpYi5sb2FkKGZyb21fcHJvamVjdF9yb290KCJkYXRhL3RyYWluX3NldF9kZi5wayIpKVsnY2xhc3MnXSkucmF2ZWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFggPSBYX3N0YWNrX3RyYWluLnJlc2hhcGUobGVuKHBhcmFtc19saXN0KSwgLTEpLnRyYW5zcG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIFhfdGVzdCA9IFhfc3RhY2tfdGVzdC5yZXNoYXBlKGxlbihwYXJhbXNfbGlzdCksIC0xKS50cmFuc3Bvc2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIHkgPSBucC5hc2FycmF5KGpvYmxpYi5sb2FkKGZyb21fcHJvamVjdF9yb290KCJkYXRhL3RyYWluX3NldF9kZi5wayIpKVsnY2xhc3MnXSkucmF2ZWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">ICAgIFggPSBYX3N0YWNrX3RyYWluLnJlc2hhcGUobGVuKHBhcmFtc19saXN0KSwgLTEpLnRyYW5zcG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcHJvYmE6Cg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
