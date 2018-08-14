@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534117476816">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -86,7 +80,7 @@
         <mark key="^" line="164" column="34" />
         <mark key="." line="164" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534117686324">
+      <file name="/Dummy.txt" timestamp="1534203789288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
@@ -147,12 +141,12 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534176777849">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="7" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534203754829">
+        <mark key="'" line="44" column="72" />
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="59" column="72" />
+        <mark key="." line="59" column="72" />
+        <mark key="^" line="59" column="72" />
       </file>
       <file name="D:/dev/py_projects/dg_text/utils/data_util.py" timestamp="1533905428958">
         <mark key="'" line="0" column="0" />
@@ -200,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="0" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="43" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
       <jump line="67" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/baseline.py" />
@@ -300,16 +293,17 @@
       <jump line="213" column="27" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="259" column="4" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
       <jump line="24" column="5" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
+      <jump line="44" column="72" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZGYgPSBwZC5EYXRhRnJhbWUoeV9wcmVkX3Byb2JhLCBjb2x1bW5zPVsnY2xhc3NfcHJvYl8nICsgc3RyKGkgKyAxKSBmb3IgaSBpbiByYW5nZShOX0NMQVNTRVMpXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeydDJzogWzFdfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
