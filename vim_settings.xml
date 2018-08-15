@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1532432739320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1534290443061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/dev/py_projects/dg_text/utils/path_util.py" timestamp="1532603458338">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="3" column="43" />
@@ -73,14 +76,14 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1534289647715">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/transformer.py" timestamp="1534290101848">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="171" column="18" />
-        <mark key="]" line="171" column="19" />
-        <mark key="^" line="171" column="18" />
-        <mark key="." line="171" column="19" />
+        <mark key="[" line="164" column="35" />
+        <mark key="]" line="164" column="35" />
+        <mark key="^" line="200" column="38" />
+        <mark key="." line="164" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534203789288">
+      <file name="/Dummy.txt" timestamp="1534290530875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="." line="0" column="54" />
@@ -122,12 +125,11 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="31" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1534083829304">
-        <mark key="'" line="157" column="4" />
-        <mark key="[" line="125" column="37" />
-        <mark key="]" line="125" column="37" />
-        <mark key="." line="125" column="37" />
-        <mark key="^" line="125" column="37" />
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/stacker.py" timestamp="1534290474624">
+        <mark key="'" line="160" column="4" />
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="82" column="27" />
+        <mark key="." line="82" column="27" />
       </file>
       <file name="D:/dev/py_projects/main/main.py" timestamp="1525746465513">
         <mark key="[" line="1" column="17" />
@@ -297,40 +299,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeydDJzogWzFdfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zX3R5cGUnOiBbJ2RjJywgJ2lkZiddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zX3R5cGUnOiBbJ2RjJywgJ2lkZiddLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKFgsICkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9maWxlLmNsb3NlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZmlsZS53cml0ZShzdHIoaSkgKyAiLCIgKyBzdHIobGFiZWwpICsgIlxuIikK</text>
+        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKFgsICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCBsYWJlbCBpbiBlbnVtZXJhdGUocHJlZCk6Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdF9maWxlLmNsb3NlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9maWxlLndyaXRlKCJpZCxjbGFzcyIgKyAiXG4iKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfZmlsZS53cml0ZShzdHIoaSkgKyAiLCIgKyBzdHIobGFiZWwpICsgIlxuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
