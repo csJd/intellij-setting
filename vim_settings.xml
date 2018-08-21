@@ -58,11 +58,11 @@
         <mark key="." line="124" column="10" />
         <mark key="^" line="124" column="10" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/proba_merger.py" timestamp="1534861228241">
-        <mark key="[" line="19" column="84" />
-        <mark key="]" line="19" column="84" />
-        <mark key="." line="19" column="84" />
-        <mark key="^" line="9" column="11" />
+      <file name="D:/dev/py_projects/dg_text/utils/proba_merger.py" timestamp="1534893699062">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="45" column="80" />
+        <mark key="." line="45" column="80" />
+        <mark key="^" line="47" column="85" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1533900985332">
         <mark key="[" line="116" column="8" />
@@ -305,11 +305,11 @@
       <jump line="26" column="0" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>0</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -324,31 +324,31 @@
         },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHN1bV9kZi5zaGFwZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBrX3RvX2Nzdihmcm9tX3Byb2plY3Rfcm9vdCgicHJvY2Vzc2VkX2RhdGEvY29tX3Jlc3VsdC9wcm9fcmNubl9ybm5fY25uX2F0dGVudGlvbl8wLjc5NC5wayIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgQWRkIHhnYiBtb2RlbAogICAgIyBjbGZzWyd4Z2InXSA9IFhHQkNsYXNzaWZpZXIobl9qb2JzPU5fSk9CUykKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQWRkIHhnYiBtb2RlbAogICAgIyBjbGZzWyd4Z2InXSA9IFhHQkNsYXNzaWZpZXIobl9qb2JzPU5fSk9CUykKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
