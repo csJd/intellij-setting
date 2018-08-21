@@ -58,6 +58,12 @@
         <mark key="." line="124" column="10" />
         <mark key="^" line="124" column="10" />
       </file>
+      <file name="D:/dev/py_projects/dg_text/utils/proba_merger.py" timestamp="1534859071574">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="31" column="51" />
+      </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1533900985332">
         <mark key="[" line="116" column="8" />
         <mark key="]" line="40" column="64" />
@@ -144,7 +150,7 @@
         <mark key="^" line="47" column="65" />
         <mark key="." line="47" column="65" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534809350197">
+      <file name="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_d.py" timestamp="1534858026253">
         <mark key="'" line="239" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -299,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -317,31 +323,31 @@
         },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdW1fZGYgKz0gcHJvYmFfZGYK</text>
+        <text encoding="base64">ICAgIHN1bV9kZi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1bV9kZiA9IGpvYmxpYi5sb2FkKHByb2JhX3VybHMpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHRzOgo=</text>
+        <text encoding="base64">ICAgIERhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdW1fZGYgKz0gcHJvYmFfZGYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1bV9kZiA9IGpvYmxpYi5sb2FkKHByb2JhX3VybHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
