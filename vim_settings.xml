@@ -58,11 +58,11 @@
         <mark key="." line="124" column="10" />
         <mark key="^" line="124" column="10" />
       </file>
-      <file name="D:/dev/py_projects/dg_text/utils/proba_merger.py" timestamp="1534859747074">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-        <mark key="^" line="36" column="29" />
+      <file name="D:/dev/py_projects/dg_text/utils/proba_merger.py" timestamp="1534861228241">
+        <mark key="[" line="19" column="84" />
+        <mark key="]" line="19" column="84" />
+        <mark key="." line="19" column="84" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="D:/dev/py_projects/dg_text/term_weighting_model/calc_weightings.py" timestamp="1533900985332">
         <mark key="[" line="116" column="8" />
@@ -305,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>]</text>
       </register>
       <register name="0" type="4">
         <text>{
