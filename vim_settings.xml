@@ -21,6 +21,12 @@
       <file name="/a.dummy" timestamp="1532656743116">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/dev/contest/dg_text/term_weighting_model/classifiers_d.py" timestamp="1535699496844">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="229" column="4" />
+        <mark key="." line="229" column="0" />
+      </file>
       <file name="D:/dev/py_projects/zhihu_text/zh_scrapy/zh_spider/spiders/questions_spider.py" timestamp="1529591112407">
         <mark key="[" line="24" column="22" />
         <mark key="]" line="25" column="3" />
@@ -77,7 +83,7 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532659058822">
+      <file name="/Dummy.txt" timestamp="1535699557451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
@@ -171,8 +177,8 @@
       <jump line="43" column="13" filename="D:/dev/py_projects/dg_text/term_weighting_model/classifiers_deng.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>M</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>M</text>
@@ -184,28 +190,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMR0JNQ2xhc3NpZmllciwgYXJnczogaW5pdGVkIGxnYm0gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMR0JNQ2xhc3NpZmllciwgYXJnczogaW5pdGVkIGxnYm0gbW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnbGVhcm5pbmdfcmF0ZSc6ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnYm9vc3RpbmdfdHlwZSc6ICdnYmR0JywK</text>
+        <text encoding="base64">ICAgICAgICAnbGVhcm5pbmdfcmF0ZSc6ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYm9vc3RpbmdfdHlwZSc6ICdnYmR0JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
